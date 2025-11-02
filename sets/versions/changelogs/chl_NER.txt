@@ -1,4 +1,249 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Emry, Lurker of the Loch added.
+Seize the Day added.
+Thirst for Knowledge added.
+Infested Chopper added.
+Infested Tank added.
+Blackblade Reforged added.
+Dreamstone Hedron added.
+Freki and Geri added.
+Red Orb Crystal added.
+Rishkar's Expertise added.
+Treasure added.
+
+Lesser Masticore removed.
+Loxodon Warhammer removed.
+Chaos Warp removed.
+Beast Within removed.
+Acquisition Octopus removed.
+Puppeteer of the Temen-ni-Gru removed.
+Sargasso removed.
+Gunslinger Style removed.
+Round Trip removed.
+
+Sol Ring
+
+Ichor Wellspring
+
+Swiftfoot Boots
+
+Prized Statue
+
+Expedition Map
+
+Frontier Bivouac
+
+Power Fist
+
+Hunter's Prowess
+
+Spine of Ish Sha
+
+Woodfall Primus
+
+Glen Elendra Archmage
+
+The Reaver Cleaver
+
+Magnetic Snuffler
+
+Blasphemous Act
+
+Forensic Gadgeteer
+
+Chishiro, the Shattered Blade
+
+Champion's Helm
+
+Darksteel Plate
+
+Lizard Blades
+
+Simic Growth Chamber
+
+Izzet Boilerworks
+
+Bountiful Landscape
+
+Rockfall Vale
+
+Hinterland Harbor
+
+Thornspire Verge
+
+Willowrush Verge
+
+Bala Ged Recovery
+
+Sink into Stupor
+
+Rogue's Passage
+
+Valakut Awakening
+
+Cascade Bluffs
+
+Rootbound Crag
+
+Riverpyre Verge
+
+Sulfur Falls
+
+Flooded Grove
+
+Agnus, Order Alchemist
+
+Blood-Goyle
+
+Engineer Style
+
+Ragtime
+
+Arius's Mad Ambition
+
+Cavaliere Angelo
+
+Infestant
+
+Echidna, Haughty Queen
+
+Exceed Style
+
+Fortuna Scarecrow
+
+I'M NOT LETTING YOU DIE!
+
+Isolated Phone
+
+Kat, Urban Witch
+cost: {1}{G} => {G}
+
+Nico's Workshop
+
+Red Empusa
+
+Sixth Hell: Gluttony
+
+Nero, Upstart Hunter
+
+Red Queen
+
+True Power
+
+Devilish Laboratory
+
+DMC Ride Armor
+
+Nico, Artisan of Arms
+
+Yamato Reconstruction
+
+The Bloody Palace
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Settle the Argument
+
+Trismagia
+
+Hell Antenora
+
+A Poison Tree
+
+Blood-Goyle
+
+The Despair Embodied
+
+Plant
+
+Sixth Hell: Gluttony
+
+Stylish Rank
+
+Stylish Ranks
+
+Devil Arm: Cavaliere-R
+cost: {1}{R} => {2}{R}
+rules_text: Trample, haste
+Equipped creature gets +2/+1 and has trample and haste.
+Equip {R}
+Crew 1 => Trample, haste
+Equipped creature gets +4/+3 and has trample and haste.
+Equip {R}
+Crew 1
+pt: 3/2 => 4/3
+
+Devil Arm: Gilgamesh
+cost: {2}{G} => {1}{G}
+rules_text: Equipped creature gets +1/+1.
+[i]Distorted Real Impact[/i] — {1}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. Activate only once each turn.
+Equip {1} => Equipped creature gets +1/+1.
+[i]Distorted Real Impact[/i] — {2}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. 
+Equip {1}
+
+Blue Rose
+cost: {1}{R} => {R}
+rules_text: Equipped creature has reach and first strike. As long as another Aura or Equipment is attached to it, it has double strike.
+{1}{R}: Equipped creature gets +1/+0 until end of turn. 
+Equip {3} => Equipped creature has reach and first strike. As long as another Aura or Equipment is attached to it, it has double strike.
+{R}: Equipped creature gets +1/+0 until end of turn. 
+Equip {2}
+
+Gerbera GP01
+rules_text: [i]Jocky[/i] — Equipped creature gains +1/+1 and has menace and “When this creature becomes blocked, it deals 1 damage to each creature blocking it.”
+[i]Stamen Ray[/i] — {1}, Sacrifice this artifact: Equipped creature gets +3/+3 until end of turn, then deals damage to target creature equal to its power. Excess damage is dealt to that creature's controller.
+Equip {2} => [i]Jocky[/i] — Equipped creature gets +2/+2 and has menace and “When this creature becomes blocked, it deals 2 damage to each creature blocking it.”
+[i]Stamen Ray[/i] — {1}, Sacrifice this artifact: Equipped creature gets +4/+4 until end of turn, then deals damage to target creature equal to its power. Excess damage is dealt to that creature's controller.
+Equip {1}{R}
+
+Overture
+rules_text: [i]Battery — [/i]Equipped creature gets +1/+1 and has trample.
+[i]Exploder — [/i]{1}, sacrifice this artifact: Target a player. If equipped creature would deal damage to that player this turn, it deals double that much damage instead.
+Equip {2} => [i]Battery — [/i]Equipped creature gets +2/+2 and has trample.
+[i]Exploder — [/i]{1}, sacrifice this artifact: Target a player. If equipped creature would deal damage to that player this turn, it deals double that much damage instead.
+Equip {2}
+
+Gilgamesh, Steel Impact
+rules_text: This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+This creature can't be blocked except by creatures with flying or reach. => This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+pt: 6/6 => 8/8
+
+Helter Skelter
+rules_text: [i]Drill Rig [/i]— Equipped creature gets +2/+0 and has trample and menace.
+[i]Drill Master [/i]—Whenever equipped creature deals combat damage to a player, you may pay {2} and sacrifice this Equipment. When you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.
+Equip {3} => [i]Drill Rig [/i]— Equipped creature gets +2/+2 and has trample and menace.
+[i]Drill Master [/i]—Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. When you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.
+Equip {2}
+
+Rawhide
+rules_text: [i]Side Winder[/i] — Equipped creature gets +1/+1, has reach, and can block an additional creature.
+[i]Loop the Loop[/i] — {1}, Sacrifice this artifact: Untap equipped creature. Until end of turn, that creature gets +3/+3, gains reach, can block two additional creatures, and can't be blocked except by three or more creatures.
+Equip {2} => [i]Side Winder[/i] — Equipped creature gets +2/+2, has reach, and can block an additional creature.
+[i]Loop the Loop[/i] — {1}, Sacrifice this artifact: Until end of turn, equipped creature gets +4/+4 and can't be blocked except by three or more creatures.
+Equip {2}
+
+Tomboy
+cost: {2} => {1}
+rules_text: [i]One Night Stand[/i] — Equipped creature gets +7/+7, has shroud, loses all other abilities, and can't gain abilities. [i](It can't be the target of spells or abilities, not even your own.)[/i]
+{1}, Sacrifice this artifact: Equipped creature gets +3/+3 and gains trample until end of turn.
+Equip {5} => [i]One Night Stand[/i] — Equipped creature gets +7/+7, has shroud, loses all other abilities, and can't gain abilities. [i](It can't be the target of spells or abilities, not even your own.)[/i]
+{1}, Sacrifice this Equipment: If it was attached to a creature, draw a card. If that creature had power 7 or greater [i](after sacrificing this)[/i], draw another card.
+Equip {5}
+
+Goliath, Incandescent Colossus
+cost: {2}{G} => {3}{G}
+rules_text: [i]Melt Slag — [/i]Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Goliath.
+[i]Devouring Vortex[/i] — {1}{G}, sacrifice an artifact: Goliath fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i] => [i]Melt Slag — [/i]Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Goliath.
+[i]Devouring Vortex[/i] — Whenever Goliath deals combat damage to a player, you may sacrifice an artifact. If you do, destroy target artifact or enchantment defending player controls.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
