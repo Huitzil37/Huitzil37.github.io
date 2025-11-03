@@ -1,4 +1,225 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Sword of the Animist added.
+Jhoira, Weatherlight Captain added.
+Genji Glove added.
+Solemn Simulacrum added.
+Akki Battle Squad added.
+Desynchronization added.
+Red XIII, Proud Warrior added.
+
+Evolving Wilds removed.
+Expedition Map removed.
+Magnetic Snuffler removed.
+Forensic Gadgeteer removed.
+Seize the Day removed.
+Dreamstone Hedron removed.
+Red Orb Crystal removed.
+
+Fire-Lit Thicket
+
+Dreamroot Cascade
+
+Stormcarved Coast
+
+Gruul Turf
+
+Sol Ring
+
+Ichor Wellspring
+
+Swiftfoot Boots
+
+Prized Statue
+
+Frontier Bivouac
+
+Power Fist
+
+Hunter's Prowess
+
+Spine of Ish Sha
+
+Woodfall Primus
+
+Glen Elendra Archmage
+
+The Reaver Cleaver
+
+Blasphemous Act
+
+Chishiro, the Shattered Blade
+
+Champion's Helm
+
+Darksteel Plate
+
+Lizard Blades
+
+Simic Growth Chamber
+
+Izzet Boilerworks
+
+Bountiful Landscape
+
+Rockfall Vale
+
+Hinterland Harbor
+rules_text:  => {T}: Add {G} or {U}
+
+Thornspire Verge
+
+Willowrush Verge
+
+Bala Ged Recovery
+
+Sink into Stupor
+
+Rogue's Passage
+
+Valakut Awakening
+
+Cascade Bluffs
+
+Rootbound Crag
+
+Riverpyre Verge
+
+Sulfur Falls
+
+Flooded Grove
+
+Emry, Lurker of the Loch
+
+Agnus, Order Alchemist
+
+Blood-Goyle
+
+Engineer Style
+
+Ragtime
+
+Arius's Mad Ambition
+
+Cavaliere Angelo
+
+Infestant
+
+Echidna, Haughty Queen
+
+Exceed Style
+
+Fortuna Scarecrow
+
+I'M NOT LETTING YOU DIE!
+
+Isolated Phone
+
+Kat, Urban Witch
+
+Nico's Workshop
+
+Red Empusa
+
+Sixth Hell: Gluttony
+
+True Power
+
+Devilish Laboratory
+
+DMC Ride Armor
+
+Nico, Artisan of Arms
+
+Yamato Reconstruction
+
+The Bloody Palace
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Settle the Argument
+
+Trismagia
+
+Hell Antenora
+
+A Poison Tree
+
+Blood-Goyle
+
+The Despair Embodied
+
+Plant
+
+Sixth Hell: Gluttony
+
+Thirst for Knowledge
+
+Infested Tank
+rules_text: Trample
+[i]Assimilate Weapons -- [/i]Whenever this Vehicle becomes a creature, attach any number of target Equipment to it. [i](Control of them doesn't change and they'll fall off when this is no longer a creature.)[/i]
+Crew 3 => Trample
+[i]Assimilate Weapons -- [/i]Whenever this Vehicle becomes a creature, attach any number of target Equipment to it. [i](Control of them doesn't change and they'll fall off when this is no longer a creature.)[/i]
+Crew 2
+
+Blackblade Reforged
+
+Freki and Geri
+
+Rishkar's Expertise
+
+Stylish Rank
+
+Stylish Ranks
+
+Devil Arm: Cavaliere-R
+
+Devil Arm: Gilgamesh
+
+Blue Rose
+
+Gerbera GP01
+
+Overture
+
+Gilgamesh, Steel Impact
+
+Helter Skelter
+
+Rawhide
+
+Tomboy
+
+Goliath, Incandescent Colossus
+
+Treasure
+
+Nero, Upstart Hunter
+rules_text: Haste, reach
+Whenever Nero attacks, you may cast an Aura or Equipment spell with mana value less than his power without paying its mana cost, then attach it to him. At the beginning of your next end step, you may pay that permanent's mana cost. If you don't pay, sacrifice it, draw a card, and gain a Stylish Rank. 
+Devil Hunter => Haste, reach
+[i]Devil Breaker - [/i]At the beginning of your combat, you may cast an Aura or Equipment spell with mana value less Nero's power without paying its mana cost, then attach it to him. At the beginning of your next end step, sacrifice that permanent, put a +1/+1 counter on Nero, and draw a card.
+Devil Hunter
+
+Red Queen
+rules_text: [i]EX-Act — [/i]Equipped creature gets +1/+1 and has trample and “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.”
+[i]Double Down[/i]— Remove three counters from equipped creature: Equipped creature gains double strike until end of turn.
+Equip {2} => Equipped creature has trample.
+[i]EX[/i] [i]Streak [/i]— Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
+Equip {3}
+
+Infested Chopper
+rules_text: Flying, lifelink, persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Crew 3 => Flying, lifelink, persist [i](When this permanent is put into a graveyard from the battlefield, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Crew 2
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Emry, Lurker of the Loch added.
