@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "KYR",
+            "set_name": "DMC Precon - We Shall Never Surrender",
+            "formats": "EDH"
+        },
+        {
             "set_code": "NER",
             "set_name": "DMC Precon - Pull My Devil Trigger",
             "formats": "EDH"

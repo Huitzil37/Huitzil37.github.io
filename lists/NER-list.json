@@ -17,14 +17,14 @@
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "81"
+        "position": "77"
     },
     {
         "card_name": "Devil Arm: Gilgamesh",
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "93"
+        "position": "89"
     },
     {
         "card_name": "e"
@@ -44,24 +44,24 @@
         "number": 12,
         "shape": "battle split",
         "set": "NER",
-        "position": "55"
+        "position": "54"
     },
     {
         "card_name": "Echidna, Haughty Queen",
         "number": 22,
         "shape": "normal",
         "set": "NER",
-        "position": "58"
+        "position": "56"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Blood-Goyle",
+        "card_name": "Blood-Goyle Token",
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "80"
+        "position": "76"
     },
     {
         "card_name": "e"
@@ -84,11 +84,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Emry, Lurker of the Loch",
-        "number": 4,
+        "card_name": "Blood-Goyle",
+        "number": 2,
         "shape": "normal",
         "set": "NER",
-        "position": "41"
+        "position": "52"
     },
     {
         "card_name": "e"
@@ -103,6 +103,33 @@
     {
         "card_name": "I'M NOT LETTING YOU DIE!",
         "number": 29,
+        "shape": "normal",
+        "set": "NER",
+        "position": "59"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Emry, Lurker of the Loch",
+        "number": 4,
+        "shape": "normal",
+        "set": "NER",
+        "position": "41"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Reaver Cleaver",
+        "number": 21,
+        "shape": "normal",
+        "set": "NER",
+        "position": "18"
+    },
+    {
+        "card_name": "Nico's Workshop",
+        "number": 32,
         "shape": "normal",
         "set": "NER",
         "position": "61"
@@ -121,38 +148,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "The Reaver Cleaver",
-        "number": 21,
-        "shape": "normal",
-        "set": "NER",
-        "position": "18"
-    },
-    {
-        "card_name": "Nico's Workshop",
-        "number": 32,
-        "shape": "normal",
-        "set": "NER",
-        "position": "64"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Ragtime",
-        "number": 7,
-        "shape": "normal",
-        "set": "NER",
-        "position": "54"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Devil Arm: Cavaliere-R",
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "92"
+        "position": "88"
     },
     {
         "card_name": "Power Fist",
@@ -165,11 +165,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Settle the Argument",
-        "number": 8,
+        "card_name": "Ragtime",
+        "number": 7,
         "shape": "normal",
         "set": "NER",
-        "position": "76"
+        "position": "104"
     },
     {
         "card_name": "e"
@@ -179,7 +179,7 @@
         "number": 14,
         "shape": "normal",
         "set": "NER",
-        "position": "94"
+        "position": "90"
     },
     {
         "card_name": "Woodfall Primus",
@@ -192,11 +192,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Desynchronization",
-        "number": 3,
+        "card_name": "Settle the Argument",
+        "number": 8,
         "shape": "normal",
         "set": "NER",
-        "position": "108"
+        "position": "72"
     },
     {
         "card_name": "e"
@@ -206,24 +206,24 @@
         "number": 15,
         "shape": "normal",
         "set": "NER",
-        "position": "56"
+        "position": "103"
     },
     {
         "card_name": "Exceed Style",
         "number": 23,
         "shape": "normal",
         "set": "NER",
-        "position": "59"
+        "position": "57"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Thirst for Knowledge",
-        "number": 9,
+        "card_name": "Desynchronization",
+        "number": 3,
         "shape": "normal",
         "set": "NER",
-        "position": "85"
+        "position": "101"
     },
     {
         "card_name": "e"
@@ -233,24 +233,24 @@
         "number": 16,
         "shape": "normal",
         "set": "NER",
-        "position": "95"
+        "position": "91"
     },
     {
         "card_name": "Gilgamesh, Steel Impact",
         "number": 25,
         "shape": "normal",
         "set": "NER",
-        "position": "97"
+        "position": "92"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Trismagia",
-        "number": 10,
+        "card_name": "Thirst for Knowledge",
+        "number": 9,
         "shape": "normal",
         "set": "NER",
-        "position": "77"
+        "position": "81"
     },
     {
         "card_name": "e"
@@ -260,20 +260,24 @@
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "88"
+        "position": "84"
     },
     {
         "card_name": "Goliath, Incandescent Colossus",
         "number": 26,
         "shape": "normal",
         "set": "NER",
-        "position": "101"
+        "position": "108"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Trismagia",
+        "number": 10,
+        "shape": "normal",
+        "set": "NER",
+        "position": "73"
     },
     {
         "card_name": "e"
@@ -283,14 +287,14 @@
         "number": 11,
         "shape": "normal",
         "set": "NER",
-        "position": "107"
+        "position": "100"
     },
     {
         "card_name": "Helter Skelter",
         "number": 27,
         "shape": "normal",
         "set": "NER",
-        "position": "98"
+        "position": "93"
     },
     {
         "card_name": "e"
@@ -306,14 +310,14 @@
         "number": 17,
         "shape": "normal",
         "set": "NER",
-        "position": "78"
+        "position": "74"
     },
     {
         "card_name": "Isolated Phone",
         "number": 30,
         "shape": "normal",
         "set": "NER",
-        "position": "62"
+        "position": "106"
     },
     {
         "card_name": "e"
@@ -329,14 +333,14 @@
         "number": 18,
         "shape": "normal",
         "set": "NER",
-        "position": "57"
+        "position": "55"
     },
     {
         "card_name": "Kat, Urban Witch",
         "number": 31,
         "shape": "normal",
         "set": "NER",
-        "position": "63"
+        "position": "60"
     },
     {
         "card_name": "e"
@@ -352,14 +356,14 @@
         "number": 20,
         "shape": "normal",
         "set": "NER",
-        "position": "96"
+        "position": "107"
     },
     {
         "card_name": "A Poison Tree",
         "number": 33,
         "shape": "saga",
         "set": "NER",
-        "position": "79"
+        "position": "75"
     },
     {
         "card_name": "e"
@@ -378,7 +382,7 @@
         "number": 35,
         "shape": "normal",
         "set": "NER",
-        "position": "99"
+        "position": "109"
     },
     {
         "card_name": "e"
@@ -397,7 +401,7 @@
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "82"
+        "position": "78"
     },
     {
         "card_name": "e"
@@ -412,11 +416,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sixth Hell: Gluttony",
+        "card_name": "Sixth Hell: Gluttony Token",
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "83"
+        "position": "79"
     },
     {
         "card_name": "e"
@@ -435,7 +439,7 @@
         "number": 24,
         "shape": "normal",
         "set": "NER",
-        "position": "60"
+        "position": "58"
     },
     {
         "card_name": "e"
@@ -454,7 +458,7 @@
         "number": 36,
         "shape": "normal",
         "set": "NER",
-        "position": "65"
+        "position": "62"
     },
     {
         "card_name": "e"
@@ -473,7 +477,26 @@
         "number": 37,
         "shape": "normal",
         "set": "NER",
-        "position": "89"
+        "position": "85"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sixth Hell: Gluttony",
+        "number": 38,
+        "shape": "normal",
+        "set": "NER",
+        "position": "63"
     },
     {
         "card_name": "er"
@@ -502,7 +525,7 @@
         "number": 44,
         "shape": "normal",
         "set": "NER",
-        "position": "103"
+        "position": "96"
     },
     {
         "card_name": "e"
@@ -521,7 +544,7 @@
         "number": 48,
         "shape": "normal",
         "set": "NER",
-        "position": "67"
+        "position": "105"
     },
     {
         "card_name": "e"
@@ -559,7 +582,7 @@
         "number": 46,
         "shape": "normal",
         "set": "NER",
-        "position": "104"
+        "position": "97"
     },
     {
         "card_name": "e"
@@ -578,7 +601,7 @@
         "number": 47,
         "shape": "normal",
         "set": "NER",
-        "position": "109"
+        "position": "102"
     },
     {
         "card_name": "e"
@@ -619,7 +642,7 @@
         "number": 42,
         "shape": "normal",
         "set": "NER",
-        "position": "69"
+        "position": "65"
     },
     {
         "card_name": "e"
@@ -638,7 +661,7 @@
         "number": 45,
         "shape": "normal",
         "set": "NER",
-        "position": "70"
+        "position": "66"
     },
     {
         "card_name": "e"
@@ -657,7 +680,7 @@
         "number": 41,
         "shape": "normal",
         "set": "NER",
-        "position": "68"
+        "position": "64"
     },
     {
         "card_name": "er"
@@ -674,14 +697,14 @@
     "a->colorless",
     {
         "card_name": "Champion's Helm",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "NER",
         "position": "22"
     },
     {
         "card_name": "Darksteel Plate",
-        "number": 52,
+        "number": 53,
         "shape": "normal",
         "set": "NER",
         "position": "23"
@@ -705,14 +728,14 @@
         "number": 55,
         "shape": "normal",
         "set": "NER",
-        "position": "105"
+        "position": "98"
     },
     {
         "card_name": "Infested Tank",
         "number": 56,
         "shape": "normal",
         "set": "NER",
-        "position": "86"
+        "position": "82"
     },
     {
         "card_name": "Prized Statue",
@@ -747,35 +770,35 @@
         "number": 63,
         "shape": "normal",
         "set": "NER",
-        "position": "100"
+        "position": "94"
     },
     {
         "card_name": "Yamato Reconstruction",
         "number": 64,
         "shape": "normal",
         "set": "NER",
-        "position": "71"
+        "position": "67"
     },
     {
         "card_name": "Stylish Rank",
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "90"
+        "position": "86"
     },
     {
         "card_name": "Stylish Ranks",
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "91"
+        "position": "87"
     },
     {
         "card_name": "Treasure",
         "number": 0,
         "shape": "normal",
         "set": "NER",
-        "position": "102"
+        "position": "95"
     },
     {
         "card_name": "Arcane Signet",
@@ -789,21 +812,21 @@
         "number": 50,
         "shape": "normal",
         "set": "NER",
-        "position": "87"
+        "position": "83"
     },
     {
-        "card_name": "Genji Glove",
-        "number": 53,
+        "card_name": "Buster Arm",
+        "number": 51,
         "shape": "normal",
         "set": "NER",
-        "position": "84"
+        "position": "80"
     },
     {
         "card_name": "Solemn Simulacrum",
         "number": 59,
         "shape": "normal",
         "set": "NER",
-        "position": "106"
+        "position": "99"
     },
     {
         "card_name": "e"
@@ -856,7 +879,7 @@
         "number": 87,
         "shape": "normal",
         "set": "NER",
-        "position": "74"
+        "position": "70"
     },
     {
         "card_name": "e"
@@ -866,14 +889,14 @@
         "number": 90,
         "shape": "normal",
         "set": "NER",
-        "position": "75"
+        "position": "71"
     },
     {
         "card_name": "Red Grave Ruin",
         "number": 78,
         "shape": "normal",
         "set": "NER",
-        "position": "73"
+        "position": "69"
     },
     {
         "card_name": "er"
@@ -1131,7 +1154,7 @@
         "number": 67,
         "shape": "normal",
         "set": "NER",
-        "position": "72"
+        "position": "68"
     },
     {
         "card_name": "Bountiful Landscape",
@@ -1222,35 +1245,35 @@
     },
     {
         "card_name": "Mountain",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "NER",
         "position": "45"
     },
     {
         "card_name": "Mountain",
-        "number": 95,
+        "number": 97,
         "shape": "normal",
         "set": "NER",
         "position": "46"
     },
     {
         "card_name": "Mountain",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "NER",
         "position": "47"
     },
     {
         "card_name": "Forest",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "NER",
         "position": "48"
     },
     {
         "card_name": "Forest",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "NER",
         "position": "49"

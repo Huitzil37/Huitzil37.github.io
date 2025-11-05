@@ -336,7 +336,7 @@
             "number": 39,
             "color_identity": "G",
             "cost": "{5}{G}{G}{G}",
-            "rules_text": "Trample\n\nWhen this creature enters, destroy target noncreature permanent.\n\nPersist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]",
+            "rules_text": "Trample\nWhen this creature enters, destroy target noncreature permanent.\nPersist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -436,7 +436,7 @@
             "number": 40,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "Whenever an Aura or Equipment you control enters, create a 2/2 red Spirit creature token with menace.\n\nAt the beginning of your end step, put a +1/+1 counter on each modified creature you control. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
+            "rules_text": "Whenever an Aura or Equipment you control enters, create a 2/2 red Spirit creature token with menace.\nAt the beginning of your end step, put a +1/+1 counter on each modified creature you control. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -453,7 +453,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
-            "number": 51,
+            "number": 52,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Equipped creature gets +2/+2.\n\nAs long as equipped creature is legendary, it has hexproof. [i](It can't be the target of spells or abilities your opponents control.)[/i]\n\nEquip cost{1}",
@@ -473,7 +473,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
-            "number": 52,
+            "number": 53,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Indestructible\n\nEquipped creature has indestructible.\n\nEquip cost{2}",
@@ -913,7 +913,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 97,
+            "number": 96,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -933,7 +933,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 95,
+            "number": 97,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -953,7 +953,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 96,
+            "number": 95,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -973,7 +973,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 98,
+            "number": 99,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -993,7 +993,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 99,
+            "number": 98,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -1089,26 +1089,6 @@
             "notes": ""
         },
         {
-            "card_name": "Ragtime",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "NI Artifact \u2014 Equipment",
-            "number": 7,
-            "color_identity": "U",
-            "cost": "{1}{U}{U}",
-            "rules_text": "[i]Slow Sphere[/i] \u2014 Whenever you declare blockers, if equipped creature isn't blocking, you may have it block a creature of your choice that's attacking you. [i](It doesn't target and the block doesn't have to be legal.)[/i] \n[i]Slow World[/i] \u2014 {3}, sacrifice this artifact: Equipped creature gets +1/+1 and gains \u201ccreatures your opponents control lose all abilities\u201d until end of turn.\nEquip {1}{U}",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Ilya Bondarenko",
-            "alias": "",
-            "position": "54",
-            "notes": "Patched (lowered P/T buff and increased cost on Break Age effect, added cost to Slow Sphere)"
-        },
-        {
             "card_name": "Arius's Mad Ambition",
             "color": "R",
             "rarity": "rare",
@@ -1125,28 +1105,8 @@
             "loyalty": "5",
             "artist": "Antonio Stappaerts",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "Patched (Don't draw an extra card on ETB, The Despair Embodied no longer has Wither)"
-        },
-        {
-            "card_name": "Cavaliere Angelo",
-            "color": "R",
-            "rarity": "uncommon",
-            "type": "NE Legendary Creature \u2014 Demon Knight",
-            "number": 15,
-            "color_identity": "R",
-            "cost": "{2}{R}",
-            "rules_text": "[i]Electromagnetic[/i] \u2014 Whenever this creature attacks or blocks, it gets +2/+2 until end of turn for each artifact defending player controls [i](when blocking, that's you)[/i].\n[i]Devil Arm[/i] \u2014 When this creature dies, exile it. While it's exiled, you may cast its other face.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Silvia Melinali",
-            "alias": "",
-            "position": "56",
-            "notes": "New\n\nThis is a Demon and not a Devil because Trish is inside it"
         },
         {
             "card_name": "Infestant",
@@ -1165,7 +1125,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "57",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1185,7 +1145,7 @@
             "loyalty": "",
             "artist": "Rayden Chen",
             "alias": "",
-            "position": "58",
+            "position": "56",
             "notes": "Patched (no longer triggers on block)\n\nNero"
         },
         {
@@ -1205,7 +1165,7 @@
             "loyalty": "",
             "artist": "William Liu",
             "alias": "",
-            "position": "59",
+            "position": "57",
             "notes": "Nero"
         },
         {
@@ -1225,7 +1185,7 @@
             "loyalty": "",
             "artist": "Romanoc Pavel",
             "alias": "",
-            "position": "60",
+            "position": "58",
             "notes": "Nico"
         },
         {
@@ -1245,28 +1205,8 @@
             "loyalty": "",
             "artist": "Marat Ars",
             "alias": "",
-            "position": "61",
+            "position": "59",
             "notes": "new\n\nNero"
-        },
-        {
-            "card_name": "Isolated Phone",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "NI Artifact",
-            "number": 30,
-            "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "When this artifact enters, mill three cards, then return up to one target artifact or creature card from your graveyard to your hand.\nWhenever one or more artifact or creature cards leave your graveyard, put a +1/+1 counter on up to one target creature.",
-            "flavor_text": "[i]Whenever Nero needed a resupply, he seemed to find one of these. Don't ask me how they still worked.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Akim Kaliberda",
-            "alias": "",
-            "position": "62",
-            "notes": "New\n\nNico"
         },
         {
             "card_name": "Kat, Urban Witch",
@@ -1277,15 +1217,15 @@
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Each artifact, enchantment, Demon, and Devil card in your hand has cycling {2}. [i]({2}, discard that card: Draw a card.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cA compound I created based on an old Wiccan recipe. Sea salt, shark oil, iron shavings, desiccated squirrel semen, wolf hair...\u201d[/i]",
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "NER",
             "loyalty": "",
-            "artist": "",
+            "artist": "peperon",
             "alias": "",
-            "position": "63",
+            "position": "60",
             "notes": "NEW\n\nNico or V?"
         },
         {
@@ -1305,7 +1245,7 @@
             "loyalty": "",
             "artist": "Gribabos",
             "alias": "",
-            "position": "64",
+            "position": "61",
             "notes": "Total revamp\n\nNico"
         },
         {
@@ -1325,7 +1265,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "65",
+            "position": "62",
             "notes": "patched (color), simple\n\nGeneral"
         },
         {
@@ -1345,28 +1285,8 @@
             "loyalty": "",
             "artist": "Lee Woo-Chul",
             "alias": "",
-            "position": "66",
+            "position": "63",
             "notes": "New\n\nNico"
-        },
-        {
-            "card_name": "True Power",
-            "color": "RG",
-            "rarity": "mythic",
-            "type": "Legendary Enchantment \u2014 Aura",
-            "number": 48,
-            "color_identity": "RG",
-            "cost": "{R}{R}{G}{G}",
-            "rules_text": "Flash\nEnchant red or green creature you control\n[i]\u201cI won't let you kill each other.\u201d \u2014 [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power divided among up to two target creatures. If one of them would die this turn, return it to its owner's hand instead.\n[i]\u201cDo you have a problem with that?\u201d[/i] \u2014 Enchanted creature gets +2/+2 and has haste and trample.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Agri Karuniawan",
-            "alias": "",
-            "position": "67",
-            "notes": "Patched (total revamp)"
         },
         {
             "card_name": "Devilish Laboratory",
@@ -1376,7 +1296,7 @@
             "number": 41,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "When this artifact enters, move a counter from any number of target creatures onto this artifact.\nWhen this artifact is put into a graveyard from the battlefield, draw a card for each counter on it, then move all of those counters onto target creature.",
+            "rules_text": "When this artifact enters, move a counter from any number of target creatures onto this artifact.\nWhen this artifact is put into a graveyard from the battlefield, draw a card for each counter on it, then put all of those counters on target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1385,7 +1305,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "68",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1405,7 +1325,7 @@
             "loyalty": "",
             "artist": "Akagi",
             "alias": "",
-            "position": "69",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1425,7 +1345,7 @@
             "loyalty": "",
             "artist": "Tropa Entertainment",
             "alias": "",
-            "position": "70",
+            "position": "66",
             "notes": "Patched (Redesigned)"
         },
         {
@@ -1445,7 +1365,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "71",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1456,7 +1376,7 @@
             "number": 67,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When The Bloody Palace enters, gain a Stylish Rank.\n{T}: Add {C}.\n{3}, {T}: Gain a Stylish Rank.",
+            "rules_text": "When The Bloody Palace enters, gain a Stylish Rank.\n{T}: Add {C}.\n{2}, {T}: Gain a Stylish Rank.",
             "flavor_text": "[i]The legend continues...[/i]",
             "pt": "",
             "special_text": "",
@@ -1465,7 +1385,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "72",
+            "position": "68",
             "notes": "All Decks\n\nSub: God's Eye, Gate to the Reikai"
         },
         {
@@ -1476,7 +1396,7 @@
             "number": 78,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "This land enters tapped unless you have a Stylish Rank.\n{T}: Add {G}.\n{3}, {T}: Gain a Stylish Rank.",
+            "rules_text": "This land enters tapped unless you have a Stylish Rank.\n{T}: Add {G}.\n{2}, {T}: Gain a Stylish Rank.",
             "flavor_text": "[i]\u201c\u2014 They're demons! I've seen them with my own eyes! Red Grave is completely taken over!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1485,7 +1405,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "73",
+            "position": "69",
             "notes": "Bury the Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Sapseep Forest"
         },
         {
@@ -1496,7 +1416,7 @@
             "number": 87,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "This land enters tapped unless you have a Stylish Rank.\n{T}: Add {U}.\n{3}, {T}: Gain a Stylish Rank.",
+            "rules_text": "This land enters tapped unless you have a Stylish Rank.\n{T}: Add {U}.\n{2}, {T}: Gain a Stylish Rank.",
             "flavor_text": "[i]\u201cYou've heard of it, haven't you? The legend of Sparda?\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1505,7 +1425,7 @@
             "loyalty": "",
             "artist": "Mikas Jensen",
             "alias": "",
-            "position": "74",
+            "position": "70",
             "notes": "Bury The Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Moonring Island"
         },
         {
@@ -1516,7 +1436,7 @@
             "number": 90,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "This land enters tapped unless you have a Stylish Rank.\n{T}: Add {R}.\n{3}, {T}: Gain a Stylish Rank.",
+            "rules_text": "This land enters tapped unless you have a Stylish Rank.\n{T}: Add {R}.\n{2}, {T}: Gain a Stylish Rank.",
             "flavor_text": "[i]\u201cThere's a man who's transformed our land into a demon's paradise; his name is Arius.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1525,7 +1445,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "75",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1545,7 +1465,7 @@
             "loyalty": "",
             "artist": "Krillova Polina",
             "alias": "",
-            "position": "76",
+            "position": "72",
             "notes": "New"
         },
         {
@@ -1565,7 +1485,7 @@
             "loyalty": "",
             "artist": "Marat Ars",
             "alias": "",
-            "position": "77",
+            "position": "73",
             "notes": "patched (totally new)"
         },
         {
@@ -1585,7 +1505,7 @@
             "loyalty": "",
             "artist": "Tim Mcburnie",
             "alias": "",
-            "position": "78",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1605,16 +1525,16 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "79",
+            "position": "75",
             "notes": "Patched\n\nNero or V?"
         },
         {
-            "card_name": "Blood-Goyle",
+            "card_name": "Blood-Goyle Token",
             "color": "U",
             "rarity": "uncommon",
             "type": "Token Artifact Creature \u2014 Blood Gargoyle",
             "number": 0,
-            "color_identity": "U",
+            "color_identity": "C",
             "cost": "",
             "rules_text": "Flying\n{1}, {T}, discard a card, sacrifice this creature: Draw a card.\n[i](This token's mana cost is {4}{U}.)[/i]",
             "flavor_text": "[i][/i]",
@@ -1625,7 +1545,7 @@
             "loyalty": "",
             "artist": "Jiwon Kim",
             "alias": "",
-            "position": "80",
+            "position": "76",
             "notes": "New\n\n\n- Nico"
         },
         {
@@ -1634,7 +1554,7 @@
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demon Horror",
             "number": 0,
-            "color_identity": "R",
+            "color_identity": "C",
             "cost": "",
             "rules_text": "Flying, haste, menace\nYour opponents can't gain life. Damage dealt by sources you control can't be prevented.\nWhenever The Despair Embodied enters or attacks, it deals 2 damage to each opponent and each creature they control.",
             "flavor_text": "[i][/i]",
@@ -1645,7 +1565,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 2",
             "alias": "",
-            "position": "81",
+            "position": "77",
             "notes": "Patched (Don't draw an extra card on ETB, The Despair Embodied no longer has Wither)"
         },
         {
@@ -1654,7 +1574,7 @@
             "rarity": "common",
             "type": "Token Creature \u2014 Plant",
             "number": 0,
-            "color_identity": "G",
+            "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, exile this creature: Put a +1/+1 counter on target creature.",
             "flavor_text": "[i][/i]",
@@ -1665,16 +1585,16 @@
             "loyalty": "",
             "artist": "CAPCIOM",
             "alias": "",
-            "position": "82",
+            "position": "78",
             "notes": ""
         },
         {
-            "card_name": "Sixth Hell: Gluttony",
+            "card_name": "Sixth Hell: Gluttony Token",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Devil Sand Spirit",
             "number": 0,
-            "color_identity": "G",
+            "color_identity": "C",
             "cost": "",
             "rules_text": "If one or more +1/+1 counters would be put on this creature, that many plus one of those counters are put on it instead.\n[i](This token's mana cost is {G}.)[/i]",
             "flavor_text": "[i][/i]",
@@ -1685,27 +1605,27 @@
             "loyalty": "",
             "artist": "Lee Woo-Chul",
             "alias": "",
-            "position": "83",
+            "position": "79",
             "notes": ""
         },
         {
-            "card_name": "Genji Glove",
+            "card_name": "Buster Arm",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 53,
+            "number": 51,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Equipped creature has double strike.\nWhenever equipped creature attacks, if it's the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.\nEquip cost{3}",
+            "rules_text": "Equipped creature has double strike.\nWhenever equipped creature attacks, if it's the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "NER",
             "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "84",
+            "artist": "CAPCOM",
+            "alias": "Genji Glove",
+            "position": "80",
             "notes": "reskin as Buster Arm"
         },
         {
@@ -1725,7 +1645,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "85",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1745,7 +1665,7 @@
             "loyalty": "",
             "artist": "Marcus Reyno",
             "alias": "",
-            "position": "86",
+            "position": "82",
             "notes": "New"
         },
         {
@@ -1765,7 +1685,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "87",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1774,7 +1694,7 @@
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Demon Dog",
             "number": 0,
-            "color_identity": "R",
+            "color_identity": "C",
             "cost": "",
             "rules_text": "Menace",
             "flavor_text": "[i][/i]",
@@ -1785,7 +1705,7 @@
             "loyalty": "",
             "artist": "Romanov Pavel",
             "alias": "",
-            "position": "88",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1805,7 +1725,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "89",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1825,7 +1745,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "90",
+            "position": "86",
             "notes": "\n\nPatched"
         },
         {
@@ -1845,7 +1765,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "91",
+            "position": "87",
             "notes": "Patched"
         },
         {
@@ -1856,7 +1776,7 @@
             "number": 0,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample, haste\nEquipped creature gets +4/+3 and has trample and haste.\nEquip {R}\nCrew 1",
+            "rules_text": "Trample, haste\nEquipped creature gets +4/+3 and has trample and haste.\nEquip {1}{R}\nCrew 1",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1865,7 +1785,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "92",
+            "position": "88",
             "notes": "New"
         },
         {
@@ -1885,7 +1805,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "93",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1905,7 +1825,7 @@
             "loyalty": "",
             "artist": "Francis Tneh",
             "alias": "",
-            "position": "94",
+            "position": "90",
             "notes": "Patched (lowered equip cost)"
         },
         {
@@ -1925,27 +1845,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "95",
-            "notes": ""
-        },
-        {
-            "card_name": "Overture",
-            "color": "R",
-            "rarity": "common",
-            "type": "NE Artifact \u2014 Equipment",
-            "number": 20,
-            "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "[i]Battery \u2014 [/i]Equipped creature gets +2/+2 and has trample.\n[i]Exploder \u2014 [/i]{1}, sacrifice this artifact: Target a player. If equipped creature would deal damage to that player this turn, it deals double that much damage instead.\nEquip {2}",
-            "flavor_text": "[i]\u201cHappy birthday! NOW MAKE A WISH!\u201d[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "TEPPEN",
-            "alias": "",
-            "position": "96",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1965,7 +1865,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "97",
+            "position": "92",
             "notes": "New\n\nNico"
         },
         {
@@ -1976,7 +1876,7 @@
             "number": 27,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "[i]Drill Rig [/i]\u2014 Equipped creature gets +2/+2 and has trample and menace.\n[i]Drill Master [/i]\u2014Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. When you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.\nEquip {2}",
+            "rules_text": "[i]Drill Rig [/i]\u2014 Equipped creature gets +2/+2 and has trample and menace.\n[i]Drill Master [/i]\u2014Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. If you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1985,28 +1885,8 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "98",
+            "position": "93",
             "notes": "Patched (new)\n\nNero"
-        },
-        {
-            "card_name": "Rawhide",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "NE Artifact \u2014 Equipment",
-            "number": 35,
-            "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "[i]Side Winder[/i] \u2014 Equipped creature gets +2/+2, has reach, and can block an additional creature.\n[i]Loop the Loop[/i] \u2014 {1}, Sacrifice this artifact: Until end of turn, equipped creature gets +4/+4 and can't be blocked except by three or more creatures.\nEquip {2}",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Devil May Cry 5",
-            "alias": "",
-            "position": "99",
-            "notes": "Errata (attacks)\n\nNero"
         },
         {
             "card_name": "Tomboy",
@@ -2025,28 +1905,8 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "100",
+            "position": "94",
             "notes": "New\n\nNero"
-        },
-        {
-            "card_name": "Goliath, Incandescent Colossus",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "NI Legendary Creature \u2014 Demon",
-            "number": 26,
-            "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "[i]Melt Slag \u2014 [/i]Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Goliath.\n[i]Devouring Vortex[/i] \u2014 Whenever Goliath deals combat damage to a player, you may sacrifice an artifact. If you do, destroy target artifact or enchantment defending player controls.",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Alexey Gorbatov",
-            "alias": "",
-            "position": "101",
-            "notes": "Patched (revamp, not DFC)\n\nNico"
         },
         {
             "card_name": "Treasure",
@@ -2065,7 +1925,7 @@
             "loyalty": "",
             "artist": "Lee Woo-chul",
             "alias": "",
-            "position": "102",
+            "position": "95",
             "notes": ""
         },
         {
@@ -2076,7 +1936,7 @@
             "number": 44,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "Haste, reach\n[i]Devil Breaker - [/i]At the beginning of your combat, you may cast an Aura or Equipment spell with mana value less Nero's power without paying its mana cost, then attach it to him. At the beginning of your next end step, sacrifice that permanent, put a +1/+1 counter on Nero, and draw a card.\nDevil Hunter",
+            "rules_text": "Haste, reach\n[i]Devil Breaker - [/i]At the beginning of your combat, you may cast an Aura or Equipment spell with mana value less Nero's power without paying its mana cost. It enters attached to Nero. At the beginning of your next end step, sacrifice that permanent, put a +1/+1 counter on Nero, and draw a card.\nDevil Hunter",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2085,7 +1945,7 @@
             "loyalty": "",
             "artist": "Lucas Svedberg",
             "alias": "",
-            "position": "103",
+            "position": "96",
             "notes": "Patched (Lost Trample, gained Reach, has Breakers instead of MAX-Act)\n\nHelpful Note: Sacrificing the permanent is not a cost. If it's already gone, you can just draw the card!"
         },
         {
@@ -2105,7 +1965,7 @@
             "loyalty": "",
             "artist": "Yonek / Lifyen",
             "alias": "",
-            "position": "104",
+            "position": "97",
             "notes": "Patched (trample)\n\nNero"
         },
         {
@@ -2125,7 +1985,7 @@
             "loyalty": "",
             "artist": "@Professor_Vamp",
             "alias": "",
-            "position": "105",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2145,7 +2005,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "106",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2165,7 +2025,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "107",
+            "position": "100",
             "notes": ""
         },
         {
@@ -2185,7 +2045,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "108",
+            "position": "101",
             "notes": ""
         },
         {
@@ -2196,7 +2056,7 @@
             "number": 47,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Vigilance, trample\n\nOther modified creatures you control have vigilance and trample. [i](Equipment, Auras you control, and counters are modifications.)[/i]\n\nCosmo Memory \u2014 When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand.",
+            "rules_text": "Vigilance, trample\nOther modified creatures you control have vigilance and trample. [i](Equipment, Auras you control, and counters are modifications.)[/i]\n[i]Cosmo Memory[/i] \u2014 When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2205,8 +2065,148 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "109",
+            "position": "102",
             "notes": "RM16,Medium Creature,3,RG RG RG RG ,Red XIII, Proud Warrior"
+        },
+        {
+            "card_name": "Cavaliere Angelo",
+            "color": "R",
+            "rarity": "uncommon",
+            "type": "NE Legendary Creature \u2014 Demon Knight",
+            "number": 15,
+            "color_identity": "R",
+            "cost": "{2}{R}",
+            "rules_text": "Menace, reach\n[i]Electromagnetic[/i] \u2014 Whenever this creature attacks or blocks, it gets +2/+2 until end of turn for each artifact defending player controls [i](when blocking, that's you)[/i].\n[i]Devil Arm[/i] \u2014 When this creature dies, exile it. While it's exiled, you may cast its other face.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Silvia Melinali",
+            "alias": "",
+            "position": "103",
+            "notes": "New\n\nThis is a Demon and not a Devil because Trish is inside it"
+        },
+        {
+            "card_name": "Ragtime",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "NI Artifact \u2014 Equipment",
+            "number": 7,
+            "color_identity": "U",
+            "cost": "{1}{U}{U}",
+            "rules_text": "[i]Slow Sphere[/i] \u2014 Whenever you declare blockers, if equipped creature isn't blocking, you may have it block a creature of your choice that's attacking you. [i](It doesn't target and the block doesn't have to be legal.)[/i] \n[i]Slow World[/i] \u2014 {1}, sacrifice this Equipment: If it was attached to a creature, that creature gets +2/+2 until end of turn. Creatures your opponents control lose all abilities and have base power 0 until end of turn.\nEquip {U}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Ilya Bondarenko",
+            "alias": "",
+            "position": "104",
+            "notes": "Patched (lowered P/T buff and increased cost on Break Age effect, added cost to Slow Sphere)"
+        },
+        {
+            "card_name": "True Power",
+            "color": "RG",
+            "rarity": "mythic",
+            "type": "Legendary Enchantment \u2014 Aura",
+            "number": 48,
+            "color_identity": "RG",
+            "cost": "{R}{R}{G}{G}",
+            "rules_text": "Flash\nEnchant red or green creature you control\n[i]\u201cI won't let you kill each other.\u201d \u2014 [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power divided as you choose among up to two target creatures. If either would die this turn, return it to its owner's hand instead.\nEnchanted creature gets +2/+2 and has trample and haste.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Agri Karuniawan",
+            "alias": "",
+            "position": "105",
+            "notes": "Patched (total revamp)"
+        },
+        {
+            "card_name": "Isolated Phone",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "NI Artifact",
+            "number": 30,
+            "color_identity": "G",
+            "cost": "{2}{G}",
+            "rules_text": "When this artifact enters, mill three cards. When you do, return up to one target artifact or creature card from your graveyard to your hand.\nWhenever one or more artifact or creature cards leave your graveyard, put a +1/+1 counter on up to one target creature.",
+            "flavor_text": "[i]Whenever Nero needed a resupply, he seemed to find one of these. Don't ask me how they still worked.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Akim Kaliberda",
+            "alias": "",
+            "position": "106",
+            "notes": "New\n\nNico"
+        },
+        {
+            "card_name": "Overture",
+            "color": "R",
+            "rarity": "common",
+            "type": "NE Artifact \u2014 Equipment",
+            "number": 20,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "Equipped creature gets +2/+2 and has trample.\n[i]Exploder \u2014 [/i]{1}, Sacrifice this artifact: Choose target player. If equipped creature would deal damage to that player this turn, it deals double that much damage instead.\nEquip {2}",
+            "flavor_text": "[i]\u201cHappy birthday! NOW MAKE A WISH!\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "TEPPEN",
+            "alias": "",
+            "position": "107",
+            "notes": ""
+        },
+        {
+            "card_name": "Goliath, Incandescent Colossus",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "NI Legendary Creature \u2014 Demon",
+            "number": 26,
+            "color_identity": "G",
+            "cost": "{3}{G}",
+            "rules_text": "[i]Melt Slag \u2014 [/i]Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Goliath.\n[i]Devouring Vortex[/i] \u2014 Whenever Goliath deals combat damage to a player, you may destroy target artifact or enchantment that player controls.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Alexey Gorbatov",
+            "alias": "",
+            "position": "108",
+            "notes": "Patched (revamp, not DFC)\n\nNico"
+        },
+        {
+            "card_name": "Rawhide",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "NE Artifact \u2014 Equipment",
+            "number": 35,
+            "color_identity": "G",
+            "cost": "{2}{G}",
+            "rules_text": "[i]Side Winder[/i] \u2014 Equipped creature gets +2/+2, has reach, and can block an additional creature.\n[i]Loop the Loop[/i] \u2014 {1}, Sacrifice this artifact: Untap equipped creature. Until end of turn, equipped creature gets +4/+4 and has reach and \u201cWhenever this creature deals combat damage, it deals that much damage to target creature.\u201d\nEquip {2}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Devil May Cry 5",
+            "alias": "",
+            "position": "109",
+            "notes": "Errata (attacks)\n\nNero"
         }
     ]
 }

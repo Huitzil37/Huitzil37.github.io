@@ -1,4 +1,216 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Blood-Goyle Token added.
+Sixth Hell: Gluttony Token added.
+Buster Arm added.
+
+Blood-Goyle removed.
+Sixth Hell: Gluttony removed.
+Genji Glove removed.
+
+Woodfall Primus
+rules_text: Trample
+
+When this creature enters, destroy target noncreature permanent.
+
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i] => Trample
+When this creature enters, destroy target noncreature permanent.
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+
+Chishiro, the Shattered Blade
+rules_text: Whenever an Aura or Equipment you control enters, create a 2/2 red Spirit creature token with menace.
+
+At the beginning of your end step, put a +1/+1 counter on each modified creature you control. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Whenever an Aura or Equipment you control enters, create a 2/2 red Spirit creature token with menace.
+At the beginning of your end step, put a +1/+1 counter on each modified creature you control. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Arius's Mad Ambition
+
+Infestant
+
+Echidna, Haughty Queen
+
+Exceed Style
+
+Fortuna Scarecrow
+
+I'M NOT LETTING YOU DIE!
+
+Kat, Urban Witch
+
+Nico's Workshop
+
+Red Empusa
+
+Sixth Hell: Gluttony
+
+Devilish Laboratory
+rules_text: When this artifact enters, move a counter from any number of target creatures onto this artifact.
+When this artifact is put into a graveyard from the battlefield, draw a card for each counter on it, then move all of those counters onto target creature. => When this artifact enters, move a counter from any number of target creatures onto this artifact.
+When this artifact is put into a graveyard from the battlefield, draw a card for each counter on it, then put all of those counters on target creature.
+
+DMC Ride Armor
+
+Nico, Artisan of Arms
+
+Yamato Reconstruction
+
+The Bloody Palace
+rules_text: When The Bloody Palace enters, gain a Stylish Rank.
+{T}: Add {C}.
+{3}, {T}: Gain a Stylish Rank. => When The Bloody Palace enters, gain a Stylish Rank.
+{T}: Add {C}.
+{2}, {T}: Gain a Stylish Rank.
+
+Red Grave Ruin
+rules_text: This land enters tapped unless you have a Stylish Rank.
+{T}: Add {G}.
+{3}, {T}: Gain a Stylish Rank. => This land enters tapped unless you have a Stylish Rank.
+{T}: Add {G}.
+{2}, {T}: Gain a Stylish Rank.
+
+Temen-ni-Gru Apex
+rules_text: This land enters tapped unless you have a Stylish Rank.
+{T}: Add {U}.
+{3}, {T}: Gain a Stylish Rank. => This land enters tapped unless you have a Stylish Rank.
+{T}: Add {U}.
+{2}, {T}: Gain a Stylish Rank.
+
+Vie de Marli
+rules_text: This land enters tapped unless you have a Stylish Rank.
+{T}: Add {R}.
+{3}, {T}: Gain a Stylish Rank. => This land enters tapped unless you have a Stylish Rank.
+{T}: Add {R}.
+{2}, {T}: Gain a Stylish Rank.
+
+Settle the Argument
+
+Trismagia
+
+Hell Antenora
+
+A Poison Tree
+
+The Despair Embodied
+
+Plant
+
+Thirst for Knowledge
+
+Infested Tank
+
+Blackblade Reforged
+
+Freki and Geri
+
+Rishkar's Expertise
+
+Stylish Rank
+
+Stylish Ranks
+
+Devil Arm: Cavaliere-R
+rules_text: Trample, haste
+Equipped creature gets +4/+3 and has trample and haste.
+Equip {R}
+Crew 1 => Trample, haste
+Equipped creature gets +4/+3 and has trample and haste.
+Equip {1}{R}
+Crew 1
+
+Devil Arm: Gilgamesh
+
+Blue Rose
+
+Gerbera GP01
+
+Gilgamesh, Steel Impact
+
+Helter Skelter
+rules_text: [i]Drill Rig [/i]— Equipped creature gets +2/+2 and has trample and menace.
+[i]Drill Master [/i]—Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. When you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.
+Equip {2} => [i]Drill Rig [/i]— Equipped creature gets +2/+2 and has trample and menace.
+[i]Drill Master [/i]—Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. If you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.
+Equip {2}
+
+Tomboy
+
+Treasure
+
+Nero, Upstart Hunter
+rules_text: Haste, reach
+[i]Devil Breaker - [/i]At the beginning of your combat, you may cast an Aura or Equipment spell with mana value less Nero's power without paying its mana cost, then attach it to him. At the beginning of your next end step, sacrifice that permanent, put a +1/+1 counter on Nero, and draw a card.
+Devil Hunter => Haste, reach
+[i]Devil Breaker - [/i]At the beginning of your combat, you may cast an Aura or Equipment spell with mana value less Nero's power without paying its mana cost. It enters attached to Nero. At the beginning of your next end step, sacrifice that permanent, put a +1/+1 counter on Nero, and draw a card.
+Devil Hunter
+
+Red Queen
+
+Infested Chopper
+
+Solemn Simulacrum
+
+Akki Battle Squad
+
+Desynchronization
+
+Red XIII, Proud Warrior
+rules_text: Vigilance, trample
+
+Other modified creatures you control have vigilance and trample. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Cosmo Memory — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand. => Vigilance, trample
+Other modified creatures you control have vigilance and trample. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+[i]Cosmo Memory[/i] — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand.
+
+Cavaliere Angelo
+rules_text: [i]Electromagnetic[/i] — Whenever this creature attacks or blocks, it gets +2/+2 until end of turn for each artifact defending player controls [i](when blocking, that's you)[/i].
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face. => Menace, reach
+[i]Electromagnetic[/i] — Whenever this creature attacks or blocks, it gets +2/+2 until end of turn for each artifact defending player controls [i](when blocking, that's you)[/i].
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face.
+
+Ragtime
+rules_text: [i]Slow Sphere[/i] — Whenever you declare blockers, if equipped creature isn't blocking, you may have it block a creature of your choice that's attacking you. [i](It doesn't target and the block doesn't have to be legal.)[/i] 
+[i]Slow World[/i] — {3}, sacrifice this artifact: Equipped creature gets +1/+1 and gains “creatures your opponents control lose all abilities” until end of turn.
+Equip {1}{U} => [i]Slow Sphere[/i] — Whenever you declare blockers, if equipped creature isn't blocking, you may have it block a creature of your choice that's attacking you. [i](It doesn't target and the block doesn't have to be legal.)[/i] 
+[i]Slow World[/i] — {1}, sacrifice this Equipment: If it was attached to a creature, that creature gets +2/+2 until end of turn. Creatures your opponents control lose all abilities and have base power 0 until end of turn.
+Equip {U}
+
+True Power
+rules_text: Flash
+Enchant red or green creature you control
+[i]“I won't let you kill each other.” — [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power divided among up to two target creatures. If one of them would die this turn, return it to its owner's hand instead.
+[i]“Do you have a problem with that?”[/i] — Enchanted creature gets +2/+2 and has haste and trample. => Flash
+Enchant red or green creature you control
+[i]“I won't let you kill each other.” — [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power divided as you choose among up to two target creatures. If either would die this turn, return it to its owner's hand instead.
+Enchanted creature gets +2/+2 and has trample and haste.
+
+Isolated Phone
+rules_text: When this artifact enters, mill three cards, then return up to one target artifact or creature card from your graveyard to your hand.
+Whenever one or more artifact or creature cards leave your graveyard, put a +1/+1 counter on up to one target creature. => When this artifact enters, mill three cards. When you do, return up to one target artifact or creature card from your graveyard to your hand.
+Whenever one or more artifact or creature cards leave your graveyard, put a +1/+1 counter on up to one target creature.
+
+Overture
+rules_text: [i]Battery — [/i]Equipped creature gets +2/+2 and has trample.
+[i]Exploder — [/i]{1}, sacrifice this artifact: Target a player. If equipped creature would deal damage to that player this turn, it deals double that much damage instead.
+Equip {2} => Equipped creature gets +2/+2 and has trample.
+[i]Exploder — [/i]{1}, Sacrifice this artifact: Choose target player. If equipped creature would deal damage to that player this turn, it deals double that much damage instead.
+Equip {2}
+
+Goliath, Incandescent Colossus
+rules_text: [i]Melt Slag — [/i]Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Goliath.
+[i]Devouring Vortex[/i] — Whenever Goliath deals combat damage to a player, you may sacrifice an artifact. If you do, destroy target artifact or enchantment defending player controls. => [i]Melt Slag — [/i]Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Goliath.
+[i]Devouring Vortex[/i] — Whenever Goliath deals combat damage to a player, you may destroy target artifact or enchantment that player controls.
+
+Rawhide
+rules_text: [i]Side Winder[/i] — Equipped creature gets +2/+2, has reach, and can block an additional creature.
+[i]Loop the Loop[/i] — {1}, Sacrifice this artifact: Until end of turn, equipped creature gets +4/+4 and can't be blocked except by three or more creatures.
+Equip {2} => [i]Side Winder[/i] — Equipped creature gets +2/+2, has reach, and can block an additional creature.
+[i]Loop the Loop[/i] — {1}, Sacrifice this artifact: Untap equipped creature. Until end of turn, equipped creature gets +4/+4 and has reach and “Whenever this creature deals combat damage, it deals that much damage to target creature.”
+Equip {2}
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Sword of the Animist added.

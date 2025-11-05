@@ -1,0 +1,12 @@
+﻿VERSION 2 CHANGELOG
+====================
+
+Stylish Rank added.
+Stylish Ranks added.
+
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.
