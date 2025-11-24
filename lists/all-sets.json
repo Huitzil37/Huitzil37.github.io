@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "DAN",
+            "set_name": "DMC Precon \u2014 Taste the Blood",
+            "formats": "EDH"
+        },
+        {
             "set_code": "KYR",
             "set_name": "DMC Precon - We Shall Never Surrender",
             "formats": "EDH"
