@@ -889,26 +889,6 @@
             "notes": "MM10,Medium Creature,8,RWB RWB ,Licia, Sanguine Tribune"
         },
         {
-            "card_name": "Lucia, Forlorn Protector",
-            "color": "WB",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Demon Bird Soldier",
-            "number": 47,
-            "color_identity": "WB",
-            "cost": "{1}{W}{B}",
-            "rules_text": "Lifelink\n[i]Ties Deeper Than Blood[/i] \u2014 Whenever you sacrifice a nonland permanent, you may pay 3 life. If you do, at the beginning of the next end step, return it from the graveyard to the battlefield with a finality counter.\nDevil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "DAN",
-            "loyalty": "",
-            "artist": "Tiago da Silva",
-            "alias": "",
-            "position": "44",
-            "notes": "Patched (no longer makes token copy, returns with finality counter instead)"
-        },
-        {
             "card_name": "Wings of the Guardian",
             "color": "WB",
             "rarity": "mythic",
@@ -925,7 +905,7 @@
             "loyalty": "",
             "artist": "Tropa Entertainment",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": "Patched"
         },
         {
@@ -945,7 +925,7 @@
             "loyalty": "",
             "artist": "Alexey Gorbatov",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "notes": ""
         },
         {
@@ -965,7 +945,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": ""
         },
         {
@@ -985,7 +965,7 @@
             "loyalty": "",
             "artist": "Andrey Kuzinskiy",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": "Patched"
         },
         {
@@ -1005,7 +985,7 @@
             "loyalty": "",
             "artist": "DMCRPC.tumblr.com",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": ""
         },
         {
@@ -1025,7 +1005,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "notes": "\n\nPatched"
         },
         {
@@ -1045,7 +1025,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "notes": "Patched"
         },
         {
@@ -1065,7 +1045,7 @@
             "loyalty": "",
             "artist": "Arivain-Shadowflare",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": "We Shall Never Surrender, Taste The Blood\n\nSub: Mistveil Plains"
         },
         {
@@ -1085,7 +1065,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "notes": "Bury the Light, Taste the Blood\n\nSub: Leechridden Swamp"
         },
         {
@@ -1105,7 +1085,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": "Patched (art; now allows any sacrifice, but only OPT)"
         },
         {
@@ -1125,7 +1105,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": ""
         },
         {
@@ -1133,7 +1113,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 93,
+            "number": 92,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -1145,7 +1125,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1165,7 +1145,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1184,6 +1164,26 @@
             "set": "DAN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "57",
+            "notes": ""
+        },
+        {
+            "card_name": "Plains",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Plains",
+            "number": 93,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DAN",
+            "loyalty": "",
+            "artist": "GPT-4o",
             "alias": "",
             "position": "58",
             "notes": ""
@@ -1209,12 +1209,12 @@
             "notes": ""
         },
         {
-            "card_name": "Plains",
+            "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
-            "number": 92,
-            "color_identity": "W",
+            "type": "Basic Land \u2014 Swamp",
+            "number": 95,
+            "color_identity": "B",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
@@ -1249,26 +1249,6 @@
             "notes": ""
         },
         {
-            "card_name": "Swamp",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
-            "number": 95,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "DAN",
-            "loyalty": "",
-            "artist": "GPT-4o",
-            "alias": "",
-            "position": "62",
-            "notes": ""
-        },
-        {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
@@ -1285,7 +1265,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1305,7 +1285,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1325,7 +1305,7 @@
             "loyalty": "",
             "artist": "ikeda_cpt",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": "New"
         },
         {
@@ -1345,7 +1325,7 @@
             "loyalty": "",
             "artist": "Anastasia Shiankova",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1365,7 +1345,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1385,7 +1365,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1405,7 +1385,7 @@
             "loyalty": "",
             "artist": "Arvin Albo",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": "Patched (Length)"
         },
         {
@@ -1425,7 +1405,7 @@
             "loyalty": "",
             "artist": "Phillip Helliwell",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "Patched (Flickers)"
         },
         {
@@ -1445,7 +1425,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1465,7 +1445,7 @@
             "loyalty": "",
             "artist": "Reiko Murakami",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1485,7 +1465,7 @@
             "loyalty": "",
             "artist": "Pablo Fernandez",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1505,7 +1485,7 @@
             "loyalty": "",
             "artist": "Ibrahem Swaid",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1525,7 +1505,7 @@
             "loyalty": "",
             "artist": "\u00c7aglayan K. G\u00f6ksoy",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1545,7 +1525,7 @@
             "loyalty": "",
             "artist": "Kriss Sison & Brian Farjado",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1565,7 +1545,7 @@
             "loyalty": "",
             "artist": "Arvin Albo",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1585,7 +1565,7 @@
             "loyalty": "",
             "artist": "Andrey Kuzinskiy",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1605,7 +1585,7 @@
             "loyalty": "",
             "artist": "Stelarpidgin",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "New"
         },
         {
@@ -1625,14 +1605,14 @@
             "loyalty": "",
             "artist": "Natasha nanook",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": ""
         },
         {
             "card_name": "Swordmaster Style",
             "color": "R",
             "rarity": "uncommon",
-            "type": "ST Instant \u2014 Style",
+            "type": "Instant \u2014 Style",
             "number": 40,
             "color_identity": "R",
             "cost": "{R}",
@@ -1645,7 +1625,7 @@
             "loyalty": "",
             "artist": "icula",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1665,7 +1645,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1685,7 +1665,7 @@
             "loyalty": "",
             "artist": "dmbakura",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": "Patched (increased cost)"
         },
         {
@@ -1705,7 +1685,7 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1725,7 +1705,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": "Patched (new art, color, effect"
         },
         {
@@ -1745,7 +1725,7 @@
             "loyalty": "",
             "artist": "Marianne Martin",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": "Patched (Redesigned)"
         },
         {
@@ -1765,7 +1745,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1785,7 +1765,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 2",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1805,7 +1785,7 @@
             "loyalty": "",
             "artist": "KEP",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": "Taste the Blood\n\nSub:"
         },
         {
@@ -1825,28 +1805,8 @@
             "loyalty": "",
             "artist": "Devil May Cry 2",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "notes": "New\n\nThe coin flip does nothing. Dante's coin was heads on both sides."
-        },
-        {
-            "card_name": "Dante, Son of Sparda",
-            "color": "WR",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Demon Mercenary",
-            "number": 43,
-            "color_identity": "WR",
-            "cost": "{2}{R}{W}",
-            "rules_text": "Haste, first strike, vigilance\n[i]Stinger \u2014 [/i]Whenever Dante attacks, gain a Stylish Rank. If you would choose and trigger a single Rank at the end of this combat, trigger every Rank you have instead.\n[i]Million Stab \u2014 [/i]If you would trigger Stylish Rank {S}{S}{S}, you may instead set your Rank to A. If you do, there is an additional combat phase after this one. Do this only once each turn.\nDevil Hunter",
-            "flavor_text": "[i][/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "DAN",
-            "loyalty": "",
-            "artist": "Kory Lynn Hubbell",
-            "alias": "",
-            "position": "91",
-            "notes": "Patched"
         },
         {
             "card_name": "Balrog, Fist of Chaos",
@@ -1865,7 +1825,7 @@
             "loyalty": "",
             "artist": "guido_mng",
             "alias": "",
-            "position": "92",
+            "position": "90",
             "notes": "Patched (Devil tokens)"
         },
         {
@@ -1885,7 +1845,7 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
-            "position": "93",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1905,7 +1865,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "94",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1925,7 +1885,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "95",
+            "position": "93",
             "notes": ""
         },
         {
@@ -1945,7 +1905,7 @@
             "loyalty": "",
             "artist": "Rare_Guarantee_9724",
             "alias": "",
-            "position": "96",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1965,7 +1925,7 @@
             "loyalty": "",
             "artist": "\u00c7aglayan K. G\u00f6ksoy",
             "alias": "",
-            "position": "97",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1985,7 +1945,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "All-Out Assault",
-            "position": "98",
+            "position": "96",
             "notes": ""
         },
         {
@@ -2005,7 +1965,7 @@
             "loyalty": "",
             "artist": "Marianne Martin",
             "alias": "",
-            "position": "99",
+            "position": "97",
             "notes": ""
         },
         {
@@ -2025,7 +1985,7 @@
             "loyalty": "",
             "artist": "guido_mng",
             "alias": "",
-            "position": "100",
+            "position": "98",
             "notes": "Patched (Devil tokens)"
         },
         {
@@ -2045,7 +2005,7 @@
             "loyalty": "",
             "artist": "Tan Yu Chi",
             "alias": "",
-            "position": "101",
+            "position": "99",
             "notes": "Patched"
         },
         {
@@ -2065,7 +2025,7 @@
             "loyalty": "",
             "artist": "im-myke-guys",
             "alias": "",
-            "position": "102",
+            "position": "100",
             "notes": "Patched (trample is now innate, no choice of haste or menace)"
         },
         {
@@ -2085,7 +2045,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 2",
             "alias": "",
-            "position": "103",
+            "position": "101",
             "notes": "Patched (Don't draw an extra card on ETB, The Despair Embodied no longer has Wither)"
         },
         {
@@ -2105,7 +2065,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "104",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2125,8 +2085,48 @@
             "loyalty": "",
             "artist": "icula",
             "alias": "",
-            "position": "105",
+            "position": "103",
             "notes": "patched"
+        },
+        {
+            "card_name": "Dante, Son of Sparda",
+            "color": "WR",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Human Demon Mercenary",
+            "number": 43,
+            "color_identity": "WR",
+            "cost": "{2}{R}{W}",
+            "rules_text": "Haste, first strike, vigilance\n[i]Million Stab \u2014 [/i]Whenever Dante attacks, gain a Stylish Rank. If you would choose and trigger a single Rank at the end of this combat, trigger every Rank you have instead.\n[i]EX Provocation \u2014 [/i]Whenever you gain a Stylish Rank, tap and goad target creature.\nDevil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DAN",
+            "loyalty": "",
+            "artist": "Kory Lynn Hubbell",
+            "alias": "",
+            "position": "104",
+            "notes": "Patched"
+        },
+        {
+            "card_name": "Lucia, Forlorn Protector",
+            "color": "WB",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Demon Bird Soldier",
+            "number": 47,
+            "color_identity": "WB",
+            "cost": "{1}{W}{B}",
+            "rules_text": "Lifelink\n[i]Deeper Than Blood[/i] \u2014 Whenever a creature you control dies, you may pay 3 life. If you do, return it from the graveyard to the battlefield tapped with a finality counter on it.\nDevil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DAN",
+            "loyalty": "",
+            "artist": "Tiago da Silva",
+            "alias": "",
+            "position": "105",
+            "notes": "Patched (no longer makes token copy, returns with finality counter instead)"
         }
     ]
 }

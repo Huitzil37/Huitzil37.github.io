@@ -1,4 +1,129 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Wings of the Guardian
+
+Ebony and Ivory
+
+Devil Sword Dante
+
+Sin Devil Trigger
+
+The Monarch
+
+Stylish Rank
+
+Stylish Ranks
+
+Fortuna Terrace
+
+Mallet Castle
+
+Nefasturris
+
+Vie de Marli
+
+Devil Sword Rebellion
+
+Artemis, Illuminated
+
+Devil Arm: Artemis
+
+Devil Arm: Beowulf
+
+Beowulf, Holy Fist
+
+Demonochorus
+
+La Vita Nuova
+
+Agonofinis
+
+Blood Harvest Style
+
+Empusa
+
+Nelo Angelo
+
+Sin Scissors
+
+Chimera Seed
+
+Devil Sword Sparda
+
+Fraternal Ferocity
+
+Fury Demon
+
+Swordmaster Style
+type: ST Instant — Style => Instant — Style
+
+Sweet Surrender
+
+Jackpot!
+
+Trickster Style
+
+Secretary Demon
+
+This Party's Getting Crazy!
+
+The Bloody Palace
+
+Dumary Alleyways
+
+Sparda Estate
+
+Sealed From The Other Side
+
+Balrog, Fist of Chaos
+
+Fourth Hell: Sloth
+
+Devil Arm: Balrog
+
+Master Warcraft
+
+Table Hopper
+
+Demon Emperor Mundus
+
+Dante Must Die
+
+Blade of Mundus
+
+Balor
+
+Matier, Protector
+
+Agni and Rudra
+
+The Despair Embodied
+
+Arius, Megalomaniac
+
+You're Just Dead Weight!
+
+Dante, Son of Sparda
+rules_text: Haste, first strike, vigilance
+[i]Stinger — [/i]Whenever Dante attacks, gain a Stylish Rank. If you would choose and trigger a single Rank at the end of this combat, trigger every Rank you have instead.
+[i]Million Stab — [/i]If you would trigger Stylish Rank {S}{S}{S}, you may instead set your Rank to A. If you do, there is an additional combat phase after this one. Do this only once each turn.
+Devil Hunter => Haste, first strike, vigilance
+[i]Million Stab — [/i]Whenever Dante attacks, gain a Stylish Rank. If you would choose and trigger a single Rank at the end of this combat, trigger every Rank you have instead.
+[i]EX Provocation — [/i]Whenever you gain a Stylish Rank, tap and goad target creature.
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i]
+
+Lucia, Forlorn Protector
+rules_text: Lifelink
+[i]Ties Deeper Than Blood[/i] — Whenever you sacrifice a nonland permanent, you may pay 3 life. If you do, at the beginning of the next end step, return it from the graveyard to the battlefield with a finality counter.
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i] => Lifelink
+[i]Deeper Than Blood[/i] — Whenever a creature you control dies, you may pay 3 life. If you do, return it from the graveyard to the battlefield tapped with a finality counter on it.
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Full Throttle added.
