@@ -1,4 +1,272 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Almost Perfect added.
+Knight added.
+Heroic Intervention added.
+Field of Brotherhood added.
+Fortuna Castle added.
+Mitis Rainforest added.
+Doubling Season added.
+Phineas, Underworld Prophet added.
+Voice of Victory added.
+HALO Insertion Array added.
+Family's Favor added.
+Scholar of New Horizons added.
+Tidus, Yuna's Guardian added.
+Sanctuary Warden added.
+Freki and Geri added.
+Ivy, Gleeful Spellthief added.
+
+Illuminator Virtuoso removed.
+Grateful Apparition removed.
+Karametra's Favor removed.
+Exotic Orchard removed.
+Seaside Citadel removed.
+Canopy Vista removed.
+Prairie Stream removed.
+Shield of the Oversoul removed.
+Brokers Confluence removed.
+Our Savior Has Come removed.
+Knights In Sparda's Service removed.
+Patty Lowell removed.
+Cerberus, Ice Guardian removed.
+Devil Arm: Cerberus removed.
+Demon Knight removed.
+Sanctus Diabolica removed.
+Become More Than Human removed.
+Puia removed.
+The Bloody Palace removed.
+One with the Kami removed.
+Puia Token removed.
+
+Arcane Signet
+
+Command Tower
+
+Azorius Chancery
+
+Sheltered by Ghosts
+
+Thrummingbird
+
+Evolution Sage
+
+Everflowing Chalice
+
+Sol Ring
+
+Verdant Embrace
+
+Ash Barrens
+
+Deserted Beach
+
+Hinterland Harbor
+
+Tranquil Landscape
+
+Strength of the Harvest
+
+Contractual Safeguard
+
+Eidolon of Countless Battles
+
+Sanctum Weaver
+
+Springheart Nantuko
+
+Archon of the Wild Rose
+
+Setessan Champion
+
+Glyph Elemental
+
+Spellskite
+
+Ethereal Armor
+
+Sage's Reverie
+
+Nature's Chosen
+
+Simic Growth Chamber
+
+Flooded Grove
+
+Overgrown Farmland
+
+Order of the Sword HQ
+
+Krosan Verge
+
+Mystic Gate
+
+Wooded Bastion
+
+Dreamroot Cascade
+
+Reliquary Tower
+
+Winds of Rath
+
+Ellivere of the Wild Court
+
+Selesnya Sanctuary
+
+Kyrie, Voice of Hope
+
+Endless Detour
+
+Angelo Credo
+
+Awakened Lineage
+
+The Dark Knight Sparda
+
+Devil Bringer
+type: KY Enchantment — Aura => Enchantment — Aura
+
+Order Basilisk
+type: KY Artifact Creature — Demon Dog => Artifact Creature — Demon Dog
+
+Soprano Angelo
+type: KY Enchantment — Aura => Enchantment — Aura
+rules_text: Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature has “{T}: Add one mana of any color and put a +1/+1 counter on this creature.” => Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature has “{T}: Add one mana of any color and put a +1/+1 counter on target creature.”
+
+Stand And Fight Together
+type: KY Sorcery => Sorcery
+
+Alto Angelo
+type: KY Creature — Demon Knight => Creature — Demon Knight
+
+Ascension Ceremony
+type: CR Instant => Instant
+
+Bianco Angelo
+type: KY Creature — Demon Knight => Creature — Demon Knight
+
+Order Gladius
+type: KY Artifact Creature — Demon Lizard => Artifact Creature — Demon Lizard
+
+Royalguard Style
+type: ST Instant — Style => Instant — Style
+
+Bael, Frost Toad
+type: CR Snow Creature — Demon Frog => Snow Creature — Demon Frog
+
+Frost Demon
+type: CR Snow Creature — Demon => Snow Creature — Demon
+
+Gloria, Mysterious Benefactor
+type: CR Legendary Creature — Demon Advisor => Legendary Creature — Demon Advisor
+rules_text: Whenever a player casts their second spell each turn or attacks with two or more creatures, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Clues you control have “{T}: Add {C}. This mana can't be used to cast spells.” => Whenever a player casts their second spell each turn or attacks with two or more creatures, create a Clue token. [i](It's an artifact with “{2}, sacrifice this: Draw a card.)[/i]
+Clues you control have “{T}: Add {C}. This mana can't be used to cast spells.”
+
+Jester, Manipulator of Malice
+type: CR Legendary Creature — Demon Clown => Legendary Creature — Demon Clown
+rules_text: Jester enters with three shield counters.
+Whenever a shield counter is removed from Jester, put a +1/+1 counter on him, then tap and goad target creature. => Jester enters with three shield counters.
+Whenever a shield counter is removed from a creature you control, put a +1/+1 counter on it, then tap and goad target creature.
+
+Order Cutlass
+type: CR Artifact Creature — Devil Fish => Artifact Creature — Demon Fish
+pt: 2/1 => 1/2
+
+Dante's Awakening
+type: AN Enchantment — Saga => Enchantment — Saga
+
+Quicksilver Style
+type: ST Instant — Style => Instant — Style
+rules_text: Gain a Stylish Rank. 
+Counter target noncreature spell.
+[i]Stand Still![/i] — If your Stylish Rank is A or higher, scry 1, then draw a card. => Gain a Stylish Rank. 
+Counter target noncreature spell.
+
+PF594: Argument
+
+Damned King
+type: CR Artifact Creature — Sculpture Noble => Artifact Creature — Sculpture Noble
+
+Soldier
+
+Order Gladius Token
+type: Token Creature — Devil Lizard => Token Creature — Demon Lizard
+
+Time We Ended This
+type: CR Sorcery => Sorcery
+
+Jump Cancel
+type: AN Instant => Instant
+
+Fortuna Terrace
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Witch Enchanter
+
+Damned Rook
+type: KY Artifact Creature — Sculpture => Artifact Creature — Sculpture
+
+Now And Forever
+
+Missile
+
+Citizen
+
+Stylish Rank
+
+Stylish Ranks
+
+The Holy Knights of Sparda
+type: CR Enchantment => Enchantment
+cost: {2}{W}{W} => {1}{W}{U}
+rules_text: At the beginning of combat on your turn, put a shield counter on up to one target creature you control.
+Whenever a shield counter is removed from a creature you control, put two +1/+1 counters and a first strike counter on it. => At the beginning of combat on your turn, put a shield counter on up to one target creature you control.
+Whenever a shield counter is removed from a creature you control, put two +1/+1 counters and a flying counter on it.
+
+Wake Up To Justice
+cost: {2}{W}{U} => {1}{W}{U}
+rules_text: Target opponent chooses a creature they control that's attacking you. You gain control of it. Put three time counters on it and it gains vanishing. [i](At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i] => Kicker {2}{W}{U}
+Target opponent chooses a creature they control that's attacking you. If this spell was kicked, you choose instead. Gain control of that creature.
+
+Duet in SSS-Major
+cost: {2}{G}{G} => {2}{G}{W}
+
+The Savior
+type: KY Legendary Artifact Creature — Demon => Legendary Artifact Creature — Demon
+cost: {4}{W}{W} => {3}{W}{W}{W}{W}
+rules_text: Flying
+Whenever The Savior enters or attacks, you may exile target nonland card in your graveyard with mana value 3 or less. If you do, copy it, and you may cast the copy without paying its mana cost. => Flying, vigilance, lifelink
+Whenever The Savior enters or attacks, you may exile target nonland card in your graveyard with mana value four or less. If you do, copy it, and you may cast the copy without paying its mana cost. [i](A copy of a permanent spell becomes a token.)[/i]
+Creature tokens you control have vigilance and lifelink.
+
+Summoner Style
+type: ST Sorcery — Style => Sorcery — Style
+cost: {2}{G} => {1}{G}
+rules_text: Gain a Stylish Rank. 
+Return target permanent card from your graveyard to your hand. 
+[i]Vim[/i] — If your Stylish Rank is A or higher and that card had a mana value of 3 or less, return it to the battlefield instead. => Gain a Stylish Rank. 
+Return target permanent card from your graveyard to your hand.
+
+Credo, Holy Knight
+rules_text: Vigilance
+[i]Supreme General[/i] — Whenever you attack, untap an attacking creature, put a +1/+1 counter on another attacking creature, and put a shield counter on another attacking creature. 
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i] => Vigilance
+Whenever Credo attacks, put a shield counter on target creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+[i]Ascension — [/i]Whenever a shield counter is removed from a creature you control, put a +1/+1 counter on it. You may draw a card, then discard a card. 
+Devil Hunter
+pt: 3/4 => 2/4
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Stylish Rank added.

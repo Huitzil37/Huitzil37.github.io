@@ -1,4 +1,265 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Mistrise Village added.
+Cryogen Relic added.
+Esoteric Duplicator added.
+Legion Extruder added.
+Dante, Unwitting Scion added.
+Heaped Harvest added.
+Heroic Intervention added.
+Chamber of Mystery added.
+Ferrum Hills added.
+Mitis Rainforest added.
+Bonder's Enclave added.
+Pongify added.
+Ape added.
+Frostciff Siege added.
+
+Ash Barrens removed.
+Ichor Wellspring removed.
+Prized Statue removed.
+Hunter's Prowess removed.
+Glen Elendra Archmage removed.
+Blasphemous Act removed.
+Hinterland Harbor removed.
+Rootbound Crag removed.
+Sulfur Falls removed.
+Arius's Mad Ambition removed.
+The Bloody Palace removed.
+The Despair Embodied removed.
+Solemn Simulacrum removed.
+Red XIII, Proud Warrior removed.
+
+Sword of the Animist
+
+Frontier Bivouac
+
+Power Fist
+
+Spine of Ish Sha
+
+Woodfall Primus
+
+The Reaver Cleaver
+
+Jhoira, Weatherlight Captain
+
+Chishiro, the Shattered Blade
+
+Champion's Helm
+
+Darksteel Plate
+
+Lizard Blades
+type: Small Artifact Creature — Equipment => Artifact Creature — Equipment
+
+Simic Growth Chamber
+
+Izzet Boilerworks
+
+Bountiful Landscape
+
+Rockfall Vale
+
+Thornspire Verge
+
+Willowrush Verge
+
+Bala Ged Recovery
+
+Sink into Stupor
+
+Rogue's Passage
+
+Valakut Awakening
+
+Cascade Bluffs
+
+Riverpyre Verge
+
+Flooded Grove
+
+Emry, Lurker of the Loch
+
+Agnus, Order Alchemist
+type: NI Legendary Creature — Demon Scientist => Legendary Creature — Demon Scientist
+
+Blood-Goyle
+type: NI Artifact Creature — Blood Gargoyle => Artifact Creature — Blood Gargoyle
+
+Engineer Style
+type: ST Instant — Style => Instant — Style
+
+Infestant
+type: NE Creature — Demon => Creature — Demon
+
+Echidna, Haughty Queen
+type: NE Legendary Creature — Devil Plant => Legendary Creature — Demon Plant
+
+Fortuna Scarecrow
+type: NI Creature — Demon Scarecrow => Creature — Demon Scarecrow
+
+I'M NOT LETTING YOU DIE!
+type: NE Instant => Instant
+
+Kat, Urban Witch
+type: NI Legendary Creature — Human Warlock => Legendary Creature — Human Warlock
+
+Nico's Workshop
+type: NI Legendary Artifact — Vehicle => Legendary Artifact — Vehicle
+
+Red Empusa
+type: NI Creature — Demon Insect => Creature — Demon Insect
+
+Sixth Hell: Gluttony
+type: NI Creature — Demon Sand Spirit => Creature — Demon Sand Spirit
+
+Devilish Laboratory
+
+DMC Ride Armor
+
+Nico, Artisan of Arms
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Settle the Argument
+type: AN Instant => Instant
+rules_text: Gain a Stylish Rank. 
+Counter target spell unless its controller pays {2}. 
+[i]“You listen, dead weight.” — [/i]If your Stylish Rank is A or higher, counter that spell instead. => Gain a Stylish Rank. 
+Counter target spell unless its controller pays {2}. If your Stylish Rank is A or higher, just counter that spell instead.
+
+Trismagia
+type: AN Creature — Devil Wizard => Creature — Devil Wizard
+
+Hell Antenora
+type: AN Creature — Demon Berserker => Creature — Demon Berserker
+
+A Poison Tree
+type: AN Enchantment — Saga => Enchantment — Saga
+
+Blood-Goyle Token
+
+Plant
+
+Sixth Hell: Gluttony Token
+type: Token Creature — Devil Sand Spirit => Token Creature — Demon Sand Spirit
+
+Buster Arm
+
+Thirst for Knowledge
+
+Infested Tank
+type: NE Artifact — Vehicle => Artifact — Vehicle
+
+Blackblade Reforged
+rules_text: Equipped creature gets +1/+1 for each land you control.
+
+Equip legendary creature cost{3}
+
+Equip cost{7} => Equipped creature gets +1/+1 for each land you control.
+Equip legendary creature cost{3}
+Equip cost{7}
+
+Freki and Geri
+
+Rishkar's Expertise
+
+Stylish Rank
+
+Stylish Ranks
+
+Devil Arm: Cavaliere-R
+
+Devil Arm: Gilgamesh
+rules_text: Equipped creature gets +1/+1.
+[i]Distorted Real Impact[/i] — {2}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. 
+Equip {1} => Equipped creature gets +1/+1.
+[i]Distorted Real Impact[/i] — {1}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. 
+Equip {1}
+
+Blue Rose
+type: NE Legendary Artifact — Equipment => Legendary Artifact — Equipment
+
+Gerbera GP01
+type: NE Artifact — Equipment => Artifact — Equipment
+
+Gilgamesh, Steel Impact
+type: NI Artifact Creature — Plant Construct => Artifact Creature — Plant Construct
+
+Helter Skelter
+type: NE Artifact — Equipment => Artifact — Equipment
+
+Tomboy
+type: NE Artifact — Equipment => Artifact — Equipment
+rules_text: [i]One Night Stand[/i] — Equipped creature gets +7/+7, has shroud, loses all other abilities, and can't gain abilities. [i](It can't be the target of spells or abilities, not even your own.)[/i]
+{1}, Sacrifice this Equipment: If it was attached to a creature, draw a card. If that creature had power 7 or greater [i](after sacrificing this)[/i], draw another card.
+Equip {5} => [i]One Night Stand[/i] — Equipped creature gets +7/+7, has shroud, loses all other abilities, and can't gain abilities. [i](It can't be the target of spells or abilities, not even your own.)[/i]
+{1}, Sacrifice this Equipment: If it was attached to a creature, draw a card. If that creature has power 7 or greater [i](after sacrificing this)[/i], draw another card.
+Equip {5}
+
+Treasure
+
+Nero, Upstart Hunter
+
+Red Queen
+rules_text: Equipped creature has trample.
+[i]EX[/i] [i]Streak [/i]— Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
+Equip {3} => Equipped creature has trample.
+[i]EX[/i] [i]Streak [/i]— Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
+Equip {4}
+
+Infested Chopper
+type: NI Artifact — Vehicle => Artifact — Vehicle
+
+Akki Battle Squad
+
+Desynchronization
+
+Cavaliere Angelo
+type: NE Legendary Creature — Demon Knight => Legendary Creature — Demon Knight
+
+Ragtime
+type: NI Artifact — Equipment => Artifact — Equipment
+
+True Power
+rules_text: Flash
+Enchant red or green creature you control
+[i]“I won't let you kill each other.” — [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power divided as you choose among up to two target creatures. If either would die this turn, return it to its owner's hand instead.
+Enchanted creature gets +2/+2 and has trample and haste. => Flash
+Enchant red or green creature you control
+[i]“I won't let you kill each other.” — [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power to up to two target creatures. If either would die this turn, return it to its owner's hand instead.
+[i]“Do you have a problem with that?” — [/i]Enchanted creature gets +2/+2 and has trample and haste.
+
+Isolated Phone
+type: NI Artifact => Artifact
+
+Overture
+type: NE Artifact — Equipment => Artifact — Equipment
+
+Goliath, Incandescent Colossus
+type: NI Legendary Creature — Demon => Legendary Creature — Demon
+
+Rawhide
+type: NE Artifact — Equipment => Artifact — Equipment
+
+Exceed Style
+type: ST Sorcery — Style => Sorcery — Style
+rules_text: Gain a Stylish Rank. 
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. 
+[i]MAX-Act[/i] — If your Stylish Rank is A or higher, search your library for another card that shares a land type with it, put it onto the battlefield tapped, then shuffle. => Gain a Stylish Rank. 
+Search your library for a Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield, then shuffle.
+
+Yamato Reconstruction
+type: NI Legendary Artifact => Legendary Artifact
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Blood-Goyle Token added.
