@@ -2129,5 +2129,5 @@
             "notes": "Patched (no longer makes token copy, returns with finality counter instead)"
         }
     ],
-    "version": 4
+    "version": 5
 }
