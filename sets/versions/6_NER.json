@@ -1,7 +1,7 @@
 ﻿{
     "name": "DMC Precon - Pull My Devil Trigger",
     "formats": "EDH",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "none",
     "unpreviewed": "card back",
@@ -2279,6 +2279,5 @@
             "position": "112",
             "notes": ""
         }
-    ],
-    "version": 6
+    ]
 }

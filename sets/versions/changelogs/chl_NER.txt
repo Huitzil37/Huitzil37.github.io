@@ -1,4 +1,344 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Two-Handed Axe added.
+Red Orb Crystal added.
+Neo-Generator added.
+Furiataurus added.
+Gloria, Mysterious Benefactor added.
+The Despair Embodied added.
+Monstrous Mother Echidna added.
+Incandescent Colossus Goliath added.
+Devil's Dalliance Lilith added.
+Petal Ray added.
+You Listen, Dead Weight. added.
+Giant Inheritance added.
+Rancor added.
+Forensic Gadgeteer added.
+Powerstone added.
+Clue added.
+Dante's Office added.
+Copy added.
+Spirit added.
+Monster Role added.
+
+Woodfall Primus removed.
+Darksteel Plate removed.
+Cascade Bluffs removed.
+Blood-Goyle removed.
+Infestant removed.
+Echidna, Haughty Queen removed.
+Fortuna Scarecrow removed.
+I'M NOT LETTING YOU DIE! removed.
+Sixth Hell: Gluttony removed.
+Trismagia removed.
+Blood-Goyle Token removed.
+Sixth Hell: Gluttony Token removed.
+Blackblade Reforged removed.
+Freki and Geri removed.
+Rishkar's Expertise removed.
+Desynchronization removed.
+Goliath, Incandescent Colossus removed.
+
+Swiftfoot Boots
+rules_text: Equipped creature has hexproof and haste. [i](It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)[/i]
+
+Equip cost{1} => Equipped creature has hexproof and haste.
+Equip {1}
+
+Sword of the Animist
+rules_text: Equipped creature gets +1/+1.
+
+Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Equip cost{2} => Equipped creature gets +1/+1.
+Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Equip {2}
+
+Power Fist
+rules_text: Equipped creature has trample and “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.”
+
+Equip cost{2} => Equipped creature has trample and “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.”
+Equip {2}
+
+Esoteric Duplicator
+rules_text: Copies shit you sac => Whenever you sacrifice this artifact or another artifact, you may pay {2}. If you do, at the beginning of the next end step, create a token that's a copy of that artifact.
+{2}, Sacrifice this artifact: Draw a card.
+
+The Reaver Cleaver
+type: Artifact — Equipment => Legendary Artifact — Equipment
+rules_text: Equipped creature gets +1/+1 and has trample and “Whenever this creature deals combat damage to a player or planeswalker, create that many Treasure tokens.”
+
+Equip cost{3} => Equipped creature gets +1/+1 and has trample and “Whenever this creature deals combat damage to a player or planeswalker, create that many Treasure tokens.”
+Equip {3}
+
+Legion Extruder
+rules_text: When this artifact enters, it deals 2 damage to any target.
+
+{2}, {T}, Sacrifice another artifact: Create a 3/3 colorless Golem artifact creature token. => When this artifact enters, it deals 2 damage to any target.
+{2}, {T}, Sacrifice another artifact: Create a 3/3 colorless Golem artifact creature token.
+
+Jhoira, Weatherlight Captain
+
+Chishiro, the Shattered Blade
+
+Champion's Helm
+rules_text: Equipped creature gets +2/+2.
+
+As long as equipped creature is legendary, it has hexproof. [i](It can't be the target of spells or abilities your opponents control.)[/i]
+
+Equip cost{1} => Equipped creature gets +2/+2.
+As long as equipped creature is legendary, it has hexproof. [i](It can't be the target of spells or abilities your opponents control.)[/i]
+Equip {1}
+
+Lizard Blades
+rules_text: Double strike
+
+Equipped creature has double strike.
+
+Reconfigure cost{2} => Double strike
+Equipped creature has double strike.
+Reconfigure {2} [i]({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Simic Growth Chamber
+
+Izzet Boilerworks
+
+Bountiful Landscape
+
+Rockfall Vale
+
+Thornspire Verge
+
+Willowrush Verge
+
+Bala Ged Recovery
+
+Sink into Stupor
+
+Rogue's Passage
+
+Valakut Awakening
+
+Riverpyre Verge
+
+Flooded Grove
+
+Emry, Lurker of the Loch
+
+Plant
+
+Thirst for Knowledge
+
+Devil Arm: Cavaliere-R
+
+Devil Arm: Gilgamesh
+
+Treasure
+
+Akki Battle Squad
+
+Bonder's Enclave
+
+Pongify
+
+Ape
+
+Frostciff Siege
+
+Gilgamesh, Steel Impact
+
+Devilish Laboratory
+
+Isolated Phone
+rules_text: When this artifact enters, mill three cards. When you do, return up to one target artifact or creature card from your graveyard to your hand.
+Whenever one or more artifact or creature cards leave your graveyard, put a +1/+1 counter on up to one target creature. => When this artifact enters, mill three cards. When you do, return up to one target artifact or creature card from your graveyard to your hand.
+Whenever one or more artifact or creature cards leave your graveyard, put a +1/+1 counter on up to that many creatures.
+
+Gerbera GP01
+
+Ragtime
+
+Tomboy
+rules_text: [i]One Night Stand[/i] — Equipped creature gets +7/+7, has shroud, loses all other abilities, and can't gain abilities. [i](It can't be the target of spells or abilities, not even your own.)[/i]
+{1}, Sacrifice this Equipment: If it was attached to a creature, draw a card. If that creature has power 7 or greater [i](after sacrificing this)[/i], draw another card.
+Equip {5} => Equipped creature gets +7/+7, has shroud, loses all other abilities, and can't gain abilities. [i](It can't be the target of spells or abilities, not even your own.)[/i]
+Equip {5}
+
+Helter Skelter
+rules_text: [i]Drill Rig [/i]— Equipped creature gets +2/+2 and has trample and menace.
+[i]Drill Master [/i]—Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. If you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.
+Equip {2} => [i]Drill Rig [/i]— Equipped creature gets +2/+2 and has trample and menace.
+[i]Drill Master [/i]—Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. When you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.
+Equip {2}
+
+Rawhide
+rules_text: [i]Side Winder[/i] — Equipped creature gets +2/+2, has reach, and can block an additional creature.
+[i]Loop the Loop[/i] — {1}, Sacrifice this artifact: Untap equipped creature. Until end of turn, equipped creature gets +4/+4 and has reach and “Whenever this creature deals combat damage, it deals that much damage to target creature.”
+Equip {2} => [i]Side Winder[/i] — Equipped creature gets +2/+2, has reach, and can block an additional creature.
+[i]Loop the Loop[/i] — {1}, Sacrifice this artifact: Untap equipped creature. Until end of turn, equipped creature gets +4/+4, and has reach and “Whenever this creature deals combat damage, it deals that much damage to target creature.”
+Equip {2}
+
+Infested Tank
+rules_text: Trample
+[i]Assimilate Weapons -- [/i]Whenever this Vehicle becomes a creature, attach any number of target Equipment to it. [i](Control of them doesn't change and they'll fall off when this is no longer a creature.)[/i]
+Crew 2 => Trample
+[i]Assimilate Weapons — [/i]Whenever this Vehicle becomes a creature, attach any number of target Equipment to it. [i](Control of them doesn't change and they'll detach when this is no longer a creature.)[/i]
+Crew 2
+
+Infested Chopper
+
+Hell Antenora
+
+A Poison Tree
+
+Settle the Argument
+rules_text: Gain a Stylish Rank. 
+Counter target spell unless its controller pays {2}. If your Stylish Rank is A or higher, just counter that spell instead. => Gain a Rank. 
+Counter target spell unless its controller pays {2}. 
+Stylish—Exile that spell instead. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+
+Yamato Reconstruction
+
+Blue Rose
+rules_text: Equipped creature has reach and first strike. As long as another Aura or Equipment is attached to it, it has double strike.
+{R}: Equipped creature gets +1/+0 until end of turn. 
+Equip {2} => Equipped creature has reach and first strike. As long as another Aura or Equipment is attached to it, it has double strike.
+[i]Color Up — [/i]{R}: Equipped creature gets +1/+0 until end of turn. 
+Equip {2}
+
+Red Queen
+
+Nico's Workshop
+
+Cavaliere Angelo
+
+Agnus, Order Alchemist
+cost: {1}{U}{U} => {1}{G}{U}
+rules_text: At the beginning of combat on your turn, put three +1/+1 counters on up to one target noncreature artifact. It becomes a 0/0 Demon creature in addition to its other types [i](permanently)[/i].
+Whenever an artifact creature you control dies, if its power was greater than its base power, draw a card. => At the beginning of combat on your turn, put X +1/+1 counters on up to one target noncreature artifact, where X is Agnus's power. It becomes a 0/0 Demon creature in addition to its other types [i](permanently)[/i].
+Stylish—Whenever an artifact creature you control dies, if its power was greater than its base power, draw a card. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+
+Nico, Artisan of Arms
+rules_text: [i]Behold My Genius![/i] — {T}, sacrifice an artifact: Return another target card from your graveyard to your hand if either of its faces is an artifact. If it has a lower mana value than the sacrificed artifact, put a +1/+1 counter on a number of creatures up to the difference.
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i] => [i]Behold My Genius![/i] — {T}, sacrifice an artifact: Return another target artifact card from your graveyard to your hand.
+Stylish—If the sacrificed artifact had a higher mana value than the returned card, put a +1/+1 counter on a number of creatures up to the difference. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+Nero, Upstart Hunter
+rules_text: Haste, reach
+[i]Devil Breaker - [/i]At the beginning of your combat, you may cast an Aura or Equipment spell with mana value less Nero's power without paying its mana cost. It enters attached to Nero. At the beginning of your next end step, sacrifice that permanent, put a +1/+1 counter on Nero, and draw a card.
+Devil Hunter => Haste, reach
+[i]Devil Breaker - [/i]At the beginning of your combat, you may cast an Aura or Equipment spell without paying its mana cost if its mana value is less than Nero's power. It enters attached to Nero. If you did, at the beginning of your next end step, draw a card and sacrifice that permanent.
+Stylish[i]—[/i]You may cast that card from your graveyard.
+Partner—Devil Hunter
+
+True Power
+rules_text: Flash
+Enchant red or green creature you control
+[i]“I won't let you kill each other.” — [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power to up to two target creatures. If either would die this turn, return it to its owner's hand instead.
+[i]“Do you have a problem with that?” — [/i]Enchanted creature gets +2/+2 and has trample and haste. => Flash
+Enchant red or green creature you control
+When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power divided as you choose among up to two target creatures. If either one would die this turn, return it to its owner's hand instead.
+Enchanted creature gets +2/+2 and has trample and haste.
+
+Heaped Harvest
+
+Heroic Intervention
+
+Dante, Unwitting Scion
+
+Buster Arm
+
+Exceed Style
+type: Sorcery — Style => Legendary Sorcery — Style
+cost: {2}{G} => {1}{G}
+rules_text: Gain a Stylish Rank. 
+Search your library for a Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield, then shuffle. => Gain a Rank. 
+Search library for a Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield, then shuffle.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+Engineer Style
+type: Instant — Style => Legendary Instant — Style
+cost: {U} => {2}{U}
+rules_text: Gain a Stylish Rank. 
+Draw a card.
+[i]Top-Notch Work[/i] — If your Stylish Rank is A or higher, instead scry 3 and draw a card. => Gain a Rank. 
+Scry 2, then draw two cards.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Kat, Urban Witch
+rules_text: Each artifact, enchantment, Demon, and Devil card in your hand has cycling {2}. [i]({2}, discard that card: Draw a card.)[/i] => Each artifact, enchantment, Demon, and Devil card in your hand has cycling {2}. [i]({2}, discard that card: Draw a card.)[/i]
+{3}, Sacrifice an artifact, enchantment, Demon, or Devil: Draw a card.
+pt: 1/2 => 1/1
+
+Overture
+rules_text: Equipped creature gets +2/+2 and has trample.
+[i]Exploder — [/i]{1}, Sacrifice this artifact: Choose target player. If equipped creature would deal damage to that player this turn, it deals double that much damage instead.
+Equip {2} => Equipped creature gets +2/+2 and has trample.
+[i]Exploder — [/i]{1}, Sacrifice this artifact: Choose target player. Overture deals damage to that player equal to the amount of damage equipped creature dealt to them this turn. 
+Equip {2}
+
+Stylish Rank
+
+Stylish Ranks
+
+DMC Ride Armor
+cost: {3}{G}{U} => {7}
+rules_text: This spell costs {1} less to cast and its equip abilities cost {1} less to activate for each artifact card in your graveyard.
+Equipped creature gets +2/+2 and has trample and ward {1}.
+At the beginning of each combat, untap equipped creature.
+Equip {4} => Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Indestructible
+Equipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and “Whenever this creature deals combat damage to a creature, exile that creature.”
+Equip {7}
+
+Red Grave Ruin
+rules_text: This land enters tapped unless you have a Stylish Rank.
+{T}: Add {G}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+{2}, {T}: Gain a Rank.
+
+Temen-ni-Gru Apex
+rules_text: This land enters tapped unless you have a Stylish Rank.
+{T}: Add {U}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control an Island.
+{T}: Add {U}.
+{2}, {T}: Gain a Rank.
+
+Vie de Marli
+rules_text: This land enters tapped unless you have a Stylish Rank.
+{T}: Add {R}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control a Mountain.
+{T}: Add {R}.
+{2}, {T}: Gain a Rank.
+
+Chamber of Mystery
+rules_text: [i]({T}: Add {U} or {R}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {U} or {R}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Ferrum Hills
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {R} or {G}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Mitis Rainforest
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {G} or {U}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Red Empusa
+rules_text: Whenever this creature is dealt damage, create a tapped Treasure token. => Whenever this creature is dealt damage, create a tapped Treasure token.
+{T}, sacrifice a nontoken artifact: Create a tapped Powerstone token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.”)[/i]
+pt: 2/2 => 1/4
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Mistrise Village added.
