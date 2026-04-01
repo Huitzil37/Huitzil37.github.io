@@ -1,4 +1,336 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Jaheira, Friend of the Forest added.
+Vergil, Liberator of Makai added.
+Insight Engine added.
+Devil Arm: Cerberus added.
+Caretaker's Talent added.
+Sweet Surrender added.
+Chained Behemoth added.
+Hound Master Bolverk added.
+Vergil, Cold-Hearted added.
+Hosanna, Puppeteer of the Sefirot added.
+Ice Guardian Cerberus added.
+Manipulator of Malice Jester added.
+Archon of Sun's Grace added.
+Dante's Office added.
+Swords to Plowshares added.
+Virtuous Role added.
+Pegasus added.
+
+Everflowing Chalice removed.
+Sanctum Weaver removed.
+Spellskite removed.
+Nature's Chosen removed.
+Bael, Frost Toad removed.
+Gloria, Mysterious Benefactor removed.
+Jester, Manipulator of Malice removed.
+PF594: Argument removed.
+Now And Forever removed.
+Missile removed.
+Voice of Victory removed.
+HALO Insertion Array removed.
+Scholar of New Horizons removed.
+Tidus, Yuna's Guardian removed.
+Sanctuary Warden removed.
+Ivy, Gleeful Spellthief removed.
+
+Sol Ring
+
+Verdant Embrace
+
+Ash Barrens
+
+Deserted Beach
+
+Hinterland Harbor
+
+Tranquil Landscape
+
+Strength of the Harvest
+
+Contractual Safeguard
+
+Eidolon of Countless Battles
+
+Springheart Nantuko
+pt:  => 1/1
+
+Archon of the Wild Rose
+
+Setessan Champion
+
+Glyph Elemental
+
+Ethereal Armor
+
+Sage's Reverie
+
+Simic Growth Chamber
+
+Flooded Grove
+
+Overgrown Farmland
+
+Order of the Sword HQ
+
+Krosan Verge
+
+Mystic Gate
+
+Wooded Bastion
+
+Dreamroot Cascade
+
+Reliquary Tower
+
+Winds of Rath
+
+Ellivere of the Wild Court
+
+Selesnya Sanctuary
+
+Endless Detour
+
+Soldier
+
+Knight
+
+Order Gladius Token
+
+Witch Enchanter
+
+Citizen
+
+Heroic Intervention
+
+Doubling Season
+
+Family's Favor
+
+Damned King
+rules_text: Whenever you place one or more counters on a creature you control, you may create a white 1/1 Soldier creature token and place the same number and kind of counters on it. Do this only once each turn.
+{3}{W}{W}, {T}: Put a +1/+1 counter on this creature. => Whenever you place one or more counters on a creature you control, you may create a white 1/1 Soldier creature token and place the same number and kind of counters on it. Do this only once each turn.
+{2}{W}, {T}: Put a +1/+1 counter on this creature.
+
+Damned Rook
+rules_text: Whenever a creature you control becomes the only target of a spell, put a +1/+1 counter on it. If an opponent controlled that spell, you may draw a card. => [i]Castle — [/i]{G}: Change a target of target spell or ability to this creature.
+
+Order Basilisk
+type: Artifact Creature — Demon Dog => Enchantment Creature — Demon Dog
+cost: {G}{G} => {1}{G}
+rules_text: Bestow {2}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+[i]Support Fire — [/i]When this creature or enchanted creature attacks, it gains trample and each other attacking creature you control gets +1/+0 until end of turn. => Bestow {G}{G}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +2/+2.
+[i]Support Fire — [/i]When this creature or enchanted creature attacks, it gains trample and each other attacking creature you control gets +1/+0 until end of turn.
+pt: 1/3 => 2/2
+
+Order Cutlass
+type: Artifact Creature — Demon Fish => Enchantment Creature — Demon Fish
+rules_text: Bestow {1}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+This creature and enchanted creature can't be blocked by creatures with greater power. => Bestow {U}{U}
+Enchanted creature gets +1/+1.
+[i]Submerge[/i] — Whenever this creature or enchanted creature attacks, it connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on the creature. Auras don't attack.)[/i]
+pt: 1/2 => 1/1
+
+Bianco Angelo
+type: Creature — Demon Knight => Enchantment Creature — Demon Knight
+rules_text: Bestow {3}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+First strike, ward {1}
+[i]Phalanx — [/i]Enchanted creature gets +3/+3 and has first strike and ward {1}. => Bestow {1}{W}{W}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+First strike
+Enchanted creature gets +3/+3 and has first strike.
+
+Alto Angelo
+type: Creature — Demon Knight => Enchantment Creature — Demon Knight
+rules_text: Bestow {3}{W}{W}
+Flying
+Enchanted creature gets +4/+4 and has reach.
+{2}{W}, {T}: Alto Angelo deals X damage to target attacking or blocking creature, where X is the number of modified creatures you control. => Bestow {2}{W}{W}{W}
+Vigilance
+Enchanted creature gets +4/+4 and has vigilance.
+{1}{W}, {T}: Alto Angelo deals X damage to target attacking or blocking creature, where X is the number of modified creatures you control. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Order Gladius
+type: Artifact Creature — Demon Lizard => Enchantment Creature — Demon Lizard
+rules_text: Bestow {2}{W}
+Squad {2} [i](If this spell is Bestowed, the copies are creatures.)[/i]
+Flying
+[i]Adaptive Armament — [/i]Enchanted creature gets +2/+1 and has first strike. => Bestow {W}{W}{W}
+Squad {2} [i](If this spell is Bestowed, the copies are creatures.)[/i]
+Flying
+[i]Adaptive Armament — [/i]Enchanted creature gets +2/+1 and has first strike.
+
+Ascension Ceremony
+type: Instant => Enchantment
+rules_text: Deal 3 damage to target tapped creature. Then if it doesn't have lethal damage on it, draw a card and put two +1/+1 counters, a flying counter, and a shield counter on it. It becomes a Demon in addition to its other types. => When this enchantment enters, put a shield counter on target creature.
+Whenever a shield counter is removed from a creature you control, it becomes a Demon in addition to its other types, then it connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+The Holy Knights of Sparda
+cost: {1}{W}{U} => {1}{W}{W}
+rules_text: At the beginning of combat on your turn, put a shield counter on up to one target creature you control.
+Whenever a shield counter is removed from a creature you control, put two +1/+1 counters and a flying counter on it. => When this enchantment enters, put a shield counter on target creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever a shield counter is removed from a creature you control, create a 2/2 white Knight creature token with vigilance.
+
+Devil Bringer
+rules_text: Enchant creature
+When this Aura enters, draw a card.
+[i]Absorb Power — [/i]Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on enchanted creature. => Enchant creature
+When this Aura enters, draw a card.
+[i]Absorb Power — [/i]Whenever this or another enchantment enters the battlefield under your control, put a +1/+1 counter on enchanted creature.
+
+Dante's Awakening
+
+Duet in SSS-Major
+
+Jump Cancel
+rules_text: Counter target artifact, enchantment, or sorcery spell if its controller doesn't have a Stylish Rank of A or higher. Its controller may choose to gain four Stylish Ranks. If they don't, they scry 3, then draw a card. => Counter target artifact, enchantment, or sorcery spell if its controller doesn't have a Rank of A or higher. Its controller may choose to gain four Ranks. If they don't, they draw a card.
+
+The Savior
+type: Legendary Artifact Creature — Demon => Legendary Artifact Creature — Demon Construct
+rules_text: Flying, vigilance, lifelink
+Whenever The Savior enters or attacks, you may exile target nonland card in your graveyard with mana value four or less. If you do, copy it, and you may cast the copy without paying its mana cost. [i](A copy of a permanent spell becomes a token.)[/i]
+Creature tokens you control have vigilance and lifelink. => Flying, vigilance, lifelink
+Whenever The Savior enters or attacks, you may exile target nonland card in your graveyard with mana value four or less. If you do, copy it, and you may freecast the copy. [i](A copy of a permanent spell becomes a token.)[/i]
+Creature tokens you control have vigilance and lifelink.
+
+Credo, Holy Knight
+rules_text: Vigilance
+Whenever Credo attacks, put a shield counter on target creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+[i]Ascension — [/i]Whenever a shield counter is removed from a creature you control, put a +1/+1 counter on it. You may draw a card, then discard a card. 
+Devil Hunter => Vigilance
+[i]Guard Captain[/i] — When Credo enters, put a shield counter on target creature. 
+Stylish—Do the same whenever Credo and two or more other creatures attack. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+Freki and Geri
+cost: {2}{G}{G} => {G}{G}
+rules_text: Trample
+[i]Twin Hounds — [/i]Whenever Freki and Geri become the only target of a spell or ability, you may copy that spell or ability. [i](It doesn't get a new target.)[/i] Do this only once each turn. => [i]Twin Hounds — [/i]Whenever a player casts a spell that targets only Freki and Geri, you may copy that spell. [i](It has the same target. Copies of Aura spells enter as tokens.)[/i]
+
+Phineas, Underworld Prophet
+
+Kyrie, Voice of Hope
+rules_text: [i]Hymn to Sparda[/i] — Whenever a non-Citizen creature you control becomes the only target of a spell or ability, you may pay {1}. If you do, create a 1/1 green and white Citizen creature token. When you do, copy that spell or ability. The copy targets that token.
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i] => [i]Hymn to Sparda[/i] — Whenever a non-Citizen creature you control becomes the only target of a spell or ability, you may pay {GW}. If you do, create a 1/1 green and white Citizen creature token. When you do, copy that spell or ability. The copy targets that token. [You may do this only once each turn.]
+Stylish—Remove the text in brackets. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+Partner—Devil Hunter
+
+Awakened Lineage
+
+Angelo Credo
+
+The Dark Knight Sparda
+rules_text: [+2]: Gain two Stylish Ranks. 
+[-2]: Add up to X mana of different colors, where X is your number of Stylish Ranks.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him. => [+2]: Gain a Rank. 
+[-1]: Choose a Rank you have and trigger its ability as though you were attacking.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Partner—Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him.
+special_text: [+2]: Gain two Stylish Ranks. 
+[-2]: Add up to X mana of different colors, where X is your number of Stylish Ranks.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him. => [+2]: Gain a Rank. 
+[-1]: Choose a Rank you have and trigger its ability as though you were attacking.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Partner—Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him.
+
+Frost Demon
+type: Snow Creature — Demon => Snow Creature — Demon Lizard
+rules_text: [i]Crystallize[/i] — Whenever you put one or more counters on one or more other nonsnow creatures you control, you may put one of each of those kinds of counters on this creature. => [i]Crystallize[/i] — If you would put one or more counters on one or more other nonsnow creatures you control, you may put one of each of those kinds of counters on this creature as well.
+
+Stand And Fight Together
+
+Time We Ended This
+
+Royalguard Style
+type: Instant — Style => Legendary Instant — Style
+rules_text: Gain a Stylish Rank.
+Creatures you control gain indestructible until end of turn. 
+[i]Dreadnaught[/i] — If your Stylish Rank is A or higher, untap and put a +1/+1 counter on each of them. => Gain a Rank. 
+Untap each creature you control. They gain indestructible until end of turn. 
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Quicksilver Style
+type: Instant — Style => Legendary Instant — Style
+cost: {2}{U}{U} => {1}{U}
+rules_text: Gain a Stylish Rank. 
+Counter target noncreature spell. => Gain a Rank. 
+Return target spell or nonland permanent to its owner's hand. Players can't cast spells with the same name as it this turn.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Summoner Style
+type: Sorcery — Style => Legendary Sorcery — Style
+rules_text: Gain a Stylish Rank. 
+Return target permanent card from your graveyard to your hand. => Gain a Rank. 
+Return up to two target creature cards from your graveyard to your hand. 
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+Wake Up To Justice
+rules_text: Kicker {2}{W}{U}
+Target opponent chooses a creature they control that's attacking you. If this spell was kicked, you choose instead. Gain control of that creature. => Kicker {1}{W}{U}
+Target opponent chooses a creature they control that's attacking you. Gain control of that creature.
+Stylish—If this spell was kicked, you choose instead.
+
+Field of Brotherhood
+type: Land — Forest Plains => Land — Plains Forest
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {G} or {W}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Fortuna Castle
+rules_text: [i]({T}: Add {W} or {U})[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {W} or {U})[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Fortuna Terrace
+rules_text: This land enters tapped unless you've had Stylish Rank A this turn.
+{T}: Add {W}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control a Plains.
+{T}: Add {W}.
+{2}, {T}: Gain a Rank.
+
+Mitis Rainforest
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {G} or {U}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Red Grave Ruin
+rules_text: This land enters tapped unless you've had Stylish Rank A this turn.
+{T}: Add {G}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+{2}, {T}: Gain a Rank.
+
+Temen-ni-Gru Apex
+rules_text: This land enters tapped unless you've had Stylish Rank A this turn.
+{T}: Add {U}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control an Island.
+{T}: Add {U}.
+{2}, {T}: Gain a Rank.
+
+Stylish Rank
+
+Stylish Ranks
+
+Almost Perfect
+
+Soprano Angelo
+cost: {1}{G} => {G}{G}
+rules_text: Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature has “{T}: Add one mana of any color and put a +1/+1 counter on target creature.” => Enchant creature
+When this Aura enters, draw a card.
+{0}: Untap enchanted creature. Activate only during your turn and only once each turn.
+Tap enchanted creature: Untap target artifact, creature, or land. Activate only if enchanted creature is multicolor and only once each turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Almost Perfect added.

@@ -1,17 +1,17 @@
 ﻿[
     {
         "card_name": "Winds of Rath",
-        "number": 21,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "35"
-    },
-    {
-        "card_name": "Bael, Frost Toad",
         "number": 22,
         "shape": "normal",
         "set": "KYR",
-        "position": "53"
+        "position": "32"
+    },
+    {
+        "card_name": "Devil Arm: Cerberus",
+        "number": 0,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "57"
     },
     {
         "card_name": "e"
@@ -21,24 +21,24 @@
     },
     {
         "card_name": "Doubling Season",
-        "number": 33,
+        "number": 35,
         "shape": "normal",
         "set": "KYR",
-        "position": "93"
+        "position": "51"
     },
     {
-        "card_name": "Archon of the Wild Rose",
+        "card_name": "Archon of Sun's Grace",
         "number": 2,
         "shape": "normal",
         "set": "KYR",
-        "position": "19"
+        "position": "94"
     },
     {
-        "card_name": "Dante's Awakening",
-        "number": 23,
-        "shape": "saga",
+        "card_name": "Ice Guardian Cerberus",
+        "number": 25,
+        "shape": "normal",
         "set": "KYR",
-        "position": "58"
+        "position": "85"
     },
     {
         "card_name": "e"
@@ -48,24 +48,24 @@
     },
     {
         "card_name": "Freki and Geri",
-        "number": 36,
+        "number": 38,
         "shape": "normal",
         "set": "KYR",
-        "position": "106"
+        "position": "77"
     },
     {
-        "card_name": "Contractual Safeguard",
-        "number": 5,
+        "card_name": "Archon of the Wild Rose",
+        "number": 3,
         "shape": "normal",
         "set": "KYR",
-        "position": "15"
+        "position": "18"
     },
     {
-        "card_name": "Gloria, Mysterious Benefactor",
-        "number": 25,
-        "shape": "normal",
+        "card_name": "Dante's Awakening",
+        "number": 23,
+        "shape": "saga",
         "set": "KYR",
-        "position": "55"
+        "position": "71"
     },
     {
         "card_name": "e"
@@ -75,20 +75,182 @@
     },
     {
         "card_name": "Heroic Intervention",
-        "number": 37,
+        "number": 39,
         "shape": "normal",
         "set": "KYR",
-        "position": "89"
+        "position": "50"
+    },
+    {
+        "card_name": "Contractual Safeguard",
+        "number": 7,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "14"
+    },
+    {
+        "card_name": "Jump Cancel",
+        "number": 27,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "73"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hound Master Bolverk",
+        "number": 40,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "76"
     },
     {
         "card_name": "Damned King",
-        "number": 6,
+        "number": 8,
         "shape": "normal",
         "set": "KYR",
-        "position": "61"
+        "position": "59"
     },
     {
-        "card_name": "Jester, Manipulator of Malice",
+        "card_name": "Manipulator of Malice Jester",
+        "number": 28,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "93"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jaheira, Friend of the Forest",
+        "number": 41,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "16"
+    },
+    {
+        "card_name": "Eidolon of Countless Battles",
+        "number": 9,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "15"
+    },
+    {
+        "card_name": "Order Cutlass",
+        "number": 29,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "64"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Setessan Champion",
+        "number": 44,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "19"
+    },
+    {
+        "card_name": "Ethereal Armor",
+        "number": 10,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "21"
+    },
+    {
+        "card_name": "Quicksilver Style",
+        "number": 30,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "90"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Soprano Angelo",
+        "number": 45,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "105"
+    },
+    {
+        "card_name": "Glyph Elemental",
+        "number": 11,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "20"
+    },
+    {
+        "card_name": "Thrummingbird",
+        "number": 31,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Springheart Nantuko",
+        "number": 46,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "17"
+    },
+    {
+        "card_name": "The Holy Knights of Sparda",
+        "number": 12,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "69"
+    },
+    {
+        "card_name": "Frost Demon",
+        "number": 24,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "86"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Stand And Fight Together",
+        "number": 47,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "87"
+    },
+    {
+        "card_name": "Phineas, Underworld Prophet",
+        "number": 14,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "78"
+    },
+    {
+        "card_name": "Insight Engine",
         "number": 26,
         "shape": "normal",
         "set": "KYR",
@@ -101,153 +263,18 @@
         "card_name": "e"
     },
     {
-        "card_name": "Nature's Chosen",
-        "number": 39,
+        "card_name": "Chained Behemoth",
+        "number": 32,
         "shape": "normal",
         "set": "KYR",
-        "position": "25"
-    },
-    {
-        "card_name": "Eidolon of Countless Battles",
-        "number": 7,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "16"
-    },
-    {
-        "card_name": "Jump Cancel",
-        "number": 27,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "66"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sanctum Weaver",
-        "number": 41,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "17"
-    },
-    {
-        "card_name": "Ethereal Armor",
-        "number": 8,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "23"
-    },
-    {
-        "card_name": "Quicksilver Style",
-        "number": 29,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "59"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Setessan Champion",
-        "number": 42,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "20"
-    },
-    {
-        "card_name": "Glyph Elemental",
-        "number": 9,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "21"
-    },
-    {
-        "card_name": "Thrummingbird",
-        "number": 30,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "5"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Soprano Angelo",
-        "number": 43,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "46"
-    },
-    {
-        "card_name": "HALO Insertion Array",
-        "number": 10,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "97"
-    },
-    {
-        "card_name": "Frost Demon",
-        "number": 24,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "54"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Springheart Nantuko",
-        "number": 44,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "18"
-    },
-    {
-        "card_name": "Phineas, Underworld Prophet",
-        "number": 12,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "94"
-    },
-    {
-        "card_name": "Order Cutlass",
-        "number": 28,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "57"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Stand And Fight Together",
-        "number": 45,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "47"
+        "position": "62"
     },
     {
         "card_name": "Sage's Reverie",
-        "number": 14,
+        "number": 16,
         "shape": "normal",
         "set": "KYR",
-        "position": "24"
+        "position": "22"
     },
     {
         "card_name": "e"
@@ -260,17 +287,17 @@
     },
     {
         "card_name": "Damned Rook",
-        "number": 31,
+        "number": 33,
         "shape": "normal",
         "set": "KYR",
-        "position": "71"
+        "position": "60"
     },
     {
         "card_name": "The Savior",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "KYR",
-        "position": "96"
+        "position": "74"
     },
     {
         "card_name": "e"
@@ -283,17 +310,17 @@
     },
     {
         "card_name": "Evolution Sage",
-        "number": 34,
+        "number": 36,
         "shape": "normal",
         "set": "KYR",
         "position": "6"
     },
     {
         "card_name": "Time We Ended This",
-        "number": 19,
+        "number": 21,
         "shape": "normal",
         "set": "KYR",
-        "position": "65"
+        "position": "88"
     },
     {
         "card_name": "e"
@@ -306,17 +333,17 @@
     },
     {
         "card_name": "Order Basilisk",
-        "number": 40,
+        "number": 43,
         "shape": "normal",
         "set": "KYR",
-        "position": "45"
+        "position": "63"
     },
     {
-        "card_name": "Voice of Victory",
-        "number": 20,
+        "card_name": "Alto Angelo",
+        "number": 1,
         "shape": "normal",
         "set": "KYR",
-        "position": "95"
+        "position": "66"
     },
     {
         "card_name": "e"
@@ -329,17 +356,17 @@
     },
     {
         "card_name": "Summoner Style",
-        "number": 46,
+        "number": 48,
         "shape": "normal",
         "set": "KYR",
-        "position": "101"
+        "position": "91"
     },
     {
-        "card_name": "Alto Angelo",
-        "number": 1,
+        "card_name": "Ascension Ceremony",
+        "number": 4,
         "shape": "normal",
         "set": "KYR",
-        "position": "48"
+        "position": "68"
     },
     {
         "card_name": "e"
@@ -352,17 +379,17 @@
     },
     {
         "card_name": "Verdant Embrace",
-        "number": 47,
+        "number": 49,
         "shape": "normal",
         "set": "KYR",
-        "position": "9"
+        "position": "8"
     },
     {
         "card_name": "Royalguard Style",
-        "number": 13,
+        "number": 15,
         "shape": "normal",
         "set": "KYR",
-        "position": "52"
+        "position": "89"
     },
     {
         "card_name": "e"
@@ -375,10 +402,10 @@
     },
     {
         "card_name": "Devil Bringer",
-        "number": 32,
+        "number": 34,
         "shape": "normal",
         "set": "KYR",
-        "position": "44"
+        "position": "70"
     },
     {
         "card_name": "Sheltered by Ghosts",
@@ -398,17 +425,17 @@
     },
     {
         "card_name": "Family's Favor",
-        "number": 35,
+        "number": 37,
         "shape": "normal",
         "set": "KYR",
-        "position": "98"
+        "position": "52"
     },
     {
-        "card_name": "Soldier",
-        "number": 0,
+        "card_name": "Sweet Surrender",
+        "number": 19,
         "shape": "normal",
         "set": "KYR",
-        "position": "62"
+        "position": "61"
     },
     {
         "card_name": "e"
@@ -421,17 +448,36 @@
     },
     {
         "card_name": "Kodama of the West Tree",
-        "number": 38,
+        "number": 42,
         "shape": "normal",
         "set": "KYR",
         "position": "0"
+    },
+    {
+        "card_name": "Soldier",
+        "number": 0,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "36"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Knight",
         "number": 0,
         "shape": "normal",
         "set": "KYR",
-        "position": "63"
+        "position": "37"
     },
     {
         "card_name": "e"
@@ -450,7 +496,7 @@
         "number": 0,
         "shape": "normal",
         "set": "KYR",
-        "position": "64"
+        "position": "38"
     },
     {
         "card_name": "e"
@@ -465,11 +511,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Ascension Ceremony",
-        "number": 3,
+        "card_name": "Pegasus",
+        "number": 0,
         "shape": "normal",
         "set": "KYR",
-        "position": "49"
+        "position": "108"
     },
     {
         "card_name": "e"
@@ -485,10 +531,29 @@
     },
     {
         "card_name": "Bianco Angelo",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "KYR",
-        "position": "50"
+        "position": "65"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Caretaker's Talent",
+        "number": 6,
+        "shape": "class",
+        "set": "KYR",
+        "position": "58"
     },
     {
         "card_name": "e"
@@ -504,10 +569,10 @@
     },
     {
         "card_name": "Order Gladius",
-        "number": 11,
+        "number": 13,
         "shape": "normal",
         "set": "KYR",
-        "position": "51"
+        "position": "67"
     },
     {
         "card_name": "e"
@@ -522,30 +587,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sanctuary Warden",
-        "number": 15,
+        "card_name": "Swords to Plowshares",
+        "number": 20,
         "shape": "normal",
         "set": "KYR",
-        "position": "105"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Scholar of New Horizons",
-        "number": 17,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "102"
+        "position": "106"
     },
     {
         "card_name": "e"
@@ -574,33 +620,10 @@
     "a->gold",
     {
         "card_name": "Angelo Credo",
-        "number": 49,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "41"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Almost Perfect",
-        "number": 48,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "37"
-    },
-    {
-        "card_name": "Credo, Holy Knight",
         "number": 51,
         "shape": "normal",
         "set": "KYR",
-        "position": "103"
+        "position": "83"
     },
     {
         "card_name": "e"
@@ -613,17 +636,17 @@
     },
     {
         "card_name": "Awakened Lineage",
-        "number": 50,
+        "number": 52,
         "shape": "normal",
         "set": "KYR",
-        "position": "42"
+        "position": "82"
     },
     {
-        "card_name": "The Holy Knights of Sparda",
-        "number": 56,
+        "card_name": "Credo, Holy Knight",
+        "number": 53,
         "shape": "normal",
         "set": "KYR",
-        "position": "86"
+        "position": "75"
     },
     {
         "card_name": "e"
@@ -636,17 +659,17 @@
     },
     {
         "card_name": "Ellivere of the Wild Court",
-        "number": 54,
+        "number": 56,
         "shape": "normal",
         "set": "KYR",
-        "position": "36"
+        "position": "33"
     },
     {
         "card_name": "Wake Up To Justice",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "KYR",
-        "position": "87"
+        "position": "92"
     },
     {
         "card_name": "e"
@@ -659,29 +682,33 @@
     },
     {
         "card_name": "Kyrie, Voice of Hope",
-        "number": 58,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "39"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Now And Forever",
         "number": 59,
         "shape": "normal",
         "set": "KYR",
-        "position": "75"
+        "position": "81"
+    },
+    {
+        "card_name": "Vergil, Cold-Hearted",
+        "number": 60,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "79"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Almost Perfect",
+        "number": 50,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "104"
     },
     {
         "card_name": "e"
@@ -697,10 +724,29 @@
     },
     {
         "card_name": "Duet in SSS-Major",
-        "number": 53,
+        "number": 55,
         "shape": "saga",
         "set": "KYR",
-        "position": "88"
+        "position": "72"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hosanna, Puppeteer of the Sefirot",
+        "number": 58,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "80"
     },
     {
         "card_name": "e"
@@ -719,7 +765,7 @@
         "number": 0,
         "shape": "normal",
         "set": "KYR",
-        "position": "83"
+        "position": "49"
     },
     {
         "card_name": "er"
@@ -737,59 +783,25 @@
         "card_name": "er"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Ivy, Gleeful Spellthief",
-        "number": 57,
+        "card_name": "Vergil, Liberator of Makai",
+        "number": 61,
         "shape": "normal",
         "set": "KYR",
-        "position": "107"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
+        "position": "55"
     },
     {
         "card_name": "Endless Detour",
-        "number": 55,
+        "number": 57,
         "shape": "normal",
         "set": "KYR",
-        "position": "40"
-    },
-    {
-        "card_name": "Tidus, Yuna's Guardian",
-        "number": 60,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "104"
+        "position": "35"
     },
     {
         "card_name": "The Dark Knight Sparda",
-        "number": 52,
+        "number": 54,
         "shape": "planeswalker",
         "set": "KYR",
-        "position": "43"
+        "position": "84"
     },
     {
         "card_name": "e"
@@ -811,66 +823,39 @@
     },
     "a->colorless",
     {
-        "card_name": "PF594: Argument",
-        "number": 0,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "60"
-    },
-    {
-        "card_name": "Spellskite",
-        "number": 65,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "22"
-    },
-    {
-        "card_name": "Everflowing Chalice",
-        "number": 63,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "7"
-    },
-    {
         "card_name": "Sol Ring",
         "number": 64,
         "shape": "normal",
         "set": "KYR",
-        "position": "8"
-    },
-    {
-        "card_name": "Missile",
-        "number": 0,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "82"
+        "position": "7"
     },
     {
         "card_name": "Stylish Rank",
         "number": 0,
         "shape": "normal",
         "set": "KYR",
-        "position": "84"
+        "position": "102"
     },
     {
         "card_name": "Stylish Ranks",
         "number": 0,
         "shape": "normal",
         "set": "KYR",
-        "position": "85"
+        "position": "103"
+    },
+    {
+        "card_name": "Virtuous Role",
+        "number": 0,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "107"
     },
     {
         "card_name": "Arcane Signet",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "KYR",
         "position": "1"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -890,14 +875,14 @@
         "number": 74,
         "shape": "normal",
         "set": "KYR",
-        "position": "67"
+        "position": "98"
     },
     {
         "card_name": "Temen-ni-Gru Apex",
         "number": 86,
         "shape": "normal",
         "set": "KYR",
-        "position": "69"
+        "position": "101"
     },
     {
         "card_name": "e"
@@ -910,14 +895,14 @@
         "number": 81,
         "shape": "normal",
         "set": "KYR",
-        "position": "68"
+        "position": "100"
     },
     {
         "card_name": "Witch Enchanter",
         "number": 88,
         "shape": "normal",
         "set": "KYR",
-        "position": "70"
+        "position": "39"
     },
     {
         "card_name": "e"
@@ -951,7 +936,7 @@
         "number": 78,
         "shape": "normal",
         "set": "KYR",
-        "position": "31"
+        "position": "28"
     },
     {
         "card_name": "e"
@@ -967,14 +952,14 @@
         "number": 80,
         "shape": "normal",
         "set": "KYR",
-        "position": "28"
+        "position": "25"
     },
     {
         "card_name": "Deserted Beach",
         "number": 69,
         "shape": "normal",
         "set": "KYR",
-        "position": "11"
+        "position": "10"
     },
     {
         "card_name": "e"
@@ -990,14 +975,14 @@
         "number": 89,
         "shape": "normal",
         "set": "KYR",
-        "position": "32"
+        "position": "29"
     },
     {
         "card_name": "Fortuna Castle",
         "number": 73,
         "shape": "normal",
         "set": "KYR",
-        "position": "91"
+        "position": "97"
     },
     {
         "card_name": "e"
@@ -1013,11 +998,11 @@
         "number": 85,
         "shape": "normal",
         "set": "KYR",
-        "position": "14"
+        "position": "13"
     },
     {
         "card_name": "Azorius Chancery",
-        "number": 67,
+        "number": 66,
         "shape": "normal",
         "set": "KYR",
         "position": "3"
@@ -1036,7 +1021,7 @@
         "number": 71,
         "shape": "normal",
         "set": "KYR",
-        "position": "90"
+        "position": "96"
     },
     {
         "card_name": "e"
@@ -1055,7 +1040,7 @@
         "number": 83,
         "shape": "normal",
         "set": "KYR",
-        "position": "38"
+        "position": "34"
     },
     {
         "card_name": "er"
@@ -1089,7 +1074,7 @@
         "number": 70,
         "shape": "normal",
         "set": "KYR",
-        "position": "33"
+        "position": "30"
     },
     {
         "card_name": "e"
@@ -1108,7 +1093,7 @@
         "number": 72,
         "shape": "normal",
         "set": "KYR",
-        "position": "27"
+        "position": "24"
     },
     {
         "card_name": "e"
@@ -1127,7 +1112,7 @@
         "number": 84,
         "shape": "normal",
         "set": "KYR",
-        "position": "26"
+        "position": "23"
     },
     {
         "card_name": "e"
@@ -1146,7 +1131,7 @@
         "number": 75,
         "shape": "normal",
         "set": "KYR",
-        "position": "12"
+        "position": "11"
     },
     {
         "card_name": "e"
@@ -1165,7 +1150,7 @@
         "number": 77,
         "shape": "normal",
         "set": "KYR",
-        "position": "92"
+        "position": "99"
     },
     {
         "card_name": "er"
@@ -1187,45 +1172,49 @@
         "number": 76,
         "shape": "normal",
         "set": "KYR",
-        "position": "30"
+        "position": "27"
     },
     {
         "card_name": "Order of the Sword HQ",
         "number": 79,
         "shape": "normal",
         "set": "KYR",
-        "position": "29"
+        "position": "26"
     },
     {
         "card_name": "Reliquary Tower",
         "number": 82,
         "shape": "normal",
         "set": "KYR",
-        "position": "34"
+        "position": "31"
     },
     {
         "card_name": "Ash Barrens",
-        "number": 66,
+        "number": 65,
         "shape": "normal",
         "set": "KYR",
-        "position": "10"
+        "position": "9"
+    },
+    {
+        "card_name": "Dante's Office",
+        "number": 68,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "95"
     },
     {
         "card_name": "Tranquil Landscape",
         "number": 87,
         "shape": "normal",
         "set": "KYR",
-        "position": "13"
+        "position": "12"
     },
     {
         "card_name": "Command Tower",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "KYR",
         "position": "2"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1256,77 +1245,77 @@
         "number": 92,
         "shape": "normal",
         "set": "KYR",
-        "position": "72"
+        "position": "40"
     },
     {
         "card_name": "Plains",
         "number": 93,
         "shape": "normal",
         "set": "KYR",
-        "position": "73"
-    },
-    {
-        "card_name": "Plains",
-        "number": 90,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "74"
-    },
-    {
-        "card_name": "Island",
-        "number": 96,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "76"
-    },
-    {
-        "card_name": "Island",
-        "number": 94,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "77"
-    },
-    {
-        "card_name": "Island",
-        "number": 95,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "78"
-    },
-    {
-        "card_name": "Forest",
-        "number": 100,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "79"
-    },
-    {
-        "card_name": "Forest",
-        "number": 98,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "80"
-    },
-    {
-        "card_name": "Forest",
-        "number": 97,
-        "shape": "normal",
-        "set": "KYR",
-        "position": "81"
+        "position": "41"
     },
     {
         "card_name": "Plains",
         "number": 91,
         "shape": "normal",
         "set": "KYR",
-        "position": "99"
+        "position": "42"
+    },
+    {
+        "card_name": "Island",
+        "number": 96,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "43"
+    },
+    {
+        "card_name": "Island",
+        "number": 95,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "44"
+    },
+    {
+        "card_name": "Island",
+        "number": 94,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "45"
     },
     {
         "card_name": "Forest",
         "number": 99,
         "shape": "normal",
         "set": "KYR",
-        "position": "100"
+        "position": "46"
+    },
+    {
+        "card_name": "Forest",
+        "number": 98,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "47"
+    },
+    {
+        "card_name": "Forest",
+        "number": 97,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "48"
+    },
+    {
+        "card_name": "Plains",
+        "number": 90,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "53"
+    },
+    {
+        "card_name": "Forest",
+        "number": 100,
+        "shape": "normal",
+        "set": "KYR",
+        "position": "54"
     },
     {
         "card_name": "e"
