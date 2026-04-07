@@ -1,4 +1,333 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Breath of Fury added.
+Third Hell: Wrath added.
+Arius's Mad Ambition added.
+Holy Fist Beowulf added.
+Fist of Chaos Balrog added.
+Gold Orb added.
+Mary, DARKCOM Operative added.
+Vice President Baines added.
+Mardu Siegebreaker added.
+Blitz added.
+Ambitious Scum Sid added.
+Doom Weaver added.
+Season of Loss added.
+Colosseum Sacrifice Griffon added.
+Phineas, Underworld Prophet added.
+Secretary Demons added.
+You Might Never Return added.
+Illuminated Corruption Artemis added.
+Would-Be King Arius added.
+You Have Failed Me added.
+Fourth Hell: Sloth Token added.
+Empusa Token added.
+Treasure added.
+Dark Realm Command added.
+Dante's Office added.
+Kardur, Doomscourge added.
+
+Full Throttle removed.
+Path of Ancestry removed.
+Doomed Necromancer removed.
+Rakdos Signet removed.
+Orzhov Signet removed.
+Nomad Outpost removed.
+Aggravated Assault removed.
+Vindictive Lich removed.
+Boros Signet removed.
+Isshin, Two Heavens As One removed.
+Ebony and Ivory removed.
+Artemis, Illuminated removed.
+Beowulf, Holy Fist removed.
+Sin Scissors removed.
+Fraternal Ferocity removed.
+Sweet Surrender removed.
+Secretary Demon removed.
+Sealed From The Other Side removed.
+Balrog, Fist of Chaos removed.
+Dante Must Die removed.
+Balor removed.
+The Despair Embodied removed.
+Arius, Megalomaniac removed.
+
+Dalkovan Encampment
+
+Bojuka Bog
+
+Boros Garrison
+
+Clifftop Retreat
+
+Command Tower
+
+Isolated Chapel
+
+Graven Cairns
+
+Orzhov Basilica
+
+Fetid Heath
+
+Rakdos Carnarium
+
+Shattered Landscape
+
+Swords to Plowshares
+
+Skyhunter Strike Force
+
+Morbid Opportunist
+
+Rite of Oblivion
+
+Legion Leadership
+
+Sol Ring
+rules_text:  => {T}: Add {C}{C}.
+
+Swiftfoot Boots
+
+Arcane Signet
+rules_text: Is Arcane Signet => {T}: Add one mana of any color in your commander's color identity
+
+Rugged Prairie
+
+Shattered Sanctum
+
+Sundown Pass
+
+Dragonskull Summit
+
+Haunted Ridge
+
+Akroma's Will
+
+Brutal Hordechief
+
+Blade Historian
+
+Iroas, God of Victory
+
+Black Market Connections
+
+Fell the Profane
+
+Long-Range Sensor
+
+Burnished Hart
+
+Ruinous Ultimatum
+
+Master Warcraft
+
+Swordmaster Style
+type: Instant — Style => Legendary Instant — Style
+rules_text: Gain a Stylish Rank. 
+Creatures you control gain haste, first strike, and trample until end of turn. => Gain a Rank. 
+Creatures you control gain haste, first strike, and trample until end of turn.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+Trickster Style
+type: Instant — Style => Legendary Instant — Style
+rules_text: Gain a Stylish Rank.
+Exile target creature you control. You may return it to the battlefield under your control [i](now)[/i]. If you don't, return it to the battlefield under your control at the beginning of the next end step. => Gain a Rank.
+Exile target creature, then return it to the battlefield.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Fortuna Terrace
+rules_text: This land enters tapped unless you've had Stylish Rank A this turn.
+{T}: Add {W}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control a Plains.
+{T}: Add {W}.
+{2}, {T}: Gain a Rank.
+
+Nefasturris
+rules_text: This land enters tapped.
+Reach, vigilance
+{T}: Add {B}.
+Sacrifice a permanent: Put a +1/+1 counter on this land. It becomes a black Devil Construct creature that's still a land until end of turn. Activate only once each turn. => This land enters tapped.
+Reach, vigilance
+{T}: Add {B}.
+Sacrifice another permanent: Put a +1/+1 counter on this land. It becomes a black Demon Construct creature that's still a land until end of turn. Activate only once each turn.
+
+Demonochorus
+type: Creature — Angel => Creature — Demon Angel
+cost: {2}{W} => {1}{W}
+pt: 2/2 => 1/2
+
+Blade of Mundus
+
+Fury Demon
+
+Fourth Hell: Sloth
+rules_text: Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i] => Squad {2}
+Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+pt: 0/2 => 1/2
+
+Agonofinis
+
+Chimera Seed
+type: Creature — Demon Plant => Enchantment Creature — Demon Plant
+
+Table Hopper
+rules_text: [i]Overcommit — [/i]Whenever a creature deals damage to you, goad it until the end of its controller's next turn.
+[i]Reposition —- [/i]Sacrifice this enchantment during the declare blockers step: Choose an attacking creature. For any number of creatures the defending player controls, that creature either blocks it or stops blocking it. [i](The new blocks don't have to be legal. If you remove all blockers from a blocked creature, it's still “blocked.”)[/i] => [i]Overcommit — [/i]Whenever a creature deals damage to you, goad it until the end of its controller's next turn.
+[i]Reposition — [/i]Sacrifice this enchantment during the declare blockers step: Choose an attacking creature. For any number of creatures the defending player controls, that creature either blocks it or stops blocking it. [i](The new blocks don't have to be legal. If you remove all blockers from a blocked creature, it's still “blocked.”)[/i]
+
+La Vita Nuova
+cost: {2}{W} => {1}{W}
+
+Devil Sword Dante
+rules_text: [i]Swords Formation — [/i]Equipped creature has double strike, menace, and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on each creature you control.”
+Equip {4}. This ability costs {2} less to activate if the creature it targets was dealt damage this turn. => [i]Swords Formation — [/i]Equipped creature has double strike, menace, and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on each creature you control.”
+Equip {4}. This ability costs {3} less to activate if the creature it targets was dealt damage this turn.
+
+Devil Sword Sparda
+rules_text: Equipped creature gets +2/+2.
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, it gets your choice of first strike, menace, or trample until end of turn. 
+Equip {2} => Equipped creature gets +1/+1.
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, creatures you control get your choice of first strike, menace, or trample until end of turn. 
+Equip {3}
+
+Nelo Angelo
+type: Legendary Creature — Demon Human Knight => Legendary Creature — Demon Knight
+
+Beryl, Beastheads Hunter
+
+Sin Devil Trigger
+type: Legendary Enchantment — Aura => Enchantment — Aura
+
+Wings of the Guardian
+type: Legendary Enchantment — Aura => Enchantment — Aura
+
+You're Just Dead Weight!
+cost: {2}{W} => {1}{W}
+rules_text: Enchant creature you don't control
+When this Aura enters, gain a Stylish Rank. Enchanted creature's controller may do the same.
+Enchanted creature has indestructible, is goaded, and gets +1/+1 for each Rank you have. 
+{1}{W}: Exile enchanted creature. You can't activate this ability if its controller has more Ranks than you. => Stylish [i](Your rank starts at D.)[/i]
+Enchant creature
+Enchanted creature can't attack or block.
+If your rank is A or higher, this Aura gains “enchant permanent” and enchanted permanent loses all abilities and card types.
+
+Agni and Rudra
+cost: {2}{R}{R} => {2}{R}{W}
+rules_text: Equipped creature gets +3/+3 and has trample.
+[i]Million Slash[/i] — Whenever this creature or equipped creature deals 5 or more combat damage to a player for the first time each turn, untap it. After this combat, there is an additional main phase followed by an additional combat step.
+Reconfigure {2}{R} [i]({2}{R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => Trample, stylish
+Equipped creature gets +3/+3 and has trample.
+Whenever this creature or equipped creature deals combat damage to a player for the first time each turn, if your rank is A or higher, untap it and give it double strike until end of turn. There's an additional combat phase after this phase. 
+Reconfigure {R}{W} [i]({R}{W}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Devil Sword Rebellion
+rules_text: Equipped creature gets +2/+2.
+Whenever equipped creature attacks, choose one:
+• [i]High Time[/i] — Gain a Stylish Rank.
+• [i]Helm Splitter[/i] — Trigger one of your Rank abilities, then lose a Rank.
+Equip {2} => Equipped creature gets +2/+2.
+{1}{W}: Choose one. Activate this ability only if equipped creature is attacking and only once each combat.
+• [i]High Time[/i] — Gain a Rank.
+• [i]Helm Splitter[/i] — Trigger one of your Rank abilities, then lose a Rank.
+Equip {2}
+
+Lucia, Forlorn Protector
+rules_text: Lifelink
+[i]Deeper Than Blood[/i] — Whenever a creature you control dies, you may pay 3 life. If you do, return it from the graveyard to the battlefield tapped with a finality counter on it.
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i] => Lifelink, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Deeper Than Blood[/i] — Whenever another creature you control dies during your turn, [if you sacrificed it,] you may pay 3 life. If you do, return it from the graveyard to the battlefield with a finality counter on it.
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+Demon Emperor Mundus
+rules_text: Flying, lifelink
+Whenever Mundus enters or attacks, destroy another target creature.
+Whenever another creature dies, you may create a token that's a copy of it. Do this only one time each turn. => Flying, lifelink
+Whenever Mundus enters or attacks, destroy another target creature.
+Whenever a creature an opponent controls dies, you may create a token that's a copy of it. Do this only one time each turn.
+
+Matier, Protector
+
+Jackpot!
+cost: {R}{R} => {1}{R}{R}
+rules_text: Jackpot! deals 3 damage to target creature you don't control, plus one additional damage per Stylish Rank you have. Then if that creature has lethal damage and its mana value is higher than the number of Ranks you have, gain Ranks equal to the difference. => Stylish [i](Your rank starts at D.)[/i]
+Jackpot! deals 4 damage to target creature you don't control. Then if that creature has lethal damage on it, you may discard your hand. If you do, draw a card for each Rank you have.
+
+The Monarch
+
+Stylish Rank
+
+Stylish Ranks
+
+Devil Arm: Beowulf
+
+Devil Arm: Artemis
+
+Devil Arm: Balrog
+
+Dante, Son of Sparda
+rules_text: Haste, first strike, vigilance
+[i]Million Stab — [/i]Whenever Dante attacks, gain a Stylish Rank. If you would choose and trigger a single Rank at the end of this combat, trigger every Rank you have instead.
+[i]EX Provocation — [/i]Whenever you gain a Stylish Rank, tap and goad target creature.
+Devil Hunter [i](You can have a second commander if it has Devil Hunter or is a Style. When this enters, gain a Stylish Rank.)[/i] => Haste, first strike, stylish 
+[i]Stinger—[/i]Whenever Dante attacks, tap and goad target creature. The next time a rank ability triggers this combat, it triggers an additional time. 
+[i]Million Stab—[/i]When rank SSS triggers for the first time during each of your turns, untap each creature you control. There's an additional combat phase after this phase. 
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+This Party's Getting Crazy!
+cost: {R}{W} => {1}{R}{W}
+rules_text: At the end of your combat, gain a Stylish Rank, then gain another for each player who has lost the game.
+If you would gain a Rank while your Rank is already SSS, this enchantment deals 3 damage to any target and you gain 3 life instead. => Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Whenever one or more creatures you control attack, each of them gains [your choice of one between] lifelink, menace, and indestructible until end of turn.
+
+The Bloody Palace
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Dumary Alleyways
+rules_text: [i]({T}: Add {R} or {W}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {R} or {W}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Mallet Castle
+rules_text: This land enters tapped unless you've had Stylish Rank A this turn.
+{T}: Add {B}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control a Swamp.
+{T}: Add {B}.
+{2}, {T}: Gain a Rank.
+
+Sparda Estate
+rules_text: [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped unless your Stylish Rank is A or higher. => [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Vie de Marli
+rules_text: This land enters tapped unless you've had Stylish Rank A this turn.
+{T}: Add {R}.
+{2}, {T}: Gain a Stylish Rank. => This land enters tapped unless you control a Mountain.
+{T}: Add {R}.
+{2}, {T}: Gain a Rank.
+
+Blood Harvest Style
+type: Sorcery — Style => Legendary Sorcery — Style
+cost: {2}{B} => {1}{B}
+rules_text: Gain a Stylish Rank. 
+Draw two cards and lose 2 life. 
+[i]Coalesce —[/i] If your Stylish Rank is A or higher, each opponent loses 2 life and you create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => As an additional cost to cast this spell, sacrifice a creature.
+Gain a rank.
+Draw two cards and create a Treasure token. Each opponent loses 1 life and you gain that much life.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Empusa
+rules_text: Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Combo Fodder — [/i]When this creature dies, gain a Stylish Rank. => Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Combo Fodder — [/i]When this creature dies, gain a rank.
+pt: 1/1 => 2/1
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.

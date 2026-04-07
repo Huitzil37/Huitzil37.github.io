@@ -1,4 +1,262 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Steel Impact Gilgamesh added.
+Generous Patron added.
+Second Hell: Envy added.
+I'M NOT LETTING YOU DIE! added.
+Quantum Misalignment added.
+Golem added.
+Sword of Truth and Justice added.
+Order Alchemist Agnus added.
+Second Hell: Envy Token added.
+
+Cryogen Relic removed.
+Sword of the Animist removed.
+Thirst for Knowledge removed.
+Gilgamesh, Steel Impact removed.
+Isolated Phone removed.
+Agnus, Order Alchemist removed.
+Heroic Intervention removed.
+
+Swiftfoot Boots
+
+Frontier Bivouac
+
+Esoteric Duplicator
+
+Spine of Ish Sha
+
+The Reaver Cleaver
+
+Legion Extruder
+
+Jhoira, Weatherlight Captain
+
+Chishiro, the Shattered Blade
+
+Champion's Helm
+
+Lizard Blades
+
+Simic Growth Chamber
+
+Izzet Boilerworks
+
+Bountiful Landscape
+
+Rockfall Vale
+
+Thornspire Verge
+
+Willowrush Verge
+
+Bala Ged Recovery
+
+Sink into Stupor
+
+Rogue's Passage
+
+Valakut Awakening
+
+Riverpyre Verge
+
+Flooded Grove
+
+Emry, Lurker of the Loch
+
+Plant
+
+Devil Arm: Cavaliere-R
+
+Devil Arm: Gilgamesh
+
+Treasure
+
+Akki Battle Squad
+
+Bonder's Enclave
+
+Two-Handed Axe
+
+Red Orb Crystal
+
+Devilish Laboratory
+
+Gerbera GP01
+
+Ragtime
+
+Helter Skelter
+
+Neo-Generator
+
+Infested Tank
+
+Infested Chopper
+
+Hell Antenora
+
+Furiataurus
+
+A Poison Tree
+
+Yamato Reconstruction
+
+Blue Rose
+
+Red Queen
+cost: {1}{R}{G} => {2}{R}{G}
+rules_text: Equipped creature has trample.
+[i]EX[/i] [i]Streak [/i]— Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
+Equip {4} => Equipped creature has trample.
+[i]EX[/i] [i]Streak [/i]— Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
+Equip {3}
+
+Nico's Workshop
+
+Gloria, Mysterious Benefactor
+
+The Despair Embodied
+
+Cavaliere Angelo
+
+Incandescent Colossus Goliath
+
+Devil's Dalliance Lilith
+
+Petal Ray
+
+You Listen, Dead Weight.
+
+Heaped Harvest
+
+Dante, Unwitting Scion
+
+Buster Arm
+
+Giant Inheritance
+
+Rancor
+
+Engineer Style
+cost: {2}{U} => {3}{U}
+rules_text: Gain a Rank. 
+Scry 2, then draw two cards.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => Gain a rank. 
+Scry 2, then draw two cards.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Kat, Urban Witch
+
+Forensic Gadgeteer
+
+Overture
+
+Powerstone
+
+Clue
+
+DMC Ride Armor
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Copy
+
+Red Empusa
+
+Spirit
+
+Monster Role
+type: Enchantment — Aura => Token Enchantment — Aura Role
+
+Tomboy
+
+Exceed Style
+type: ST Legendary Sorcery — Style => Legendary Sorcery — Style
+rules_text: Gain a Rank. 
+Search library for a Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield, then shuffle.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i] => Gain a rank. 
+Search library for a Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield, then shuffle.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+Hunter's Prowess
+
+An Offer You Can't Refuse
+
+Rawhide
+
+Stylish Rank
+
+Stylish Ranks
+
+Nero, Upstart Hunter
+rules_text: Haste, reach
+[i]Devil Breaker - [/i]At the beginning of your combat, you may freecast an Equipment spell or spell that targets only Nero [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero and at the beginning of your next end step you draw a card and sacrifice that permanent.
+Stylish[i]—[/i]Remove the text in brackets.
+Partner—Devil Hunter => Haste, reach, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Devil Breaker - [/i]At the beginning of your combat, you may freecast an Equipment spell or spell that targets only Nero [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero and at the beginning of your next end step you draw two cards and sacrifice that permanent.
+Partner—Devil Hunter
+
+Chamber of Mystery
+rules_text: [i]({T}: Add {U} or {R}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {U} or {R}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Dante's Office
+rules_text: {T}: Add {C}.
+Stylish—{3}, {T}: Draw a card. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i] => {T}: Add {C}.
+{3}, {T}: Draw a card. Activate this ability only if your rank is A or higher.
+
+Ferrum Hills
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Mitis Rainforest
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Red Grave Ruin
+
+Nico, Artisan of Arms
+rules_text: [i]Behold My Genius![/i] — {T}, sacrifice an artifact: Return another target artifact card from your graveyard to your hand.
+Stylish—If the sacrificed artifact had a higher mana value than the returned card, put a +1/+1 counter on a number of creatures up to the difference. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i] => Haste, stylish
+[i]“Behold my genius!”—[/i]{T}, sacrifice an artifact: Return another target artifact card [with equal or lesser mana value] from your graveyard to your hand. Put a +1/+1 counter on a number of creatures up to the difference in their mana values.
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+Monstrous Mother Echidna
+rules_text: [i]Chimera Assault[/i] — Whenever Echidna enters or attacks, create a 1/1 Plant creature token with “{1}, exile this creature: Put a +1/+1 counter on target creature. It gains trample until end of turn.”
+Stylish—Do the same whenever she deals combat damage. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+[i]Devil Arm[/i] — When Echidna dies, exile her. While she's exiled, you may cast her other face. => Haste, stylish
+[i]Chimera Assault[/i] — Whenever Echidna attacks, create a 1/1 Plant creature token with “{1}, exile this creature: Put a +1/+1 counter on target creature. It gains trample until end of turn.” If your rank is A or higher, do the same whenever she deals combat damage to a creature
+[i]Devil Arm[/i] — When Echidna dies, exile her. While she's exiled, you may cast her other face.
+
+Settle the Argument
+rules_text: Gain a Rank. 
+Counter target spell unless its controller pays {2}. 
+Stylish—Exile that spell instead. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i] => Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Counter target spell [unless its controller pays {2}]. If a spell is countered this way, exile it instead of putting it into its owner's graveyard.
+
+True Power
+type: Legendary Enchantment — Aura => Enchantment — Aura
+rules_text: Flash
+Enchant red or green creature you control
+When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power divided as you choose among up to two target creatures. If either one would die this turn, return it to its owner's hand instead.
+Enchanted creature gets +2/+2 and has trample and haste. => Flash
+Enchant red or green creature you control
+[i]“This ends. Right here.”[/i]—When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power to up to two target creatures. If either one would die this turn, return it to its owner's hand instead.
+[i]“Do you have a problem with that?” —[/i]Enchanted creature gets +2/+2 and has trample and haste.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Hunter's Prowess added.

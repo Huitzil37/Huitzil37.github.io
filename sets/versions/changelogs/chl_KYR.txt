@@ -1,4 +1,227 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Mockery of Sparda added.
+Righteous Rampage added.
+Sin Scissors added.
+Saproling added.
+Insect added.
+
+Glyph Elemental removed.
+Phineas, Underworld Prophet removed.
+
+Ethereal Armor
+
+Sage's Reverie
+
+Simic Growth Chamber
+
+Flooded Grove
+
+Overgrown Farmland
+
+Order of the Sword HQ
+
+Krosan Verge
+
+Mystic Gate
+
+Wooded Bastion
+
+Dreamroot Cascade
+
+Reliquary Tower
+
+Winds of Rath
+
+Ellivere of the Wild Court
+
+Selesnya Sanctuary
+
+Endless Detour
+
+Soldier
+
+Knight
+
+Order Gladius Token
+
+Witch Enchanter
+
+Heroic Intervention
+
+Doubling Season
+
+Family's Favor
+
+Vergil, Liberator of Makai
+
+Insight Engine
+
+Devil Arm: Cerberus
+
+Caretaker's Talent
+
+Damned King
+
+Damned Rook
+
+Sweet Surrender
+
+Chained Behemoth
+
+Order Basilisk
+
+Order Cutlass
+
+Bianco Angelo
+
+Alto Angelo
+
+Order Gladius
+
+Ascension Ceremony
+
+The Holy Knights of Sparda
+
+Devil Bringer
+
+Dante's Awakening
+
+Duet in SSS-Major
+
+Jump Cancel
+rules_text: Counter target artifact, enchantment, or sorcery spell if its controller doesn't have a Rank of A or higher. Its controller may choose to gain four Ranks. If they don't, they draw a card. => Counter target artifact, enchantment, or sorcery spell. Its controller gains 4 ranks.
+
+The Savior
+
+Hound Master Bolverk
+
+Freki and Geri
+
+Awakened Lineage
+type: Legendary Enchantment — Aura => Enchantment — Aura
+
+Angelo Credo
+type: Legendary Enchantment — Aura => Enchantment — Aura
+
+The Dark Knight Sparda
+
+Ice Guardian Cerberus
+
+Frost Demon
+
+Stand And Fight Together
+
+Time We Ended This
+
+Royalguard Style
+
+Quicksilver Style
+
+Summoner Style
+
+Manipulator of Malice Jester
+
+Archon of Sun's Grace
+
+Fortuna Terrace
+rules_text: This land enters tapped unless you control a Plains.
+{T}: Add {W}.
+{2}, {T}: Gain a Rank. => This land enters tapped unless you control a Plains.
+{T}: Add {W}.
+{2}, {T}: Gain a rank.
+
+Red Grave Ruin
+rules_text: This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+{2}, {T}: Gain a Rank. => This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+{2}, {T}: Gain a rank.
+
+Temen-ni-Gru Apex
+rules_text: This land enters tapped unless you control an Island.
+{T}: Add {U}.
+{2}, {T}: Gain a Rank. => This land enters tapped unless you control an Island.
+{T}: Add {U}.
+{2}, {T}: Gain a rank.
+
+Soprano Angelo
+
+Swords to Plowshares
+
+Virtuous Role
+
+Pegasus
+
+Credo, Holy Knight
+rules_text: Vigilance
+[i]Guard Captain[/i] — When Credo enters, put a shield counter on target creature. 
+Stylish—Do the same whenever Credo and two or more other creatures attack. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i] => Ward {2}, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Guard Captain[/i] — When Credo enters and whenever he attacks [alone], put a shield counter on another target creature. 
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+Vergil, Cold-Hearted
+rules_text: Whenever Vergil attacks, he connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+Whenever you put one or more counters on a creature, you may pay {2}. If you do, draw a card.
+Stylish—You may pay {1} instead. => Stylish
+Whenever Vergil attacks, he connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+Whenever you put one or more counters on one or more creatures [with no counters on them], you may pay {1}. If you do, draw a card.
+
+Wake Up To Justice
+rules_text: Kicker {1}{W}{U}
+Target opponent chooses a creature they control that's attacking you. Gain control of that creature.
+Stylish—If this spell was kicked, you choose instead. => Stylish [i](Your rank starts at D.)[/i]
+Kicker {1}{W}{U}
+Target opponent chooses a creature they control that's attacking you. Gain control of that creature. If this spell was kicked and your rank is A or higher, you choose instead.
+
+Hosanna, Puppeteer of the Sefirot
+rules_text: Whenever you attack, populate. The token enters tapped and attacking. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+Stylish— Whenever you create a copy of a creature token, if it had counters or Auras on it, the copy enters with the same counters and copies of the same Auras. => Stylish
+Whenever you attack, populate. The token enters tapped and attacking. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+Whenever you create a copy of a creature token, if it had counters or Auras on it and your rank is A or higher, the copy enters with the same counters and copies of the same Auras.
+
+Kyrie, Voice of Hope
+rules_text: [i]Hymn to Sparda[/i] — Whenever a non-Citizen creature you control becomes the only target of a spell or ability, you may pay {GW}. If you do, create a 1/1 green and white Citizen creature token. When you do, copy that spell or ability. The copy targets that token. [You may do this only once each turn.]
+Stylish—Remove the text in brackets. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+Partner—Devil Hunter => Stylish [i](Your rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Hymn to Sparda[/i] — Whenever a non-Citizen creature you control becomes the only target of a spell or ability, you may pay {GW}. If you do, create a 1/1 green and white Citizen creature token. When you do, copy that spell or ability. The copy targets that token. [You may do this only once each turn.]
+Partner—Devil Hunter
+
+Dante's Office
+rules_text: {T}: Add {C}.
+Stylish—{3}, {T}: Draw a card. [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i] => {T}: Add {C}.
+{3}, {T}: Draw a card. Activate this ability only if your rank is A or higher.
+
+Field of Brotherhood
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Fortuna Castle
+rules_text: [i]({T}: Add {W} or {U})[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {W} or {U})[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Mitis Rainforest
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, you're stylish.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped unless your Rank is a A or higher.
+
+Stylish Rank
+
+Stylish Ranks
+
+Citizen
+
+Almost Perfect
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Jaheira, Friend of the Forest added.
