@@ -1,4 +1,280 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Ghost Rage added.
+Isolated Phone added.
+Infestant added.
+Seize the Day added.
+Cold-Eyed Selkie added.
+Decimate added.
+Pasta Breaker added.
+Devil Sword Alastor added.
+Slagstone Refinery added.
+Chaos Warp added.
+
+Chishiro, the Shattered Blade removed.
+Akki Battle Squad removed.
+Two-Handed Axe removed.
+Infested Tank removed.
+Devil's Dalliance Lilith removed.
+Giant Inheritance removed.
+Forensic Gadgeteer removed.
+Clue removed.
+Red Empusa removed.
+Spirit removed.
+Monster Role removed.
+Quantum Misalignment removed.
+Sword of Truth and Justice removed.
+
+Fire-Lit Thicket
+rules_text: {T}: Add {R} or {G} => {T}: Add {C}
+{RG}: Add {R}{R} or {R}{G} or {G}{G}
+
+Dreamroot Cascade
+rules_text: {T}: Add {G} or {U} => Enters tapped unless you control two or more other lands
+{T}: Add {G} or {U}
+
+Stormcarved Coast
+rules_text: {T}: Add {U} or {R} => Enters tapped unless you have two or more other lands
+{T}: Add {U} or {R}
+
+Gruul Turf
+rules_text: {T}: Add {R}{G} => When this enters, bounce a land. Also it's tapped.
+{T}: Add {R}{G}
+
+Frontier Bivouac
+rules_text: {T}: Add {R}, {G}, or {U} => Enters tapped
+{T}: Add {R}, {G}, or {U}
+
+Champion's Helm
+
+Lizard Blades
+
+Simic Growth Chamber
+rules_text: {T}: Add {G}{U} => When this enters, bounce a land, also it's tapped.
+{T}: Add {G}{U}
+
+Izzet Boilerworks
+rules_text:  => When this enters, bounce a land. Also it's tapped
+{T}: Add {U}{R}
+
+Bountiful Landscape
+rules_text: {T}: Add {C}.
+
+{T}, Sacrifice this land: Search your library for a basic Forest, Island, or Mountain card, put it onto the battlefield tapped, then shuffle.
+
+Cycling cost{G}{U}{R} [i](cost, Discard this card: Draw a card.)[/i] => {T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Forest, Island, or Mountain card, put it onto the battlefield tapped, then shuffle.
+Cycling {G}{U}{R} [i]({G}{U}{R}, Discard this card: Draw a card.)[/i]
+
+Rockfall Vale
+rules_text: {T}: Add {G} or {R} => Enters tapped unless you control 2 or more other lands
+{T}: Add {G} or {R}
+
+Thornspire Verge
+rules_text: {T}: Add {R} or {G} => {T}: Add {R}.
+{T}: Add {G}. Activate only if you control a Mountain or a Forest.
+
+Willowrush Verge
+rules_text: {T}: Add {G} or {U} => {T}: Add {U}.
+{T}: Add {G}. Activate only if you control a Forest or an Island.
+
+Bala Ged Recovery
+rules_text: {T}: Add {G}
+
+Also is a DFC that Regrowths => Enters tapped
+{T}: Add {G}
+Also is a DFC that Regrowths
+
+Sink into Stupor
+rules_text: {T}: Add {U}
+Also is a DFC that bounces a spell or thing => As this land enters, you may pay 3 life. If you don't, it enters tapped.
+{T}: Add {U}
+Also is a DFC that bounces a spell or thing
+
+Rogue's Passage
+rules_text: {T}: Add {C} => {T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.
+
+Valakut Awakening
+rules_text: {T}: Add {R}
+Also is a DFC that wheels yourself => Enters tapped
+{T}: Add {R}
+Also is a DFC that wheels yourself
+
+Riverpyre Verge
+rules_text: {T}: Add {U} or {R} => {T}: Add {R}.
+{T}: Add {U}. Activate only if you control an Island or a Mountain.
+
+Flooded Grove
+rules_text: {1}, {T}: Add {G}{U} => {T}: Add {C}.
+{GU}, {T}: Add {G}{G}, {G}{U}, or {U}{U}
+
+Emry, Lurker of the Loch
+
+Plant
+rules_text: {1}, exile this creature: Put a +1/+1 counter on target creature. => {1}, exile this creature: Put a +1/+1 counter on target creature. It gains trample until end of turn.
+
+Devil Arm: Cavaliere-R
+
+Treasure
+
+Bonder's Enclave
+
+Red Orb Crystal
+
+Devilish Laboratory
+
+Gerbera GP01
+
+Ragtime
+
+Helter Skelter
+
+Neo-Generator
+
+Hell Antenora
+
+Furiataurus
+
+A Poison Tree
+
+Yamato Reconstruction
+
+Blue Rose
+
+Red Queen
+cost: {2}{R}{G} => {1}{R}{G}
+rules_text: Equipped creature has trample.
+[i]EX[/i] [i]Streak [/i]— Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
+Equip {3} => Equipped creature has trample.
+[i]EX[/i] [i]Streak [/i]— Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
+Equip {4}
+
+Nico's Workshop
+
+Gloria, Mysterious Benefactor
+
+The Despair Embodied
+
+Cavaliere Angelo
+rules_text: Menace, reach
+[i]Electromagnetic[/i] — Whenever this creature attacks or blocks, it gets +2/+2 until end of turn for each artifact defending player controls [i](when blocking, that's you)[/i].
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face. => Menace, reach
+[i]Electromagnetic[/i] — Whenever this creature attacks or blocks, it gets +1/+1 until end of turn for each artifact you control.
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face.
+
+Incandescent Colossus Goliath
+
+Petal Ray
+
+You Listen, Dead Weight.
+
+Heaped Harvest
+
+Dante, Unwitting Scion
+
+Rancor
+
+Engineer Style
+cost: {3}{U} => {2}{U}
+
+Kat, Urban Witch
+
+Overture
+
+Powerstone
+
+DMC Ride Armor
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Copy
+
+Tomboy
+
+Exceed Style
+
+Hunter's Prowess
+
+An Offer You Can't Refuse
+
+Rawhide
+
+Generous Patron
+
+Second Hell: Envy
+
+Stylish Rank
+
+Stylish Ranks
+
+I'M NOT LETTING YOU DIE!
+
+Golem
+
+Chamber of Mystery
+
+Dante's Office
+
+Ferrum Hills
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Nico, Artisan of Arms
+
+Monstrous Mother Echidna
+
+Order Alchemist Agnus
+
+Settle the Argument
+
+True Power
+
+Second Hell: Envy Token
+
+Steel Impact Gilgamesh
+type: Artifact Creature — Plant Construct => NE Artifact Creature — Plant Construct
+cost: {6}{G}{G} => {8}{G}{G}
+rules_text: This spell costs {X} less to cast, where X is the greatest power among creatures you control. => Trample, vigilance, reach
+This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+
+Buster Arm
+cost: {5} => {3}
+rules_text: Equipped creature has double strike.
+Whenever equipped creature attacks, if it's the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.
+Equip {3} => [i]Neo Buster — [/i]Equipped creature has double strike and menace.
+[i]Super Buster— [/i]{2}, sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike and menace until end of turn. If you untapped a creature this way, after this phase, there is an additional combat phase.
+Equip {3}
+
+Nero, Upstart Hunter
+rules_text: Haste, reach, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Devil Breaker - [/i]At the beginning of your combat, you may freecast an Equipment spell or spell that targets only Nero [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero and at the beginning of your next end step you draw two cards and sacrifice that permanent.
+Partner—Devil Hunter => Haste, reach, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Devil Breaker - [/i]Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw two cards and sacrifice that permanent.
+Partner—Devil Hunter
+
+Infested Chopper
+type: Artifact — Vehicle => NE Artifact Creature — Demon Vehicle
+cost: {5} => {6}
+rules_text: Flying, lifelink, persist [i](When this permanent is put into a graveyard from the battlefield, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Crew 2 => Flying, lifelink, persist [i](When this permanent is put into a graveyard from the battlefield, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+pt: 6/6 => 5/5
+
+Devil Arm: Gilgamesh
+cost: {1}{G} => {R}{G}
+rules_text: Equipped creature gets +1/+1.
+[i]Distorted Real Impact[/i] — {1}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. 
+Equip {1} => Equipped creature gets +1/+1.
+[i]Distorted Real Impact[/i] — {R}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. 
+Equip {1}
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Steel Impact Gilgamesh added.
