@@ -13,7 +13,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Spirit",
-            "number": 42,
+            "number": 43,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Reach\nModified creatures you control have trample. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nWhenever a modified creature you control deals combat damage to a player, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -93,7 +93,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 17,
+            "number": 18,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Enchant creature you control\nWhen this Aura enters, exile target nonland permanent an opponent controls until this leaves the battlefield.\nEnchanted creature gets +1/+0 and has lifelink and ward {2}.",
@@ -113,7 +113,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 31,
+            "number": 32,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flying\nWhen this deals combat damage to a player, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
@@ -133,7 +133,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elf Druid",
-            "number": 36,
+            "number": 37,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
@@ -169,26 +169,6 @@
             "notes": "UA02,Noncreature,1,,Sol Ring"
         },
         {
-            "card_name": "Verdant Embrace",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
-            "number": 49,
-            "color_identity": "G",
-            "cost": "{3}{G}{G}",
-            "rules_text": "Enchant creature\nEnchanted creature gets +3/+3 and has \u201cAt the beginning of each upkeep, create a 1/1 green Saproling creature token.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "8",
-            "notes": "UA10,Noncreature,2,,Swiftfoot Boots"
-        },
-        {
             "card_name": "Ash Barrens",
             "color": "",
             "rarity": "uncommon",
@@ -205,7 +185,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "9",
+            "position": "8",
             "notes": "UL02,Noncreature,0,,Ash Barrens"
         },
         {
@@ -225,7 +205,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "10",
+            "position": "9",
             "notes": "UL06,Noncreature,0,,Littjara Mirrorlake"
         },
         {
@@ -245,7 +225,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "11",
+            "position": "10",
             "notes": "UL13,Noncreature,0,,Vivid Creek"
         },
         {
@@ -265,7 +245,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "12",
+            "position": "11",
             "notes": "UL14,Noncreature,0,,Vivid Grove"
         },
         {
@@ -285,7 +265,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "13",
+            "position": "12",
             "notes": "UL15,Noncreature,0,,Vivid Meadow"
         },
         {
@@ -305,7 +285,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "14",
+            "position": "13",
             "notes": "RW17,Noncreature,3,,Contractual Safeguard"
         },
         {
@@ -325,7 +305,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "15",
+            "position": "14",
             "notes": "RU09,Medium Creature,5,,Shield Broker"
         },
         {
@@ -333,7 +313,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Elf Bard",
-            "number": 41,
+            "number": 42,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Tokens you control have \u201c{T}: Add {G}.\u201d\nChoose a Background [i](You can have a Background as a second commander.)[/i]",
@@ -345,7 +325,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "16",
+            "position": "15",
             "notes": "RU14,Noncreature,3,,Midnight Clock"
         },
         {
@@ -353,7 +333,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment Creature \u2014 Insect Monk",
-            "number": 46,
+            "number": 47,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Bestow {1}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nEnchanted creature gets +1/+1.\n[i]Landfall[/i] \u2014 Whenever a land enters the battlefield under your control, you may pay {1}{G} if Springheart Nantuko is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token instead.",
@@ -365,7 +345,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "17",
+            "position": "16",
             "notes": "RG02,Small Creature,2,,Incubation Druid"
         },
         {
@@ -385,7 +365,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "18",
+            "position": "17",
             "notes": "RG18,Medium Creature,4,flash ,Slippery Bogbonder"
         },
         {
@@ -393,7 +373,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warrior",
-            "number": 44,
+            "number": 45,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Constellation[/i] \u2014 Whenever an enchantment enters under your control, put a +1/+1 counter on this creature and draw a card.",
@@ -405,7 +385,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "19",
+            "position": "18",
             "notes": "RM09,Small Creature,4,GU GU GU ,Fathom Mage"
         },
         {
@@ -425,7 +405,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "20",
+            "position": "19",
             "notes": "RA06,Noncreature,2,,Gavel of the Righteous"
         },
         {
@@ -433,7 +413,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 15,
+            "number": 16,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Enchant creature\nWhen Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature.\nEnchanted creature gets +1/+1 for each Aura you control that's attached to a creature.",
@@ -445,7 +425,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "21",
+            "position": "20",
             "notes": "RA10,Noncreature,3,,Oblivion Stone"
         },
         {
@@ -465,7 +445,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "22",
+            "position": "21",
             "notes": "RL09,Noncreature,0,,Exotic Orchard"
         },
         {
@@ -485,7 +465,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "notes": "RL11,Noncreature,0,,Flooded Grove"
         },
         {
@@ -505,7 +485,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "notes": "RL13,Noncreature,0,,Fortified Village"
         },
         {
@@ -525,7 +505,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "Diamond City",
-            "position": "25",
+            "position": "24",
             "notes": "RL15,Noncreature,0,,Gavony Township"
         },
         {
@@ -545,7 +525,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "notes": "RL16,Noncreature,0,,Karn's Bastion"
         },
         {
@@ -565,7 +545,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "27",
+            "position": "26",
             "notes": "RL21,Noncreature,0,,Port Town"
         },
         {
@@ -585,7 +565,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "notes": "RL22,Noncreature,0,,Prairie Stream"
         },
         {
@@ -605,7 +585,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "notes": "RL25,Noncreature,0,,Skycloud Expanse"
         },
         {
@@ -625,7 +605,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "notes": "RL32,Noncreature,0,,Temple of Mystery"
         },
         {
@@ -645,7 +625,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "notes": "MM07,Medium Creature,3,flying GWU GWU GWU ,Jenara, Asura of War"
         },
         {
@@ -665,7 +645,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "notes": "MM16,Large Creature,5,flying GU GU GU ,Roalesk, Apex Hybrid"
         },
         {
@@ -685,7 +665,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "notes": "CL02,Noncreature,0,, Brokers Hideout"
         },
         {
@@ -705,7 +685,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "notes": "UM05,Noncreature,3,GWU GWU GWU ,Bant Charm"
         },
         {
@@ -713,19 +693,19 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier",
-            "number": 0,
+            "number": 5,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "KYR",
             "loyalty": "",
             "artist": "Egor Kapustin",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "notes": "New"
         },
         {
@@ -733,19 +713,19 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Knight",
-            "number": 0,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Vigilance",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "KYR",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": ""
         },
         {
@@ -753,19 +733,19 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Demon Lizard",
-            "number": 0,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying\n[i](This token's mana cost is {W}{W}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "KYR",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": ""
         },
         {
@@ -785,7 +765,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": ""
         },
         {
@@ -805,27 +785,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "39",
-            "notes": ""
-        },
-        {
-            "card_name": "Plains",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
-            "number": 92,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "GPT-4o",
-            "alias": "",
-            "position": "40",
+            "position": "38",
             "notes": ""
         },
         {
@@ -845,7 +805,27 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "41",
+            "position": "39",
+            "notes": ""
+        },
+        {
+            "card_name": "Plains",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Plains",
+            "number": 91,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "GPT-4o",
+            "alias": "",
+            "position": "40",
             "notes": ""
         },
         {
@@ -854,6 +834,26 @@
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
             "number": 96,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "GPT-4o",
+            "alias": "",
+            "position": "41",
+            "notes": ""
+        },
+        {
+            "card_name": "Island",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Island",
+            "number": 94,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -889,46 +889,6 @@
             "notes": ""
         },
         {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Island",
-            "number": 94,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "GPT-4o",
-            "alias": "",
-            "position": "44",
-            "notes": ""
-        },
-        {
-            "card_name": "Forest",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
-            "number": 98,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "GPT-40",
-            "alias": "",
-            "position": "45",
-            "notes": ""
-        },
-        {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
@@ -945,7 +905,7 @@
             "loyalty": "",
             "artist": "GPT-40",
             "alias": "",
-            "position": "46",
+            "position": "44",
             "notes": ""
         },
         {
@@ -965,7 +925,27 @@
             "loyalty": "",
             "artist": "GPT-40",
             "alias": "",
-            "position": "47",
+            "position": "45",
+            "notes": ""
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Forest",
+            "number": 98,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "GPT-40",
+            "alias": "",
+            "position": "46",
             "notes": ""
         },
         {
@@ -973,7 +953,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Instant",
-            "number": 39,
+            "number": 40,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Permanents you control gain hexproof and indestructible until end of turn.",
@@ -985,7 +965,7 @@
             "loyalty": "",
             "artist": "Francis Tneh",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": ""
         },
         {
@@ -993,10 +973,30 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 35,
+            "number": 36,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "did you know you can just print doubling season now?",
+            "rules_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead. [i](Copies of permanent spells \u201center as tokens\u201d but don't count as \u201ccreated.\u201d)[/i]\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "48",
+            "notes": ""
+        },
+        {
+            "card_name": "Family's Favor",
+            "color": "G",
+            "rarity": "common",
+            "type": "Enchantment",
+            "number": 38,
+            "color_identity": "G",
+            "cost": "{2}{G}",
+            "rules_text": "Whenever you attack, put a shield counter on target attacking creature. Until end of turn, it gains \u201cWhenever this creature deals combat damage to a player, remove a shield counter from it. If you do, draw a card.\u201d [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1009,31 +1009,11 @@
             "notes": ""
         },
         {
-            "card_name": "Family's Favor",
-            "color": "G",
-            "rarity": "common",
-            "type": "Enchantment",
-            "number": 37,
-            "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "Whenever you attack, put a shield counter on target attacking creature. Until end of turn, it gains \u201cWhenever this creature deals combat damage to a player, remove a shield counter from it. If you do, draw a card.\u201d [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "50",
-            "notes": ""
-        },
-        {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 91,
+            "number": 92,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -1045,7 +1025,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "notes": ""
         },
         {
@@ -1065,7 +1045,7 @@
             "loyalty": "",
             "artist": "GPT-40",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": ""
         },
         {
@@ -1085,7 +1065,7 @@
             "loyalty": "",
             "artist": "Netflix",
             "alias": "Tidus, Yuna's Guardian",
-            "position": "53",
+            "position": "52",
             "notes": ""
         },
         {
@@ -1093,7 +1073,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Artifact",
-            "number": 25,
+            "number": 26,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "{2}, {T}: Put a charge counter on this artifact, then draw a card for each charge counter on it.",
@@ -1105,7 +1085,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": ""
         },
         {
@@ -1125,13 +1105,13 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC3",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": ""
         },
         {
             "card_name": "Caretaker's Talent",
             "color": "W",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Class",
             "number": 7,
             "color_identity": "W",
@@ -1145,7 +1125,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1165,7 +1145,7 @@
             "loyalty": "",
             "artist": "Andriy Shvyrov",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": "New"
         },
         {
@@ -1173,11 +1153,11 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Sculpture",
-            "number": 33,
+            "number": 34,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Castle \u2014 [/i]{G}: Change a target of target spell or ability to this creature.",
-            "flavor_text": "[i]The rook isn't supposed to be able to castle more than one, but try telling this thing and see how far you get. [/i]",
+            "flavor_text": "[i]The rook isn't supposed to be able to castle more than once, but try telling this thing and see how far you get. [/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
@@ -1185,7 +1165,7 @@
             "loyalty": "",
             "artist": "Vanta Ket",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": "New"
         },
         {
@@ -1193,7 +1173,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 18,
+            "number": 19,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Equipped creature gets +1/+1 and has lifelink.\n[i]Sweet Release[/i] \u2014 {2}, Sacrifice this artifact: Put a number of +1/+1 counters onto equipped creature and another target creature equal to the amount of life you gained this turn.\nEquip {W}",
@@ -1205,7 +1185,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1213,7 +1193,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Crocodile",
-            "number": 32,
+            "number": 33,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Trample\nThis creature enters with a shield counter on it.\nWhenever a shield counter is removed from a creature you control, it deals damage equal to its power to another target creature.",
@@ -1225,7 +1205,7 @@
             "loyalty": "",
             "artist": "Vanta Ket",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "notes": ""
         },
         {
@@ -1233,7 +1213,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2014 Demon Dog",
-            "number": 43,
+            "number": 44,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Bestow {G}{G}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nEnchanted creature gets +2/+2.\n[i]Support Fire \u2014 [/i]When this creature or enchanted creature attacks, it gains trample and each other attacking creature you control gets +1/+0 until end of turn.",
@@ -1245,7 +1225,7 @@
             "loyalty": "",
             "artist": "Nano Banana",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": "Patched (Cost, type)\n\nKyrie"
         },
         {
@@ -1253,7 +1233,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2014 Demon Fish",
-            "number": 28,
+            "number": 29,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Bestow {U}{U}\nEnchanted creature gets +1/+1.\n[i]Submerge[/i] \u2014 Whenever this creature or enchanted creature attacks, it connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on the creature. Auras don't attack.)[/i]",
@@ -1265,7 +1245,7 @@
             "loyalty": "",
             "artist": "Jenno Diaz",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "notes": "Revamped"
         },
         {
@@ -1285,7 +1265,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": "Patched (length, art, lowered Bestow cost)"
         },
         {
@@ -1305,7 +1285,7 @@
             "loyalty": "",
             "artist": "Nano Banana Pro",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": "Patched (Length, art, now Bestows)"
         },
         {
@@ -1325,7 +1305,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": "Patched (copies are creatures, length)"
         },
         {
@@ -1345,7 +1325,7 @@
             "loyalty": "",
             "artist": "icula",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": "Patched (Length)"
         },
         {
@@ -1365,7 +1345,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": "Patched (New)"
         },
         {
@@ -1373,7 +1353,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 34,
+            "number": 35,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Enchant creature\nWhen this Aura enters, draw a card.\n[i]Absorb Power \u2014 [/i]Whenever this or another enchantment enters the battlefield under your control, put a +1/+1 counter on enchanted creature.",
@@ -1385,7 +1365,7 @@
             "loyalty": "",
             "artist": "gzei",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": "New\n\nNero"
         },
         {
@@ -1405,7 +1385,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 3",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1425,7 +1405,7 @@
             "loyalty": "",
             "artist": "To Hsu",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "Patched (New Version)"
         },
         {
@@ -1433,7 +1413,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 26,
+            "number": 27,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Counter target artifact, enchantment, or sorcery spell. Its controller gains 4 ranks.",
@@ -1445,7 +1425,7 @@
             "loyalty": "",
             "artist": "fe1shu",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": "New"
         },
         {
@@ -1453,7 +1433,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Demon Construct",
-            "number": 16,
+            "number": 17,
             "color_identity": "W",
             "cost": "{3}{W}{W}{W}{W}",
             "rules_text": "Flying, vigilance, lifelink\nWhenever The Savior enters or attacks, you may exile target nonland card in your graveyard with mana value four or less. If you do, copy it, and you may freecast the copy. [i](A copy of a permanent spell becomes a token.)[/i]\nCreature tokens you control have vigilance and lifelink.",
@@ -1465,7 +1445,7 @@
             "loyalty": "",
             "artist": "Nano Banana Pro",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1473,7 +1453,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demon Skeleton Warrior",
-            "number": 40,
+            "number": 41,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Whenever a creature you control becomes the only target of a spell, put a +1/+1 counter on it. If an opponent controlled that spell, you may draw a card.",
@@ -1485,7 +1465,7 @@
             "loyalty": "",
             "artist": "Tim Mcburnie",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1493,7 +1473,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demon Wolf",
-            "number": 38,
+            "number": 39,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "[i]Twin Hounds \u2014 [/i]Whenever a player casts a spell that targets only Freki and Geri, you may copy that spell. [i](It has the same target. Copies of Aura spells enter as tokens.)[/i]",
@@ -1505,7 +1485,7 @@
             "loyalty": "",
             "artist": "Romanov Pavel",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": "Tip: Freki and Geri still \"become the target\" of the copy."
         },
         {
@@ -1513,7 +1493,7 @@
             "color": "WG",
             "rarity": "mythic",
             "type": "Enchantment \u2014 Aura",
-            "number": 52,
+            "number": 51,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Flash\nEnchant green or white creature you control\n[i]\u201cPower!\u201d[/i] \u2014 Enchanted creature gets +2/+2 and has reach and vigilance.\n[i]\u201cGive me more power!\u201d \u2014 [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. Return up to one Aura card from a graveyard to the battlefield attached to that creature.",
@@ -1525,7 +1505,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC4",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": "Patched\n\nHelpful Note: If you copy this card onto a Citizen with Kyrie's \"Hymn to Sparda,\" then you will have to sacrifice either the original or the copy to the \"legend rule.\" ...but you will still trigger \"Give me more power!\" on both of them, giving both of them an Aura from a graveyard."
         },
         {
@@ -1533,7 +1513,7 @@
             "color": "WU",
             "rarity": "mythic",
             "type": "Enchantment \u2014 Aura",
-            "number": 51,
+            "number": 50,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Flash\nEnchant white or blue creature you control\n[i]Aegis Shield[/i] \u2014 When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. Prevent all damage that would be dealt to you or creatures you control this turn.\n[i]Swipe of Sword[/i] \u2014 Enchanted creature gets +2/+2 and has flying and vigilance.",
@@ -1545,7 +1525,7 @@
             "loyalty": "",
             "artist": "Chong Fei Kang",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": "Patched"
         },
         {
@@ -1565,7 +1545,7 @@
             "loyalty": "4",
             "artist": "IWATAKE TOMOYUKI",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1573,19 +1553,30 @@
             "color": "U",
             "rarity": "rare",
             "type": "Snow Creature \u2014 Demon Dog",
-            "number": 24,
+            "number": 25,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "[i]Three Heads \u2014 [/i]Cerberus may block up to 2 additional creatures each combat. \n[i]Icicle Fall \u2014 [/i]Whenever a creature blocks or becomes blocked by Cerberus, put a stun counter on that creature.\n[i]Devil Arm[/i] \u2014 When Cerberus dies, exile it. While it's exiled, you may cast its other face.",
             "flavor_text": "[i][/i]",
             "pt": "2/5",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "KYR",
             "loyalty": "",
             "artist": "Nano Banana / DMC: PoC",
             "alias": "",
-            "position": "78",
+            "position": "77",
+            "card_name2": "Devil Arm: Cerberus",
+            "color2": "",
+            "type2": "Snow Artifact \u2014 Equipment",
+            "cost2": "{2}",
+            "rules_text2": "Million Carats \u2014 Equipped creature gets +1/+1 and gains \u201cWhenever this creature attacks, put a stun counter on target tapped creature defending player controls.\u201d\nEquip {1}",
+            "flavor_text2": "[i]\u201cI acknowledge your ability. Take my soul and go forth. You have my blessing.\u201d[/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Devil May Cry 3",
+            "alias2": "",
             "notes": "Patched (Length)"
         },
         {
@@ -1605,7 +1596,7 @@
             "loyalty": "",
             "artist": "Vlad Marcia",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "New card"
         },
         {
@@ -1613,7 +1604,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 47,
+            "number": 48,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
             "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nPut X +1/+1 counters on target creature, then put a +1/+1 counter on each creature that convoked this spell. [i](If this spell is copied, the same creatures convoked the copy.)[/i]",
@@ -1625,95 +1616,15 @@
             "loyalty": "",
             "artist": "Tropa Entertainment",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": "New\n\nKyrie"
-        },
-        {
-            "card_name": "Time We Ended This",
-            "color": "W",
-            "rarity": "rare",
-            "type": "Sorcery",
-            "number": 20,
-            "color_identity": "W",
-            "cost": "{2}{W}{W}",
-            "rules_text": "Each player chooses up to one creature they control. Destroy all creatures not chosen this way, then goad all creatures [i](that survived)[/i].",
-            "flavor_text": "[i]\u201cVergil and Dante clashed...all their grievances, their enmity, their reasons to fight, focused into one decisive battle.\u201d[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "Nano Banana / Francis Tneh",
-            "alias": "",
-            "position": "81",
-            "notes": ""
-        },
-        {
-            "card_name": "Royalguard Style",
-            "color": "W",
-            "rarity": "uncommon",
-            "type": "Legendary Instant \u2014 Style",
-            "number": 14,
-            "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "Gain a Rank. \nUntap each creature you control. They gain indestructible until end of turn. \nPartner\u2014Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "DemonLeon3D",
-            "alias": "",
-            "position": "82",
-            "notes": "Patched (Cost)"
-        },
-        {
-            "card_name": "Quicksilver Style",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Legendary Instant \u2014 Style",
-            "number": 29,
-            "color_identity": "U",
-            "cost": "{1}{U}",
-            "rules_text": "Gain a Rank. \nReturn target spell or nonland permanent to its owner's hand. Players can't cast spells with the same name as it this turn.\nPartner\u2014Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "TEPPEN",
-            "alias": "",
-            "position": "83",
-            "notes": ""
-        },
-        {
-            "card_name": "Summoner Style",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Legendary Sorcery \u2014 Style",
-            "number": 48,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "Gain a Rank. \nReturn up to two target creature cards from your graveyard to your hand. \nPartner\u2014Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "Thanh Tuan",
-            "alias": "",
-            "position": "84",
-            "notes": "V"
         },
         {
             "card_name": "Manipulator of Malice Jester",
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Demon Clown",
-            "number": 27,
+            "number": 28,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Jester enters with three shield counters.\nWhenever a shield counter is removed from a creature you control, tap and goad target creature, then Jester connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
@@ -1725,7 +1636,7 @@
             "loyalty": "",
             "artist": "icula",
             "alias": "",
-            "position": "85",
+            "position": "80",
             "notes": "Patched (Increased Cost)"
         },
         {
@@ -1745,7 +1656,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "86",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1765,7 +1676,7 @@
             "loyalty": "",
             "artist": "Arivain-Shadowflare",
             "alias": "",
-            "position": "87",
+            "position": "82",
             "notes": "We Shall Never Surrender, Taste The Blood\n\nSub: Mistveil Plains"
         },
         {
@@ -1785,7 +1696,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "88",
+            "position": "83",
             "notes": "Bury the Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Sapseep Forest"
         },
         {
@@ -1805,7 +1716,7 @@
             "loyalty": "",
             "artist": "Mikas Jensen",
             "alias": "",
-            "position": "89",
+            "position": "84",
             "notes": "Bury The Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Moonring Island"
         },
         {
@@ -1813,7 +1724,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 45,
+            "number": 46,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "Enchant creature\nWhen this Aura enters, draw a card.\n{0}: Untap enchanted creature. Activate only during your turn and only once each turn.\nTap enchanted creature: Untap target artifact, creature, or land. Activate only if enchanted creature is multicolor and only once each turn.",
@@ -1825,7 +1736,7 @@
             "loyalty": "",
             "artist": "Puropoly",
             "alias": "",
-            "position": "90",
+            "position": "85",
             "notes": "Patched\n\nKyrie"
         },
         {
@@ -1833,7 +1744,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 19,
+            "number": 20,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Exile target creature. Its controller gains life equal to its power.",
@@ -1845,7 +1756,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "91",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1853,19 +1764,19 @@
             "color": "",
             "rarity": "common",
             "type": "Token Enchantment \u2014 Aura Role",
-            "number": 0,
+            "number": 1,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Enchanted creature gets +1/+1 for each enchantment you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "KYR",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "92",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1873,19 +1784,19 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Pegasus",
-            "number": 0,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "KYR",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "93",
+            "position": "88",
             "notes": ""
         },
         {
@@ -1893,7 +1804,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Demon Horror",
-            "number": 1,
+            "number": 6,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -1905,7 +1816,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "94",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1925,7 +1836,7 @@
             "loyalty": "",
             "artist": "Nano Banana",
             "alias": "",
-            "position": "95",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1945,7 +1856,7 @@
             "loyalty": "",
             "artist": "IWATAKE TOMOYUKI",
             "alias": "",
-            "position": "96",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1965,7 +1876,7 @@
             "loyalty": "",
             "artist": "Nano Banana /DMC4",
             "alias": "",
-            "position": "97",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1976,7 +1887,7 @@
             "number": 58,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "Stylish\nWhenever you attack, populate. The token enters tapped and attacking. [i](To populate, create a token that's a copy of a creature token you control.)[/i]\nWhenever you create a copy of a creature token, if it had counters or Auras on it and your rank is A or higher, the copy enters with the same counters and copies of the same Auras.",
+            "rules_text": "Stylish\nWhenever you attack, populate. The token enters tapped and attacking. [i](To populate, create a token that's a copy of a creature token you control.)[/i]\nWhenever you create a copy of a creature token, if it had counters on it and/or Auras attached to it and your rank is A or higher, the copy enters with the same counters and copies of the same Auras.",
             "flavor_text": "[i]\u201cSee what happens, Kyrie? Without the Order you'll never, ever have enough power.\u201d[/i]",
             "pt": "1/4",
             "special_text": "",
@@ -1985,7 +1896,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DiSSSM",
             "alias": "",
-            "position": "98",
+            "position": "93",
             "notes": ""
         },
         {
@@ -2005,7 +1916,7 @@
             "loyalty": "",
             "artist": "Tiago da Silva",
             "alias": "",
-            "position": "99",
+            "position": "94",
             "notes": "Patched (art, type, triggered)"
         },
         {
@@ -2025,27 +1936,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "100",
-            "notes": ""
-        },
-        {
-            "card_name": "Field of Brotherhood",
-            "color": "",
-            "rarity": "common",
-            "type": "Land \u2014 Plains Forest",
-            "number": 71,
-            "color_identity": "WG",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {G} or {W}.)[/i]\nThis land enters tapped unless your Rank is a A or higher.",
-            "flavor_text": "[i]\u201cThen, at last, he arrived at the final battleground: the uncanny area where Urizen lies in wait.\u201d[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "101",
+            "position": "95",
             "notes": ""
         },
         {
@@ -2065,7 +1956,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "102",
+            "position": "96",
             "notes": "All Decks\n\nSub: God's Eye, Gate to the Reikai"
         },
         {
@@ -2085,7 +1976,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "103",
+            "position": "97",
             "notes": "Bury The Light, We Shall Never Surrender, Pull My Devil Trigger\n\nSub: Rimewood Falls"
         },
         {
@@ -2105,7 +1996,7 @@
             "loyalty": "",
             "artist": "Stelarpidgin",
             "alias": "Eldrazi Conscription",
-            "position": "104",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2125,7 +2016,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "105",
+            "position": "99",
             "notes": "\n\nPatched"
         },
         {
@@ -2145,7 +2036,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "106",
+            "position": "100",
             "notes": "Patched"
         },
         {
@@ -2153,19 +2044,19 @@
             "color": "WG",
             "rarity": "common",
             "type": "Token Creature \u2014 Citizen",
-            "number": 0,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](This creature is probably enchanted by a copy of the Aura it partially overlaps.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "KYR",
             "loyalty": "",
             "artist": "Nano Banana / DMC4:SE",
             "alias": "",
-            "position": "107",
+            "position": "101",
             "notes": ""
         },
         {
@@ -2173,7 +2064,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Demon Assassin",
-            "number": 30,
+            "number": 31,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying\nThis creature enters with two shield counters.",
@@ -2185,47 +2076,7 @@
             "loyalty": "",
             "artist": "Kriss Sison & Brian Farjado",
             "alias": "",
-            "position": "108",
-            "notes": ""
-        },
-        {
-            "card_name": "Almost Perfect",
-            "color": "WG",
-            "rarity": "rare",
-            "type": "Enchantment \u2014 Aura",
-            "number": 50,
-            "color_identity": "WG",
-            "cost": "{4}{G}{W}",
-            "rules_text": "Enchant creature\nEnchanted creature has base power and toughness 9/10 and has indestructible.",
-            "flavor_text": "[i]Used a Gold Orb: x0.8[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "Nano Banana / DMC5",
-            "alias": "",
-            "position": "109",
-            "notes": "MM20,Noncreature,6,GW GW GW,Ajani Unyielding"
-        },
-        {
-            "card_name": "Saproling",
-            "color": "G",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Saproling",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "110",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2233,21 +2084,161 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
-            "number": 0,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
+            "shape": "token",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "103",
+            "notes": ""
+        },
+        {
+            "card_name": "Harmonized Crescendo",
+            "color": "U",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 24,
+            "color_identity": "U",
+            "cost": "{4}{U}{U}",
+            "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nChoose a creature type. Draw a card for each permanent you control of that type.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
             "shape": "normal",
             "set": "KYR",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "111",
+            "position": "104",
             "notes": ""
+        },
+        {
+            "card_name": "Bring Friends",
+            "color": "WG",
+            "rarity": "mythic",
+            "type": "Enchantment \u2014 Aura",
+            "number": 52,
+            "color_identity": "WG",
+            "cost": "{2}{G}{W}",
+            "rules_text": "Enchant creature\nAs long as enchanted creature is green, it gets +1/+1 and has trample. \nAs long as enchanted creature is white, it gets +1/+1 and has indestructible. \nAs long as enchanted creature has a base power of 1, whenever it deals combat damage to a player, create that many 1/1 green and white Citizen creature tokens.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "puropoly",
+            "alias": "",
+            "position": "105",
+            "notes": ""
+        },
+        {
+            "card_name": "Field of Brotherhood",
+            "color": "",
+            "rarity": "common",
+            "type": "Land \u2014 Plains Forest",
+            "number": 71,
+            "color_identity": "WG",
+            "cost": "",
+            "rules_text": "[i]({T}: Add {G} or {W}.)[/i]\nThis land enters tapped unless your Rank is a A or higher.",
+            "flavor_text": "[i]\u201cThen, at last, he arrived at the final battleground: the uncanny area where Urizen lies in wait.\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "106",
+            "notes": ""
+        },
+        {
+            "card_name": "Patty Lowell",
+            "color": "W",
+            "rarity": "mythic",
+            "type": "Legendary Artifact Creature \u2014 Robot",
+            "number": 14,
+            "color_identity": "W",
+            "cost": "{2}{W}",
+            "rules_text": "Commanders you control have ward {2}.\n{T}: Add {W}{W}. Spend this mana only to cast Aura and/or Equipment spells.\n{T}: Attach target Aura or Equipment you control to target creature you control. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "BONES",
+            "alias": "Codsworth, Handy Helper",
+            "position": "107",
+            "notes": ""
+        },
+        {
+            "card_name": "Royalguard Style",
+            "color": "W",
+            "rarity": "uncommon",
+            "type": "Legendary Instant \u2014 Style",
+            "number": 15,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "[i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]\nStylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\nNonland permanents you control [that are legendary] gain hexproof and indestructible until end of turn.\nPartner\u2014Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "DemonLeon3D",
+            "alias": "",
+            "position": "108",
+            "notes": "Patched (Cost)"
+        },
+        {
+            "card_name": "Quicksilver Style",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "Legendary Instant \u2014 Style",
+            "number": 30,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "[i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]\nStylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\nThe owner of target spell or nonland permanent chooses to put it [into their hand,] on the top of their library, or on the bottom of their library.\nPartner\u2014Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "TEPPEN",
+            "alias": "",
+            "position": "109",
+            "notes": ""
+        },
+        {
+            "card_name": "Summoner Style",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Legendary Instant \u2014 Style",
+            "number": 49,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "[i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]\nStylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\nReturn target [creature] card from your graveyard to your hand.\nPartner\u2014Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "Thanh Tuan",
+            "alias": "",
+            "position": "110",
+            "notes": "V"
         }
     ],
-    "version": 5
+    "version": 6
 }

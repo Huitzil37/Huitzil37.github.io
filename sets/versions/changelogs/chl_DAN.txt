@@ -1,4 +1,269 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Damned Queen added.
+Lesser Fallen added.
+Destroyer of Ardor Phantom added.
+All-Out Assault added.
+Launched added.
+Dante Must Die added.
+Rottenmouth Viper added.
+Aven Interrupter added.
+
+Iroas, God of Victory removed.
+Long-Range Sensor removed.
+Demonochorus removed.
+Chimera Seed removed.
+Doom Weaver removed.
+You Have Failed Me removed.
+Empusa Token removed.
+Empusa removed.
+
+Boros Garrison
+rules_text: {T}: Add {R}{W} => This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {R}{W}
+
+Command Tower
+rules_text: {T}: Add {R}, {W}, or {B} => {T}: Add one mana of any color in your commander's color identity.
+
+Swords to Plowshares
+rules_text: you know it, you love it => exile target creature to go home and be a family man
+
+Swiftfoot Boots
+rules_text: boots => equipped creature has hexproof and haste
+equip {1}
+
+Black Market Connections
+
+Fell the Profane
+
+Burnished Hart
+
+Ruinous Ultimatum
+
+Master Warcraft
+
+Breath of Fury
+
+Swordmaster Style
+
+Blade of Mundus
+rules_text: Whenever this creature enters or attacks, you may sacrifice a permanent. If you do, put a +1/+1 counter on this creature and draw a card. => Whenever this creature enters or attacks, you may sacrifice another permanent. If you do, put a +1/+1 counter on this creature and draw a card.
+
+Fury Demon
+
+Fourth Hell: Sloth
+
+Third Hell: Wrath
+
+Agonofinis
+
+Table Hopper
+
+La Vita Nuova
+
+Arius's Mad Ambition
+
+Devil Sword Dante
+
+Nelo Angelo
+
+Holy Fist Beowulf
+
+Fist of Chaos Balrog
+
+Beryl, Beastheads Hunter
+
+Gold Orb
+
+Mary, DARKCOM Operative
+
+Vice President Baines
+
+Mardu Siegebreaker
+
+Blitz
+rules_text: Blitz {2}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever this creature attacks, it deals 1 damage to any target.
+When this creature dies, it deals damage equal to its power to any target. => Blitz {3}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+When this creature leaves the battlefield, it deals damage equal to its power to any target.
+
+Season of Loss
+rules_text: Choose up to five P worth of modes. You may choose the same mode more than once.
+P — Each player sacrifices a creature of their choice.
+PP — Draw a card for each creature that died under your control this turn.
+PPP — Each opponent loses X life, where X is the number of creature cards in your graveyard. => Choose up to five ★ worth of modes. You may choose the same mode more than once.
+★ — Each player sacrifices a creature of their choice.
+★★ — Draw a card for each creature that died under your control this turn.
+★★★ — Each opponent loses X life, where X is the number of creature cards in your graveyard.
+
+Colosseum Sacrifice Griffon
+
+Phineas, Underworld Prophet
+
+Secretary Demons
+
+Sin Devil Trigger
+
+You Might Never Return
+
+Agni and Rudra
+
+Lucia, Forlorn Protector
+
+Illuminated Corruption Artemis
+
+Demon Emperor Mundus
+
+Matier, Protector
+
+Jackpot!
+rules_text: Stylish [i](Your rank starts at D.)[/i]
+Jackpot! deals 4 damage to target creature you don't control. Then if that creature has lethal damage on it, you may discard your hand. If you do, draw a card for each Rank you have. => Stylish [i](Your rank starts at D.)[/i]
+Jackpot! deals 4 damage to target creature you don't control. Then if that creature has lethal damage on it, you may discard your hand. If you do, draw a card for each rank you have.
+
+The Monarch
+
+Stylish Rank
+
+Stylish Ranks
+
+Devil Arm: Beowulf
+
+Fourth Hell: Sloth Token
+rules_text: Whenever this creature attacks, target attacking creature gets +1+0 until end of turn.
+[i](This token's mana cost is {W}.)[/i] => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+[i](This token's mana cost is {W}.)[/i]
+
+Devil Arm: Artemis
+rules_text: [i]Sphere[/i] — Equipped creature gets +2/+0 and gains first strike.
+[i]Acid Rain[/i] — Whenever equipped creature deals combat damage to a player, destroy up to one target artifact or enchantment that player controls.
+Equip {2} => [i]Sphere[/i] — Equipped creature gets +2/+0 and gains first strike and reach.
+[i]Acid Rain[/i] — Whenever equipped creature deals combat damage to a player, destroy up to one target artifact or enchantment that player controls.
+Equip {2}
+
+Devil Arm: Balrog
+
+Treasure
+
+This Party's Getting Crazy!
+
+Dark Realm Command
+
+Blood Harvest Style
+
+Kardur, Doomscourge
+
+Would-Be King Arius
+cost: {2}{W}{B} => {2}{B}{R}
+rules_text: Stylish [i](Your rank starts at D. If it's A or higher, ignore the text in brackets,)[/i]
+When Arius enters, you become the monarch.
+Whenever you attack, if you're the monarch, you may put a Demon or Devil creature card from your hand onto the battlefield tapped and attacking. At the beginning of your next end step, draw a card [and sacrifice it]. => When Arius enters, you become the monarch.
+Whenever you attack, if you're the monarch, you may put a Demon or Devil creature card from your hand onto the battlefield tapped and attacking. At the beginning of the next end step, sacrifice it.
+
+Ambitious Scum Sid
+cost: {B}{R} => {W}{B}
+rules_text: Whenever a creature you control leaves the battlefield, you may return it to the battlefield under target opponent's control. Goad it for the rest of the game. 
+Whenever one or more goaded creatures deal combat damage to an opponent, draw a card and put a +1/+1 counter on Sid. => Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Whenever a creature you control leaves the battlefield, you may return it to the battlefield under target opponent's control. Goad it for the rest of the game. 
+Whenever a goaded creature deals combat damage to an opponent, draw a card and put a +1/+1 counter on Sid. [This ability triggers only once each turn.]
+
+Dante, Son of Sparda
+rules_text: Haste, first strike, stylish 
+[i]Stinger—[/i]Whenever Dante attacks, tap and goad target creature. The next time a rank ability triggers this combat, it triggers an additional time. 
+[i]Million Stab—[/i]When rank SSS triggers for the first time during each of your turns, untap each creature you control. There's an additional combat phase after this phase. 
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i] => Haste, stylish [i](Your rank starts at D.)[/i]
+Whenever Dante attacks, choose one. If your rank is A or higher, you may choose both. 
+[i]Taunt[/i] — Tap and goad target creature.
+[i]High Time[/i] — Launch target nonland permanent. [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+Partner—Devil Hunter
+
+You're Just Dead Weight!
+type: Enchantment — Aura => Sorcery
+cost: {1}{W} => {X}{W}{W}
+rules_text: Stylish [i](Your rank starts at D.)[/i]
+Enchant creature
+Enchanted creature can't attack or block.
+If your rank is A or higher, this Aura gains “enchant permanent” and enchanted permanent loses all abilities and card types. => Launch X target nonland permanents you control and X target nonland permanents you don't control. [i](Exile them. While they're exiled, their owners may cast them by paying {2} instead of their mana costs.)[/i] [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+
+Wings of the Guardian
+type: Enchantment — Aura => DA Enchantment — Aura
+rules_text: Flash
+Enchant white or black creature you control
+[i]Chrono Heart — [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. 
+[i]Air [/i][i]Raid[/i] — Enchanted creature gets +2/+2 and has flying and lifelink. => Flash
+Enchant white or black creature you control
+[i]Chrono Heart — [/i]When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. Launch up to one other target nonland permanent. [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+Enchanted creature gets +2/+2 and has flying and lifelink.
+
+Devil Sword Rebellion
+rules_text: Equipped creature gets +2/+2.
+{1}{W}: Choose one. Activate this ability only if equipped creature is attacking and only once each combat.
+• [i]High Time[/i] — Gain a Rank.
+• [i]Helm Splitter[/i] — Trigger one of your Rank abilities, then lose a Rank.
+Equip {2} => Equipped creature gets +2/+2 and has vigilance.
+[i]Round Trip[/i] — Detach this Equipment from equipped creature while it's attacking: Launch target nonland, nontoken permanent. [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+Equip {2}
+
+Trickster Style
+rules_text: Gain a Rank.
+Exile target creature, then return it to the battlefield.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish
+Launch target nonland permanent [you control]. [i](Exile it. While it's exiled, its owner may cast it for {2} instead of its mana cost.)[/i]
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Devil Sword Sparda
+type: Legendary Artifact — Equipment => DA Legendary Artifact — Equipment
+rules_text: Equipped creature gets +1/+1.
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, creatures you control get your choice of first strike, menace, or trample until end of turn. 
+Equip {3} => Equipped permanent gets +2/+2, isn't a planeswalker, and is a creature in addition to its other types. [i](Loyalty abilities can still be activated.)[/i]
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, creatures you control get your choice of first strike, menace, or trample until end of turn. 
+Equip creature or planeswalker {2}
+
+The Bloody Palace
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped unless your rank is a A or higher.
+
+Dante's Office
+
+Dumary Alleyways
+rules_text: [i]({T}: Add {R} or {W}.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {R} or {W}.)[/i]
+This land enters tapped unless your rank is a A or higher.
+
+Fortuna Terrace
+rules_text: This land enters tapped unless you control a Plains.
+{T}: Add {W}.
+{2}, {T}: Gain a Rank. => This land enters tapped unless you control a Plains.
+{T}: Add {W}.
+{2}, {T}: Gain a rank.
+
+Mallet Castle
+rules_text: This land enters tapped unless you control a Swamp.
+{T}: Add {B}.
+{2}, {T}: Gain a Rank. => This land enters tapped unless you control a Swamp.
+{T}: Add {B}.
+{2}, {T}: Gain a rank.
+
+Nefasturris
+
+Sparda Estate
+rules_text: [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped unless your rank is a A or higher.
+
+Vie de Marli
+rules_text: This land enters tapped unless you control a Mountain.
+{T}: Add {R}.
+{2}, {T}: Gain a Rank. => This land enters tapped unless you control a Mountain.
+{T}: Add {R}.
+{2}, {T}: Gain a rank.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Breath of Fury added.

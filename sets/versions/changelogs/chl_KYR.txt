@@ -1,4 +1,222 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Harmonized Crescendo added.
+Bring Friends added.
+Patty Lowell added.
+
+Verdant Embrace removed.
+Time We Ended This removed.
+Almost Perfect removed.
+Saproling removed.
+
+Ash Barrens
+
+Deserted Beach
+
+Hinterland Harbor
+
+Tranquil Landscape
+
+Strength of the Harvest
+
+Contractual Safeguard
+
+Eidolon of Countless Battles
+
+Jaheira, Friend of the Forest
+
+Springheart Nantuko
+
+Archon of the Wild Rose
+
+Setessan Champion
+
+Ethereal Armor
+
+Sage's Reverie
+
+Simic Growth Chamber
+
+Flooded Grove
+
+Overgrown Farmland
+
+Order of the Sword HQ
+
+Krosan Verge
+
+Mystic Gate
+
+Wooded Bastion
+
+Dreamroot Cascade
+
+Reliquary Tower
+
+Winds of Rath
+
+Ellivere of the Wild Court
+
+Selesnya Sanctuary
+
+Endless Detour
+
+Soldier
+
+Knight
+
+Order Gladius Token
+
+Witch Enchanter
+
+Heroic Intervention
+
+Doubling Season
+rules_text: did you know you can just print doubling season now? => If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead. [i](Copies of permanent spells “enter as tokens” but don't count as “created.”)[/i]
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.
+
+Family's Favor
+
+Vergil, Liberator of Makai
+
+Insight Engine
+
+Devil Arm: Cerberus
+
+Caretaker's Talent
+
+Damned King
+
+Damned Rook
+
+Sweet Surrender
+
+Chained Behemoth
+
+Order Basilisk
+
+Order Cutlass
+
+Bianco Angelo
+
+Alto Angelo
+
+Order Gladius
+
+Ascension Ceremony
+
+The Holy Knights of Sparda
+
+Devil Bringer
+
+Dante's Awakening
+
+Duet in SSS-Major
+
+Jump Cancel
+
+The Savior
+
+Hound Master Bolverk
+
+Freki and Geri
+
+Awakened Lineage
+
+Angelo Credo
+
+The Dark Knight Sparda
+
+Ice Guardian Cerberus
+
+Frost Demon
+
+Stand And Fight Together
+
+Manipulator of Malice Jester
+
+Archon of Sun's Grace
+
+Fortuna Terrace
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Soprano Angelo
+
+Swords to Plowshares
+
+Virtuous Role
+
+Pegasus
+
+Mockery of Sparda
+
+Credo, Holy Knight
+
+Vergil, Cold-Hearted
+
+Wake Up To Justice
+
+Hosanna, Puppeteer of the Sefirot
+rules_text: Stylish
+Whenever you attack, populate. The token enters tapped and attacking. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+Whenever you create a copy of a creature token, if it had counters or Auras on it and your rank is A or higher, the copy enters with the same counters and copies of the same Auras. => Stylish
+Whenever you attack, populate. The token enters tapped and attacking. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+Whenever you create a copy of a creature token, if it had counters on it and/or Auras attached to it and your rank is A or higher, the copy enters with the same counters and copies of the same Auras.
+
+Kyrie, Voice of Hope
+
+Dante's Office
+
+Fortuna Castle
+
+Mitis Rainforest
+
+Righteous Rampage
+
+Stylish Rank
+
+Stylish Ranks
+
+Citizen
+
+Sin Scissors
+
+Insect
+
+Field of Brotherhood
+
+Royalguard Style
+cost: {2}{W} => {1}{W}
+rules_text: Gain a Rank. 
+Untap each creature you control. They gain indestructible until end of turn. 
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Nonland permanents you control [that are legendary] gain hexproof and indestructible until end of turn.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Quicksilver Style
+rules_text: Gain a Rank. 
+Return target spell or nonland permanent to its owner's hand. Players can't cast spells with the same name as it this turn.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+The owner of target spell or nonland permanent chooses to put it [into their hand,] on the top of their library, or on the bottom of their library.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Summoner Style
+type: Legendary Sorcery — Style => Legendary Instant — Style
+rules_text: Gain a Rank. 
+Return up to two target creature cards from your graveyard to your hand. 
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Return target [creature] card from your graveyard to your hand.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Mockery of Sparda added.

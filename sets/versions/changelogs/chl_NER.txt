@@ -1,4 +1,189 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Stump Stomp added.
+Weapons Manufacturing added.
+Munitions added.
+Phyrexian Germ added.
+
+Mistrise Village removed.
+Devil Arm: Cavaliere-R removed.
+Cavaliere Angelo removed.
+
+Spine of Ish Sha
+rules_text: When this artifact enters, destroy target permanent.
+
+When this artifact is put into a graveyard from the battlefield, return it to its owner's hand. => When this artifact enters, destroy target permanent.
+When this artifact is put into a graveyard from the battlefield, return it to its owner's hand.
+
+Bala Ged Recovery
+type: Land => Sorcery
+cost:  => {2}{G}
+rules_text: Enters tapped
+{T}: Add {G}
+Also is a DFC that Regrowths => Return target card from your graveyard to your hand.
+
+Sink into Stupor
+type: Land => Instant
+cost:  => {1}{U}{U}
+rules_text: As this land enters, you may pay 3 life. If you don't, it enters tapped.
+{T}: Add {U}
+Also is a DFC that bounces a spell or thing => Return target spell or nonland permanent an opponent controls to its owner's hand.
+
+Valakut Awakening
+type: Land => Instant
+cost:  => {2}{R}
+rules_text: Enters tapped
+{T}: Add {R}
+Also is a DFC that wheels yourself => Put any number of cards from your hand on the bottom of your library, then draw that many cards plus one.
+
+Treasure
+
+Bonder's Enclave
+
+Red Orb Crystal
+
+Devilish Laboratory
+
+Gerbera GP01
+
+Ragtime
+
+Helter Skelter
+
+Neo-Generator
+
+Hell Antenora
+
+Furiataurus
+
+A Poison Tree
+
+Yamato Reconstruction
+
+Blue Rose
+
+Red Queen
+
+Nico's Workshop
+
+Gloria, Mysterious Benefactor
+
+The Despair Embodied
+
+Incandescent Colossus Goliath
+
+Petal Ray
+
+You Listen, Dead Weight.
+
+Heaped Harvest
+
+Dante, Unwitting Scion
+
+Rancor
+
+Engineer Style
+
+Kat, Urban Witch
+
+Overture
+
+Powerstone
+
+DMC Ride Armor
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Copy
+type:  => Token
+
+Tomboy
+
+Exceed Style
+
+Hunter's Prowess
+
+An Offer You Can't Refuse
+
+Rawhide
+
+Generous Patron
+
+Second Hell: Envy
+
+Stylish Rank
+
+Stylish Ranks
+
+I'M NOT LETTING YOU DIE!
+
+Golem
+
+Chamber of Mystery
+
+Dante's Office
+
+Ferrum Hills
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Nico, Artisan of Arms
+
+Monstrous Mother Echidna
+
+Order Alchemist Agnus
+
+Settle the Argument
+
+True Power
+
+Second Hell: Envy Token
+
+Steel Impact Gilgamesh
+type: NE Artifact Creature — Plant Construct => Artifact Creature — Plant Construct
+
+Ghost Rage
+
+Isolated Phone
+
+Infestant
+
+Buster Arm
+rules_text: [i]Neo Buster — [/i]Equipped creature has double strike and menace.
+[i]Super Buster— [/i]{2}, sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike and menace until end of turn. If you untapped a creature this way, after this phase, there is an additional combat phase.
+Equip {3} => [i]Neo Buster — [/i]Equipped creature has double strike and menace.
+[i]Super Buster— [/i]{2}, sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike, indestructible, and menace until end of turn. If you untapped a creature this way, after this phase, there is an additional combat phase.
+Equip {3}
+
+Nero, Upstart Hunter
+
+Seize the Day
+
+Cold-Eyed Selkie
+pt:  => 1/1
+
+Decimate
+
+Pasta Breaker
+
+Infested Chopper
+type: NE Artifact Creature — Demon Vehicle => Artifact Creature — Demon Vehicle
+
+Devil Sword Alastor
+
+Slagstone Refinery
+
+Chaos Warp
+
+Devil Arm: Gilgamesh
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Ghost Rage added.
