@@ -1,4 +1,265 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Devil added.
+Phantom Baby added.
+Shapeshifter added.
+Copy added.
+Valakut Awakening added.
+
+Dalkovan Encampment removed.
+Devil Arm: Beowulf removed.
+Devil Arm: Artemis removed.
+Devil Arm: Balrog removed.
+
+Bojuka Bog
+
+Boros Garrison
+
+Clifftop Retreat
+rules_text: {T}: Add {R} or {W} => This land enters tapped unless you control two or more other lands.
+{T}: Add {R} or {W}
+
+Command Tower
+
+Isolated Chapel
+rules_text: {T}: Add {W} or {B} => This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}
+
+Graven Cairns
+rules_text: {T}: Add {C}.
+
+{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}. => {T}: Add {C}.
+{BR}, {T}: Add {B}{B}, {B}{R}, or {R}{R}.
+
+Orzhov Basilica
+rules_text: {T}: Add {W}{B} => This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {W}{B}
+
+Fetid Heath
+rules_text: {T}: Add {C}.
+
+{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}. => {T}: Add {C}.
+{WB}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.
+
+Rakdos Carnarium
+rules_text: {T}: Add {B}{R} => This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {B}{R}
+
+Shattered Landscape
+
+Swords to Plowshares
+
+Skyhunter Strike Force
+
+Morbid Opportunist
+
+Rite of Oblivion
+
+Legion Leadership
+type: Land => Instant
+cost:  => {1}{RW}
+rules_text: {T}: Add {R} or {W}
+Also is a DFC with {1}{RW}: Until end of turn, double target creature's power and it gains first strike. => Until end of turn, double target creature's power and it gains first strike.
+
+Sol Ring
+
+Swiftfoot Boots
+
+Arcane Signet
+
+Rugged Prairie
+rules_text: {T}: Add {C}.
+
+{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}. => {T}: Add {C}.
+{RW}, {T}: Add {R}{R}, {R}{W}, or {W}{W}.
+
+Shattered Sanctum
+rules_text: {T}: Add {W} or {B} => This land enters tapped unless you control two or more other lands.
+{T}: Add {W} or {B}
+
+Sundown Pass
+rules_text: {T}: Add {R} or {W} => This land enters tapped unless you control two or more other lands.
+{T}: Add {R} or {W}
+
+Dragonskull Summit
+rules_text: {T}: Add {R} or {B} => This land enters tapped unless you control a Swamp or Mountain.
+{T}: Add {B} or {R}.
+
+Haunted Ridge
+rules_text: {T}: Add {R} or {B} => This land enters tapped unless you control two or more other lands.
+{T}: Add {R} or {B}
+
+Akroma's Will
+
+Brutal Hordechief
+
+Blade Historian
+
+Black Market Connections
+
+Burnished Hart
+
+Ruinous Ultimatum
+
+Master Warcraft
+
+Breath of Fury
+
+Blade of Mundus
+
+Fury Demon
+
+Fourth Hell: Sloth
+
+Third Hell: Wrath
+
+Agonofinis
+
+Table Hopper
+
+La Vita Nuova
+
+Arius's Mad Ambition
+
+Devil Sword Dante
+
+Nelo Angelo
+
+Holy Fist Beowulf
+
+Fist of Chaos Balrog
+
+Beryl, Beastheads Hunter
+
+Gold Orb
+
+Mary, DARKCOM Operative
+
+Vice President Baines
+
+Mardu Siegebreaker
+
+Blitz
+
+Season of Loss
+
+Colosseum Sacrifice Griffon
+
+Phineas, Underworld Prophet
+
+Secretary Demons
+
+Sin Devil Trigger
+
+You Might Never Return
+
+Agni and Rudra
+
+Lucia, Forlorn Protector
+
+Illuminated Corruption Artemis
+
+Demon Emperor Mundus
+
+Matier, Protector
+
+Jackpot!
+
+The Monarch
+
+Stylish Rank
+
+Stylish Ranks
+
+Fourth Hell: Sloth Token
+
+Treasure
+
+This Party's Getting Crazy!
+
+Dark Realm Command
+
+Kardur, Doomscourge
+
+Damned Queen
+
+Lesser Fallen
+
+Destroyer of Ardor Phantom
+
+All-Out Assault
+
+Would-Be King Arius
+
+Ambitious Scum Sid
+
+Dante, Son of Sparda
+
+You're Just Dead Weight!
+
+Wings of the Guardian
+
+Devil Sword Rebellion
+
+Trickster Style
+
+Launched
+
+Devil Sword Sparda
+type: DA Legendary Artifact — Equipment => Legendary Artifact — Equipment
+
+The Bloody Palace
+
+Dante's Office
+
+Dumary Alleyways
+
+Fortuna Terrace
+
+Mallet Castle
+
+Nefasturris
+
+Sparda Estate
+
+Vie de Marli
+
+Dante Must Die
+
+Rottenmouth Viper
+
+Aven Interrupter
+
+Fell the Profane
+type: Land => Instant
+cost:  => {2}{B}{B}
+rules_text: {T}: Add {B}
+Is also a DFC Murder => Destroy target creature or planeswalker.
+
+Blood Harvest Style
+cost: {1}{B} => {2}{B}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Gain a rank.
+Draw two cards and create a Treasure token. Each opponent loses 1 life and you gain that much life.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[As an additional cost to cast this spell, sacrifice a creature.]
+Draw two cards and create a Treasure token.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Swordmaster Style
+rules_text: Gain a Rank. 
+Creatures you control gain haste, first strike, and trample until end of turn.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Creatures you control gain [your choice of one of] haste, first strike, and trample until end of turn.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Damned Queen added.

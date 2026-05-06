@@ -1,4 +1,180 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+Devil Arm: Cerberus removed.
+
+Azorius Chancery
+rules_text: {T}: Add {W}{U} => This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {W}{U}
+
+Deserted Beach
+rules_text: {T}: Add {W} or {U} => This land enters tapped unless you control two or more other lands.
+{T}: Add {W} or {U}
+
+Hinterland Harbor
+rules_text: {T}: Add {G} or {U} => This land enters tapped unless you control a Forest or Island.
+{T}: Add {G} or {U}
+
+Strength of the Harvest
+type: Land => Enchantment — Aura
+cost:  => {2}{GW}
+rules_text: {T}: Add {G} or {W}
+Is also a DFC Aura that does Ethereal Armor => Enchant creature
+Enchanted creature gets +1/+1 for each creature and/or enchantment you control.
+
+Simic Growth Chamber
+rules_text: {T}: Add {G}{U} => This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {G}{U}
+
+Flooded Grove
+rules_text: {1}, {T}: Add {G}{U} => {T}: Add {C}.
+{GU}, {T}: Add {G}{G}, {G}{U}, or {U}{U}.
+
+Overgrown Farmland
+rules_text: {T}: Add {G} or {W} => This land enters tapped unless you control two or more other lands.
+{T}: Add {G} or {W}
+
+Mystic Gate
+rules_text: {T}: Add {W}{U} => {T}: Add {C}.
+{WU}, {T}: Add {W}{W}, {W}{U}, or {U}{U}.
+
+Wooded Bastion
+rules_text: {1}, {T}: Add {G}{W} => {T}: Add {C}.
+{GW}, {T}: Add {G}{G}, {G}{W}, or {W}{W}.
+
+Dreamroot Cascade
+rules_text: {T}: Add {G} or {U} => This land enters tapped unless you control two or more other lands.
+{T}: Add {G} or {U}
+
+Selesnya Sanctuary
+rules_text: {T}: Add {G}{W} => This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {G}{W}
+
+Witch Enchanter
+type: Land => Creature — Human Warlock
+cost:  => {3}{W}
+rules_text: {T}: Add {W}
+Is also a DFC that destroys artifact / enchantment on entry => When this creature enters, destroy target artifact or enchantment an opponent controls.
+pt:  => 2/2
+
+Caretaker's Talent
+
+Damned King
+
+Damned Rook
+
+Sweet Surrender
+
+Chained Behemoth
+
+Order Basilisk
+
+Order Cutlass
+
+Bianco Angelo
+
+Alto Angelo
+
+Order Gladius
+
+Ascension Ceremony
+
+The Holy Knights of Sparda
+
+Devil Bringer
+
+Dante's Awakening
+
+Duet in SSS-Major
+
+Jump Cancel
+
+The Savior
+
+Hound Master Bolverk
+
+Freki and Geri
+
+Awakened Lineage
+
+Angelo Credo
+
+The Dark Knight Sparda
+
+Ice Guardian Cerberus
+
+Frost Demon
+
+Stand And Fight Together
+
+Manipulator of Malice Jester
+
+Archon of Sun's Grace
+
+Fortuna Terrace
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Soprano Angelo
+
+Swords to Plowshares
+
+Virtuous Role
+
+Pegasus
+
+Mockery of Sparda
+
+Credo, Holy Knight
+
+Vergil, Cold-Hearted
+
+Wake Up To Justice
+
+Hosanna, Puppeteer of the Sefirot
+
+Kyrie, Voice of Hope
+
+Dante's Office
+
+Fortuna Castle
+
+Mitis Rainforest
+
+Righteous Rampage
+
+Stylish Rank
+
+Stylish Ranks
+
+Citizen
+
+Sin Scissors
+
+Insect
+
+Harmonized Crescendo
+
+Bring Friends
+
+Field of Brotherhood
+
+Patty Lowell
+
+Royalguard Style
+
+Quicksilver Style
+
+Summoner Style
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Harmonized Crescendo added.

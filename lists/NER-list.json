@@ -375,7 +375,7 @@
         "number": 25,
         "shape": "normal",
         "set": "NER",
-        "position": "108"
+        "position": "107"
     },
     {
         "card_name": "Generous Patron",
@@ -507,25 +507,6 @@
         "shape": "normal",
         "set": "NER",
         "position": "91"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Devil Arm: Gilgamesh",
-        "number": 0,
-        "shape": "normal",
-        "set": "NER",
-        "position": "107"
     },
     {
         "card_name": "e"
@@ -1296,7 +1277,7 @@
         "number": 5,
         "shape": "token",
         "set": "NER",
-        "position": "109"
+        "position": "108"
     },
     {
         "card_name": "Powerstone",
@@ -1317,7 +1298,7 @@
         "number": 2,
         "shape": "token",
         "set": "NER",
-        "position": "110"
+        "position": "109"
     },
     {
         "card_name": "Second Hell: Envy Token",

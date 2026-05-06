@@ -1,5 +1,5 @@
 ﻿{
-    "name": "DMC Precon - Pull My Devil Trigger",
+    "name": "Devil May Cry Commander - Pull My Devil Trigger",
     "formats": "EDH",
     "trimmed": "y",
     "image_type": "png",
@@ -1834,7 +1834,7 @@
             "color2": "RG",
             "type2": "Legendary Artifact \u2014 Equipment",
             "cost2": "{R}{G}",
-            "rules_text2": "Equipped creature gets +1/+1.\nDistorted Real Impact \u2014 {R}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. \nEquip {1}",
+            "rules_text2": "Equipped creature gets +1/+1 and has trample.\n[i]Distorted Real Impact[/i] \u2014 {R}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. \nEquip {1}",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -2204,26 +2204,6 @@
             "notes": ""
         },
         {
-            "card_name": "Devil Arm: Gilgamesh",
-            "color": "RG",
-            "rarity": "rare",
-            "type": "Legendary Artifact \u2014 Equipment",
-            "number": 0,
-            "color_identity": "RG",
-            "cost": "{R}{G}",
-            "rules_text": "Equipped creature gets +1/+1.\n[i]Distorted Real Impact[/i] \u2014 {R}{G}: Equipped creature gets +X/+0 until end of turn, where X is the difference between its power and its base power. \nEquip {1}",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Nano Banana",
-            "alias": "",
-            "position": "107",
-            "notes": ""
-        },
-        {
             "card_name": "Weapons Manufacturing",
             "color": "R",
             "rarity": "common",
@@ -2240,7 +2220,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": ""
         },
         {
@@ -2260,7 +2240,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": ""
         },
         {
@@ -2273,16 +2253,16 @@
             "cost": "",
             "rules_text": "[i](You can stack the triggers so that Ride Armor ends up attached to Nero.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "0/0",
             "special_text": "",
             "shape": "token",
             "set": "NER",
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": ""
         }
     ],
-    "version": 10
+    "version": 11
 }

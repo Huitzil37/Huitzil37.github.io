@@ -1,4 +1,20 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+Devil Arm: Gilgamesh removed.
+
+Monstrous Mother Echidna
+
+Weapons Manufacturing
+
+Munitions
+
+Phyrexian Germ
+pt:  => 0/0
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Stump Stomp added.

@@ -1,4 +1,177 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Seething Landscape added.
+Fell the Profane added.
+Valakut Awakening added.
+Pyrohemia added.
+Royal Fork added.
+
+Shivan Reef removed.
+Sulfurous Springs removed.
+Underground River removed.
+Fell removed.
+Bonus Round removed.
+Devil Arm: Nevan removed.
+Devil Arm: Dr. FAUST removed.
+Nightmare: Beta removed.
+Devil Arm: Lucifer removed.
+
+Peer into the Abyss
+
+Passionate Archaeologist
+
+Red Hot Night
+
+Prosper, Tome-Bound
+
+Mnemonic Betrayal
+
+Shipwreck Marsh
+
+Sunken Ruins
+
+Drowned Catacomb
+
+Dragonskull Summit
+
+Sulfur Falls
+
+Haunted Ridge
+
+Stormcarved Coast
+
+Bloodsoaked Insight
+
+Turbulent Springs
+
+Shark Typhoon
+
+Waterlogged Teachings
+
+Damned Bishop
+
+Puia
+
+First Hell: Pride
+
+Seventh Hell: Lust
+
+Lusachia
+
+Nobody
+
+Electrified Devil
+
+Curse of the Bloody Puppets
+
+Fraternal Ferocity
+
+Hysteric Twins
+
+Liberating Slash
+
+Lightning Witch Nevan
+
+Demonic Traitor Arkham
+
+Dante, Hot-Headed
+
+Chaos's Warm Welcome
+
+Double Up
+
+Get More Orbs
+
+Release Sparda's Power
+
+Dante's Office
+
+Mallet Castle
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Chamber of Mystery
+
+Evil Waterways
+
+The Bloody Palace
+
+Charisma
+
+Missile
+
+Treasure
+
+Charge Shot
+
+Kalina Ann
+
+Divinity Statue
+
+Light This Candle
+
+Fifth Hell: Greed
+
+Rise of the Temen-ni-Gru
+
+Red Empusa
+
+Lightning Ride
+
+PF594: Argument
+
+First Hell: Pride Token
+
+Puia Token
+
+Marionette
+
+Devil
+
+Seventh Hell: Lust Token
+
+Into the Story
+
+Puppeteer of the Temen-ni-Gru
+
+Engineer Style
+
+Dark Slayer Style
+
+Gunslinger Style
+
+Lady, Walking Arsenal
+
+You Have Failed Me
+
+Jester's Machinations
+
+Cavaliere Angelo
+
+Trish, Fiendish Femme Fatale
+
+Faust
+
+Hysteric
+
+Trigger Happy
+
+Nightmare: Alpha
+
+Flame Conqueror Berial
+
+Frost Toad Bael
+type: Snow Creature — Demon Frog => LA Snow Creature — Demon Frog
+rules_text: [i]Obscuring Blizzard[/i] — Whenever you cast a noncreature spell, you may have other creatures you control gain shroud until end of turn. [i](They can't be the target of spells or abilities, not even your own.)[/i]
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face. => Creatures you control have ward {1}.
+Creatures can't be assigned to attack you or to block creatures you control unless their controller pays {1} for each of those creatures.
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

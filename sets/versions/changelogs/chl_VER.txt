@@ -1,4 +1,203 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Beast Within
+
+Assassin's Trophy
+
+Demolition Field
+
+Simic Growth Chamber
+
+Golgari Rot Farm
+
+Shipwreck Marsh
+
+Deathcap Glade
+
+Dreamroot Cascade
+
+Restless Reef
+
+I Want Yours, Too
+
+Stolen Arm
+
+White Rabbit, Revolutionary
+
+Keep Watch
+
+Stylish Rank
+
+Stylish Ranks
+
+Proto Angelo
+
+Scudo Angelo
+
+Barbed Chaos
+
+SDT Doppelganger
+
+My Flesh Fails Me
+
+Sinister Devil Trigger
+
+The Legendary Knight Returns
+
+Judgment Cut
+
+Unworthy Opponent
+
+Devil Sword Yamato
+
+Vergil, Alpha and Omega
+
+Tycoon of Limbo Mundus
+
+Familiar: Griffon
+
+Familiar: Shadow
+
+Nightmare: Omega
+
+Dante's Office
+
+Decaying Gardens
+
+Mallet Castle
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Evil Waterways
+
+Hell Judecca
+
+Face Your Nightmares
+
+Power Of The Yamato
+
+Vile Succubus
+
+V, The Mysterious One
+
+World of V
+
+Trismagia
+
+Is Sanity The Price To Pay...
+
+Malformed Witch Malphas
+
+Empusa Queen
+
+Green Empusas
+
+Parasitic Fiend Nidhogg
+
+Qliphoth Roots
+
+Empusa
+
+Heroic Intervention
+
+I Need More Power
+
+Expel From Memory
+
+Wonder
+
+Orangguerra
+
+Urizen
+
+The Qliphoth Awakens
+
+Undercity Informer
+
+Summon Sword
+
+Empusa Token
+
+Plant Tentacle
+
+Scudo Angelo Token
+
+Blood
+
+Treasure
+
+Mind Grind
+
+Sparda's Challenger Baul
+
+Dreamrunner
+
+Reanimate
+
+Zameck Guildmage
+
+Warren Soultrader
+
+Tribute to the World Tree
+
+War Room
+
+Ohran Frostfang
+
+Aftermath Analyst
+
+Lumra, Bellow of the Woods
+
+Insect
+
+Sink into Stupor
+type: Land => Instant
+cost:  => {1}{U}{U}
+rules_text: {T}: Add {U}
+Also on the other side return target spell or nonland permanent an opponent controls to its owner's hand. => Return target spell or nonland permanent an opponent controls to its owner's hand.
+
+Fell the Profane
+type: Land => Instant
+cost:  => {2}{B}{B}
+rules_text: {T}: Add {B}
+Also is “Destroy target creature or planeswalker.” => Destroy target creature or planeswalker.
+
+Quicksilver Style
+rules_text: Gain a Rank. 
+Return target spell or nonland permanent to its owner's hand. Players can't cast spells with the same name as it this turn.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+The owner of target spell or nonland permanent chooses to put it [into their hand,] on the top of their library, or on the bottom of their library.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Dark Slayer Style
+type: Legendary Sorcery — Style => Legendary Instant — Style
+cost: {1}{B} => {2}{B}
+rules_text: Gain a Rank. 
+Destroy target nonlegendary creature.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Destroy target [nonlegendary] creature. Its controller loses 3 life and you gain 3 life.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+Summoner Style
+type: Legendary Sorcery — Style => Legendary Instant — Style
+rules_text: Gain a Rank. 
+Return up to two target creature cards from your graveyard to your hand. 
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Return target [creature] card from your graveyard to your hand.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Drown in the Loch added.
