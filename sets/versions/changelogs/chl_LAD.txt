@@ -1,4 +1,149 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Lock and Load added.
+Reliquary Tower added.
+Explosion Shot added.
+Stylish Rank added.
+Stylish Ranks added.
+War Room added.
+Thought Vessel added.
+Claim the Arcana added.
+Treasure Cruise added.
+
+Lock And Load removed.
+Sulfur Falls removed.
+Lusachia removed.
+Nobody removed.
+Hysteric removed.
+Trigger Happy removed.
+
+Electrified Devil
+
+Curse of the Bloody Puppets
+
+Fraternal Ferocity
+
+Hysteric Twins
+
+Liberating Slash
+
+Lightning Witch Nevan
+
+Demonic Traitor Arkham
+
+Dante, Hot-Headed
+
+Chaos's Warm Welcome
+
+Double Up
+
+Get More Orbs
+
+Release Sparda's Power
+rules_text: Until end of turn, you may plot instant and sorcery cards from your graveyard. Their plot cost is equal to their mana cost. 
+Plot {3}{U} [i](You may pay {3}{U} and exile this card from your hand. Freecast it as a sorcery on a later turn. Plot only as a sorcery.)[/i] => Until end of turn, you may plot instant and sorcery cards from your graveyard. Their plot cost is equal to their mana cost. Exile this card.
+Plot {3}{U} [i](You may pay {3}{U} and exile this card from your hand. Freecast it as a sorcery on a later turn. Plot only as a sorcery.)[/i]
+
+Dante's Office
+
+Mallet Castle
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Chamber of Mystery
+
+Evil Waterways
+
+The Bloody Palace
+
+Charisma
+
+Missile
+
+Treasure
+
+Charge Shot
+
+Kalina Ann
+
+Light This Candle
+
+Fifth Hell: Greed
+
+Rise of the Temen-ni-Gru
+
+Red Empusa
+
+Lightning Ride
+
+PF594: Argument
+
+First Hell: Pride Token
+type: Token Creature — Devil Sand Spirit => Token Creature — Demon Sand Spirit
+
+Puia Token
+
+Marionette
+type: Token Creature — Devil Toy => Token Creature — Demon Toy
+
+Devil
+
+Seventh Hell: Lust Token
+type: Token Creature — Devil Sand Spirit => Token Creature — Demon Sand Spirit
+
+Into the Story
+
+Engineer Style
+
+Dark Slayer Style
+
+Gunslinger Style
+
+Lady, Walking Arsenal
+
+You Have Failed Me
+
+Jester's Machinations
+rules_text: Whenever a spell you control is countered, exiled, or returned to your hand for the first time each turn, draw a card.
+{1}{U}: If it's your turn, freecast a noncreature spell from your hand. When you do, exile that spell. [i](To freecast a spell, cast it without paying its base mana cost.)[/i] [i](Cast it without paying its mana cost.)[/i] => Whenever a spell you control is countered, exiled, or returned to your hand for the first time each turn, draw a card.
+{1}{U}: If it's your turn, freecast a noncreature spell from your hand. When you do, exile that spell. [i](To freecast a spell, cast it without paying its base mana cost.)[/i]
+
+Cavaliere Angelo
+
+Faust
+
+Nightmare: Alpha
+
+Flame Conqueror Berial
+
+Royal Fork
+
+Frost Toad Bael
+rules_text: Creatures you control have ward {1}.
+Creatures can't be assigned to attack you or to block creatures you control unless their controller pays {1} for each of those creatures.
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face. => Creatures you control have ward {1}.
+Creatures can't be assigned to attack you unless their controller pays {1} for each of those creatures.
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face.
+
+Divinity Statue
+rules_text: Cards in your hand have plot. The plot cost is equal to the mana cost. [i](You may pay the plot cost and exile it from your hand. Freecast it as a sorcery on a later turn. Plot only as a sorcery.)[/i] [i](Cast it without paying its mana cost.)[/i]
+Whenever you cast a spell from anywhere other than your hand, draw a card. => Cards in your hand have plot. The plot cost is equal to the mana cost. [i](You may pay the plot cost and exile it from your hand. Freecast it as a sorcery on a later turn. Plot only as a sorcery.)[/i]
+Whenever you cast a spell from anywhere other than your hand for the first time each turn, draw a card.
+
+Trish, Fiendish Femme Fatale
+rules_text: Haste, menace, stylish [i](Your rank starts at D.)[/i] 
+[i]Electrical Dance — [/i]{2}{BR}. {Q}, pay 3 life: Choose three targets. If your rank is A or higher, you may choose up to two additional targets. Trish deals X damage divided evenly between them, rounded down, where X is equal to the highest amount of life lost by a player this turn. 
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i] => Haste, stylish [i](Your rank starts at D.)[/i] 
+[i]Electrical Dance — [/i]{2}{BR}. {Q}, pay 3 life: Choose three targets. If your rank is A or higher, you may choose up to two additional targets. Trish deals X damage divided evenly between them, rounded down, where X is equal to the highest amount of life lost by a player this turn. 
+Partner—Devil Hunter
+
+Puppeteer of the Temen-ni-Gru
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Seething Landscape added.
