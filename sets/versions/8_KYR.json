@@ -2002,46 +2002,6 @@
             "notes": ""
         },
         {
-            "card_name": "Stylish Rank",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "\u200b",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "CAPCOM",
-            "alias": "",
-            "position": "98",
-            "notes": "\n\nPatched"
-        },
-        {
-            "card_name": "Stylish Ranks",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "\u200b",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "KYR",
-            "loyalty": "",
-            "artist": "CAPCOM",
-            "alias": "",
-            "position": "99",
-            "notes": "Patched"
-        },
-        {
             "card_name": "Citizen",
             "color": "WG",
             "rarity": "common",
@@ -2058,7 +2018,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC4:SE",
             "alias": "",
-            "position": "100",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2078,7 +2038,7 @@
             "loyalty": "",
             "artist": "Kriss Sison & Brian Farjado",
             "alias": "",
-            "position": "101",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2098,7 +2058,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "102",
+            "position": "100",
             "notes": ""
         },
         {
@@ -2118,7 +2078,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "103",
+            "position": "101",
             "notes": ""
         },
         {
@@ -2138,7 +2098,7 @@
             "loyalty": "",
             "artist": "puropoly",
             "alias": "",
-            "position": "104",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2158,7 +2118,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "105",
+            "position": "103",
             "notes": ""
         },
         {
@@ -2178,7 +2138,7 @@
             "loyalty": "",
             "artist": "BONES",
             "alias": "Codsworth, Handy Helper",
-            "position": "106",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2198,7 +2158,7 @@
             "loyalty": "",
             "artist": "DemonLeon3D",
             "alias": "",
-            "position": "107",
+            "position": "105",
             "notes": "Patched (Cost)"
         },
         {
@@ -2218,7 +2178,7 @@
             "loyalty": "",
             "artist": "TEPPEN",
             "alias": "",
-            "position": "108",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2238,8 +2198,48 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
-            "position": "109",
+            "position": "107",
             "notes": "V"
+        },
+        {
+            "card_name": "Stylish Rank",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "CAPCOM",
+            "alias": "",
+            "position": "108",
+            "notes": "\n\nPatched"
+        },
+        {
+            "card_name": "Stylish Ranks",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "KYR",
+            "loyalty": "",
+            "artist": "CAPCOM",
+            "alias": "",
+            "position": "109",
+            "notes": "Patched"
         }
     ]
 }

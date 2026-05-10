@@ -1,4 +1,156 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Sixth Hell: Gluttony added.
+Sixth Hell: Gluttony Token added.
+
+Expel From Memory removed.
+
+Proto Angelo
+
+Scudo Angelo
+
+Barbed Chaos
+
+SDT Doppelganger
+
+My Flesh Fails Me
+
+Sinister Devil Trigger
+
+The Legendary Knight Returns
+
+Judgment Cut
+
+Unworthy Opponent
+
+Devil Sword Yamato
+
+Vergil, Alpha and Omega
+
+Tycoon of Limbo Mundus
+
+Familiar: Griffon
+
+Familiar: Shadow
+
+Nightmare: Omega
+
+Dante's Office
+
+Decaying Gardens
+
+Mallet Castle
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Evil Waterways
+
+Hell Judecca
+
+Face Your Nightmares
+
+Power Of The Yamato
+
+Vile Succubus
+
+World of V
+
+Trismagia
+
+Is Sanity The Price To Pay...
+
+Malformed Witch Malphas
+
+Empusa Queen
+
+Green Empusas
+
+Parasitic Fiend Nidhogg
+
+Qliphoth Roots
+
+Empusa
+
+Heroic Intervention
+
+I Need More Power
+
+Wonder
+
+Orangguerra
+
+Urizen
+
+The Qliphoth Awakens
+
+Undercity Informer
+
+Summon Sword
+
+Empusa Token
+
+Plant Tentacle
+
+Scudo Angelo Token
+
+Blood
+
+Treasure
+
+Mind Grind
+
+Sparda's Challenger Baul
+
+Dreamrunner
+
+Reanimate
+
+Zameck Guildmage
+
+Warren Soultrader
+
+Tribute to the World Tree
+
+War Room
+
+Ohran Frostfang
+
+Aftermath Analyst
+
+Lumra, Bellow of the Woods
+
+Insect
+
+Sink into Stupor
+
+Fell the Profane
+
+Quicksilver Style
+
+Dark Slayer Style
+
+Summoner Style
+
+V, The Mysterious One
+type: Legendary Creature — Human Warlock => VE Legendary Creature — Human Warlock
+rules_text: Haste, stylish
+[i]The Book — [/i]{T}: Mill three cards. When you do, you may cast a creature spell from your graveyard. If your rank is A or higher, you may cast it as though it had delve. [i](Each other card you exile from your graveyard while casting it pays for {1}.)[/i]
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i] => Haste, stylish [i](Your rank starts at D.)[/i]
+[i]The Book — [/i]{T}: Mill three cards. 
+[i]Promotion—[/i]{T}:[i] [/i]If your rank is A or higher, cast a creature card from your graveyard as though it had delve. [i](Each other card you exile from your graveyard while casting it pays for {1}.)[/i]
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+Stylish Rank
+
+Stylish Ranks
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

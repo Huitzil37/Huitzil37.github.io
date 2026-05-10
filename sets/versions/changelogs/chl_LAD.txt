@@ -1,4 +1,40 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Plotted added.
+Suspended added.
+
+
+Nightmare: Alpha
+
+Flame Conqueror Berial
+
+Royal Fork
+
+Frost Toad Bael
+
+War Room
+
+Divinity Statue
+
+Trish, Fiendish Femme Fatale
+
+Thought Vessel
+
+Puppeteer of the Temen-ni-Gru
+
+Claim the Arcana
+
+Treasure Cruise
+
+Explosion Shot
+
+Stylish Rank
+
+Stylish Ranks
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Lock and Load added.

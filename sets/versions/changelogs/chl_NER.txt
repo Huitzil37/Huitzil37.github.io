@@ -1,4 +1,86 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Spine of Ish Sah added.
+Bonders' Enclave added.
+
+Spine of Ish Sha removed.
+Bonder's Enclave removed.
+
+I'M NOT LETTING YOU DIE!
+
+Golem
+
+Chamber of Mystery
+
+Dante's Office
+
+Mitis Rainforest
+
+Red Grave Ruin
+rules_text: This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+{2}, {T}: Gain a Rank. => This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+{2}, {T}: Gain a rank.
+
+Nico, Artisan of Arms
+
+Monstrous Mother Echidna
+
+Order Alchemist Agnus
+
+Settle the Argument
+
+True Power
+
+Second Hell: Envy Token
+
+Steel Impact Gilgamesh
+
+Ghost Rage
+
+Isolated Phone
+
+Infestant
+
+Buster Arm
+
+Nero, Upstart Hunter
+
+Seize the Day
+
+Cold-Eyed Selkie
+
+Decimate
+
+Pasta Breaker
+
+Infested Chopper
+
+Devil Sword Alastor
+
+Slagstone Refinery
+
+Chaos Warp
+
+Weapons Manufacturing
+
+Munitions
+
+Phyrexian Germ
+
+Ferrum Hills
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped unless your rank is a A or higher.
+
+Stylish Rank
+
+Stylish Ranks
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

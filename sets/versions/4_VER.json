@@ -153,7 +153,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Vampire",
-            "number": 20,
+            "number": 19,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "Flying, lifelink\nWhenever The Haunt of Hightower attacks, defending player discards a card.\nWhenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on The Haunt of Hightower.",
@@ -493,7 +493,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 22,
+            "number": 21,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "{1}: Exile up to two target cards from graveyards. If either was put there this turn, you may play it, and mana of any type may be spent to cast it.",
@@ -569,46 +569,6 @@
             "notes": ""
         },
         {
-            "card_name": "Stylish Rank",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "\u200b",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "CAPCOM",
-            "alias": "",
-            "position": "28",
-            "notes": "\n\nPatched"
-        },
-        {
-            "card_name": "Stylish Ranks",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "\u200b",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "CAPCOM",
-            "alias": "",
-            "position": "29",
-            "notes": "Patched"
-        },
-        {
             "card_name": "Proto Angelo",
             "color": "U",
             "rarity": "uncommon",
@@ -625,7 +585,7 @@
             "loyalty": "",
             "artist": "Jun Ishimaru",
             "alias": "",
-            "position": "30",
+            "position": "28",
             "notes": ""
         },
         {
@@ -645,7 +605,7 @@
             "loyalty": "",
             "artist": "Kyxarie Peralta",
             "alias": "",
-            "position": "31",
+            "position": "29",
             "notes": ""
         },
         {
@@ -665,7 +625,7 @@
             "loyalty": "",
             "artist": "\u00c7aglayan K. G\u00f6ksoy",
             "alias": "",
-            "position": "32",
+            "position": "30",
             "notes": ""
         },
         {
@@ -685,7 +645,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5: SE",
             "alias": "",
-            "position": "33",
+            "position": "31",
             "notes": "Patched (color, no gy)"
         },
         {
@@ -705,7 +665,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC5",
             "alias": "",
-            "position": "34",
+            "position": "32",
             "notes": "New\n\nV"
         },
         {
@@ -725,7 +685,7 @@
             "loyalty": "",
             "artist": "ymrGraphic",
             "alias": "",
-            "position": "35",
+            "position": "33",
             "notes": "Patched"
         },
         {
@@ -733,7 +693,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 24,
+            "number": 23,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "When The Legendary Knight Returns enters the battlefield, gain a Stylish Rank. [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]",
@@ -745,7 +705,7 @@
             "loyalty": "",
             "artist": "Devil May Cry",
             "alias": "",
-            "position": "36",
+            "position": "34",
             "notes": ""
         },
         {
@@ -753,7 +713,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 23,
+            "number": 22,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Target creature gets -2/-2 until end of turn.\n[i]Judgment Cut End \u2014 [/i]Overload {2}{B}{B} [i](You may cast this spell for its overload cost. If you do, change \u201ctarget\u201d in its text to \u201ceach.\u201d)[/i]\nReplicate {B} [i](When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies, if it had targets.)[/i]",
@@ -765,7 +725,7 @@
             "loyalty": "",
             "artist": "Jeremy Chong",
             "alias": "",
-            "position": "37",
+            "position": "35",
             "notes": ""
         },
         {
@@ -785,7 +745,7 @@
             "loyalty": "",
             "artist": "Super Best Friends Play Devil May Cry 3",
             "alias": "",
-            "position": "38",
+            "position": "36",
             "notes": "Patched (nerfed)"
         },
         {
@@ -805,7 +765,7 @@
             "loyalty": "",
             "artist": "Jeremy Chong",
             "alias": "",
-            "position": "39",
+            "position": "37",
             "notes": ""
         },
         {
@@ -825,7 +785,7 @@
             "loyalty": "",
             "artist": "Satoru Senda",
             "alias": "",
-            "position": "40",
+            "position": "38",
             "notes": "Patched"
         },
         {
@@ -845,7 +805,7 @@
             "loyalty": "",
             "artist": "Francis Tneh",
             "alias": "",
-            "position": "41",
+            "position": "39",
             "notes": ""
         },
         {
@@ -853,7 +813,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Nightmare Bird",
-            "number": 18,
+            "number": 17,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying\nWhenever Griffon attacks, you and target opponent each mill three cards. That opponent loses life equal to the number of lands among those cards.\nEscape\u2014{1}{B}, exile two other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
@@ -865,7 +825,7 @@
             "loyalty": "",
             "artist": "Julio Reyna",
             "alias": "",
-            "position": "42",
+            "position": "40",
             "notes": "Patched (cheaper, pings off noncreature)"
         },
         {
@@ -885,7 +845,7 @@
             "loyalty": "",
             "artist": "Cory Trego-Erdner",
             "alias": "",
-            "position": "43",
+            "position": "41",
             "notes": "Patched (type)\n\nV"
         },
         {
@@ -905,7 +865,7 @@
             "loyalty": "",
             "artist": "Ilya Bondarenko",
             "alias": "",
-            "position": "44",
+            "position": "42",
             "notes": "Patched"
         },
         {
@@ -925,7 +885,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "45",
+            "position": "43",
             "notes": ""
         },
         {
@@ -945,7 +905,7 @@
             "loyalty": "",
             "artist": "Devil May Cry",
             "alias": "",
-            "position": "46",
+            "position": "44",
             "notes": "Bury the Light\n\nSub: Woodland Chasm"
         },
         {
@@ -965,7 +925,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "47",
+            "position": "45",
             "notes": "Bury the Light, Taste the Blood\n\nSub: Leechridden Swamp"
         },
         {
@@ -985,7 +945,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "48",
+            "position": "46",
             "notes": "Bury The Light, We Shall Never Surrender, Pull My Devil Trigger\n\nSub: Rimewood Falls"
         },
         {
@@ -1005,7 +965,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "49",
+            "position": "47",
             "notes": "Bury the Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Sapseep Forest"
         },
         {
@@ -1025,7 +985,7 @@
             "loyalty": "",
             "artist": "Mikas Jensen",
             "alias": "",
-            "position": "50",
+            "position": "48",
             "notes": "Bury The Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Moonring Island"
         },
         {
@@ -1045,7 +1005,7 @@
             "loyalty": "",
             "artist": "Nano Banana / Alexey Gorbatov",
             "alias": "",
-            "position": "51",
+            "position": "49",
             "notes": ""
         },
         {
@@ -1053,7 +1013,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Skeleton Warlock",
-            "number": 21,
+            "number": 20,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Menace\n[i]Underworld Gate[/i] \u2014 Whenever this creature deals combat damage to a player, return target creature card with mana value less than that damage from a graveyard to the battlefield.",
@@ -1065,7 +1025,7 @@
             "loyalty": "",
             "artist": "Jun Ishimaru",
             "alias": "",
-            "position": "52",
+            "position": "50",
             "notes": ""
         },
         {
@@ -1085,7 +1045,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC5",
             "alias": "",
-            "position": "53",
+            "position": "51",
             "notes": ""
         },
         {
@@ -1093,7 +1053,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 25,
+            "number": 24,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.",
@@ -1105,7 +1065,7 @@
             "loyalty": "",
             "artist": "Jeremy Chong",
             "alias": "Victimize",
-            "position": "54",
+            "position": "52",
             "notes": "Patched (text length)"
         },
         {
@@ -1125,28 +1085,8 @@
             "loyalty": "",
             "artist": "icula",
             "alias": "",
-            "position": "55",
+            "position": "53",
             "notes": ""
-        },
-        {
-            "card_name": "V, The Mysterious One",
-            "color": "BG",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 61,
-            "color_identity": "BG",
-            "cost": "{1}{B}{G}",
-            "rules_text": "Haste, stylish\n[i]The Book \u2014 [/i]{T}: Mill three cards. When you do, you may cast a creature spell from your graveyard. If your rank is A or higher, you may cast it as though it had delve. [i](Each other card you exile from your graveyard while casting it pays for {1}.)[/i]\nPartner\u2014Devil Hunter [i](You can have two commanders if both have this ability.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "0/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "Lee Woo-Chul",
-            "alias": "",
-            "position": "56",
-            "notes": "Patched (art)"
         },
         {
             "card_name": "World of V",
@@ -1165,7 +1105,7 @@
             "loyalty": "",
             "artist": "Rayden Chen",
             "alias": "",
-            "position": "57",
+            "position": "54",
             "notes": "Patched (Instant, new art)"
         },
         {
@@ -1185,7 +1125,7 @@
             "loyalty": "",
             "artist": "Marat Ars",
             "alias": "",
-            "position": "58",
+            "position": "55",
             "notes": "patched (totally new)"
         },
         {
@@ -1205,7 +1145,7 @@
             "loyalty": "",
             "artist": "Nano Banana /DMC4",
             "alias": "",
-            "position": "59",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1225,7 +1165,7 @@
             "loyalty": "",
             "artist": "icula",
             "alias": "",
-            "position": "60",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1245,7 +1185,7 @@
             "loyalty": "",
             "artist": "Andrey Kuzinskiy",
             "alias": "",
-            "position": "61",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1265,7 +1205,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC5",
             "alias": "",
-            "position": "62",
+            "position": "59",
             "notes": "Patched\n\nV"
         },
         {
@@ -1285,7 +1225,7 @@
             "loyalty": "",
             "artist": "Nikita Volobuev",
             "alias": "",
-            "position": "63",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1305,7 +1245,7 @@
             "loyalty": "",
             "artist": "Alexey Gorbatov",
             "alias": "",
-            "position": "64",
+            "position": "61",
             "notes": "New\n\nV"
         },
         {
@@ -1325,7 +1265,7 @@
             "loyalty": "",
             "artist": "Ibrahem Swaid",
             "alias": "",
-            "position": "65",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1345,7 +1285,7 @@
             "loyalty": "",
             "artist": "Francis Tneh",
             "alias": "",
-            "position": "66",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1365,27 +1305,7 @@
             "loyalty": "",
             "artist": "Nano Banana / Satoru Senda",
             "alias": "",
-            "position": "67",
-            "notes": ""
-        },
-        {
-            "card_name": "Expel From Memory",
-            "color": "B",
-            "rarity": "rare",
-            "type": "Instant",
-            "number": 17,
-            "color_identity": "B",
-            "cost": "{2}{B}{B}",
-            "rules_text": "Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]\nChoose any number of target creatures with equal toughness. Destroy the chosen creatures.",
-            "flavor_text": "[i]\u201cRest in peace, little chicken. It's been a bash.\u201d[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "Romanov Pavel",
-            "alias": "V. A. T. S",
-            "position": "68",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1405,7 +1325,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "69",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1425,7 +1345,7 @@
             "loyalty": "",
             "artist": "Cory Trego-Erdner",
             "alias": "",
-            "position": "70",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1445,7 +1365,7 @@
             "loyalty": "",
             "artist": "Pablo Fernandez",
             "alias": "",
-            "position": "71",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1465,7 +1385,7 @@
             "loyalty": "7",
             "artist": "Hentry Aponte",
             "alias": "",
-            "position": "72",
+            "position": "68",
             "notes": "Patched: increased cost, new art\n\nV"
         },
         {
@@ -1485,47 +1405,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "73",
-            "notes": ""
-        },
-        {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Island",
-            "number": 91,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "GPT-4o",
-            "alias": "",
-            "position": "74",
-            "notes": ""
-        },
-        {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Island",
-            "number": 92,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "GPT-4o",
-            "alias": "",
-            "position": "75",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1545,16 +1425,16 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "76",
+            "position": "70",
             "notes": ""
         },
         {
-            "card_name": "Swamp",
+            "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
-            "number": 96,
-            "color_identity": "B",
+            "type": "Basic Land \u2014 Island",
+            "number": 91,
+            "color_identity": "U",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
@@ -1565,7 +1445,27 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "77",
+            "position": "71",
+            "notes": ""
+        },
+        {
+            "card_name": "Island",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Island",
+            "number": 92,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "GPT-4o",
+            "alias": "",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1585,7 +1485,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "78",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1605,7 +1505,27 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "79",
+            "position": "74",
+            "notes": ""
+        },
+        {
+            "card_name": "Swamp",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Swamp",
+            "number": 96,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "GPT-4o",
+            "alias": "",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1625,47 +1545,7 @@
             "loyalty": "",
             "artist": "GPT-4o",
             "alias": "",
-            "position": "80",
-            "notes": ""
-        },
-        {
-            "card_name": "Forest",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
-            "number": 99,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "GPT-40",
-            "alias": "",
-            "position": "81",
-            "notes": ""
-        },
-        {
-            "card_name": "Forest",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
-            "number": 100,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VER",
-            "loyalty": "",
-            "artist": "GPT-40",
-            "alias": "",
-            "position": "82",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1685,7 +1565,7 @@
             "loyalty": "",
             "artist": "GPT-40",
             "alias": "",
-            "position": "83",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1705,7 +1585,47 @@
             "loyalty": "",
             "artist": "GPT-40",
             "alias": "",
-            "position": "84",
+            "position": "78",
+            "notes": ""
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Forest",
+            "number": 99,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "GPT-40",
+            "alias": "",
+            "position": "79",
+            "notes": ""
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Forest",
+            "number": 100,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "GPT-40",
+            "alias": "",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1725,7 +1645,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "85",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1745,7 +1665,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "86",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1765,7 +1685,7 @@
             "loyalty": "",
             "artist": "Ibrahem Swaid",
             "alias": "",
-            "position": "87",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1773,7 +1693,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Plant",
-            "number": 3,
+            "number": 4,
             "color_identity": "G",
             "cost": "",
             "rules_text": "Haste, decayed",
@@ -1785,7 +1705,7 @@
             "loyalty": "",
             "artist": "Nikita Volobuev",
             "alias": "",
-            "position": "88",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1793,7 +1713,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Token Creature \u2014 Demon Knight",
-            "number": 4,
+            "number": 5,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Vigilance\nWhenever this creature enters or attacks, mill two cards.\n[i](This token's mana cost is {1}{G}.)[/i]",
@@ -1805,7 +1725,7 @@
             "loyalty": "",
             "artist": "Kyxarie Peralta",
             "alias": "",
-            "position": "89",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1813,7 +1733,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Blood",
-            "number": 6,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, discard a card, sacrifice this artifact: Draw a card.",
@@ -1825,7 +1745,7 @@
             "loyalty": "",
             "artist": "Kriss Sison",
             "alias": "",
-            "position": "90",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1833,7 +1753,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 7,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, sacrifice this artifact: Add one mana of any color.",
@@ -1845,7 +1765,7 @@
             "loyalty": "",
             "artist": "Lee Woo-chul",
             "alias": "",
-            "position": "91",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1865,7 +1785,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "92",
+            "position": "88",
             "notes": ""
         },
         {
@@ -1885,7 +1805,7 @@
             "loyalty": "",
             "artist": "Nano Banana",
             "alias": "Siegfried, Famed Swordsman",
-            "position": "93",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1905,7 +1825,7 @@
             "loyalty": "",
             "artist": "Nano Banana",
             "alias": "",
-            "position": "94",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1913,7 +1833,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 26,
+            "number": 25,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",
@@ -1925,7 +1845,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "95",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1945,7 +1865,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "96",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1965,7 +1885,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "97",
+            "position": "93",
             "notes": ""
         },
         {
@@ -1985,7 +1905,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "98",
+            "position": "94",
             "notes": ""
         },
         {
@@ -2005,7 +1925,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "99",
+            "position": "95",
             "notes": ""
         },
         {
@@ -2025,7 +1945,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "100",
+            "position": "96",
             "notes": ""
         },
         {
@@ -2045,7 +1965,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "101",
+            "position": "97",
             "notes": ""
         },
         {
@@ -2065,7 +1985,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "102",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2073,7 +1993,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
-            "number": 5,
+            "number": 6,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "",
@@ -2085,7 +2005,7 @@
             "loyalty": "",
             "artist": "Ibrahem Swaid",
             "alias": "",
-            "position": "103",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2105,7 +2025,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "104",
+            "position": "100",
             "card_name2": "Soporific Springs",
             "color2": "",
             "type2": "Land",
@@ -2124,7 +2044,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 19,
+            "number": 18,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Destroy target creature or planeswalker.",
@@ -2136,7 +2056,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "105",
+            "position": "101",
             "card_name2": "Fell Mire",
             "color2": "",
             "type2": "Land",
@@ -2167,7 +2087,7 @@
             "loyalty": "",
             "artist": "TEPPEN",
             "alias": "",
-            "position": "106",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2187,7 +2107,7 @@
             "loyalty": "",
             "artist": "Kiron",
             "alias": "",
-            "position": "107",
+            "position": "103",
             "notes": ""
         },
         {
@@ -2207,8 +2127,108 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
-            "position": "108",
+            "position": "104",
             "notes": "V"
+        },
+        {
+            "card_name": "V, The Mysterious One",
+            "color": "BG",
+            "rarity": "mythic",
+            "type": "VE Legendary Creature \u2014 Human Warlock",
+            "number": 61,
+            "color_identity": "BG",
+            "cost": "{1}{B}{G}",
+            "rules_text": "Haste, stylish [i](Your rank starts at D.)[/i]\n[i]The Book \u2014 [/i]{T}: Mill three cards. \n[i]Promotion\u2014[/i]{T}:[i] [/i]If your rank is A or higher, cast a creature card from your graveyard as though it had delve. [i](Each other card you exile from your graveyard while casting it pays for {1}.)[/i]\nPartner\u2014Devil Hunter [i](You can have two commanders if both have this ability.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "0/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "Lee Woo-Chul",
+            "alias": "",
+            "position": "105",
+            "notes": "Patched (art)"
+        },
+        {
+            "card_name": "Stylish Rank",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "CAPCOM",
+            "alias": "",
+            "position": "106",
+            "notes": "\n\nPatched"
+        },
+        {
+            "card_name": "Stylish Ranks",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "CAPCOM",
+            "alias": "",
+            "position": "107",
+            "notes": "Patched"
+        },
+        {
+            "card_name": "Sixth Hell: Gluttony",
+            "color": "B",
+            "rarity": "common",
+            "type": "Creature \u2014 Demon Sand Spirit",
+            "number": 26,
+            "color_identity": "B",
+            "cost": "{B}",
+            "rules_text": "Squad {2}\nLifelink, wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]",
+            "flavor_text": "[i]They'll devour anything around them, and then spit it back in your face as a blast of sand. [/i]",
+            "pt": "1/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "Lee Woo-Chul",
+            "alias": "",
+            "position": "108",
+            "notes": "New\n\nNico"
+        },
+        {
+            "card_name": "Sixth Hell: Gluttony Token",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Demon Sand Spirit",
+            "number": 3,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Lifelink, wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]\n[i](This token's mana cost is {B}.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "VER",
+            "loyalty": "",
+            "artist": "Lee Woo-Chul",
+            "alias": "",
+            "position": "109",
+            "notes": "New\n\nNico"
         }
     ]
 }

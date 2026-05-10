@@ -240,7 +240,7 @@
             "notes": "RW41,Noncreature,5,,Unfinished Business"
         },
         {
-            "card_name": "Spine of Ish Sha",
+            "card_name": "Spine of Ish Sah",
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
@@ -657,7 +657,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 94,
+            "number": 93,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -677,7 +677,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 93,
+            "number": 94,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -717,7 +717,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 97,
+            "number": 95,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -757,7 +757,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 95,
+            "number": 97,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -873,7 +873,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bonder's Enclave",
+            "card_name": "Bonders' Enclave",
             "color": "",
             "rarity": "common",
             "type": "Land",
@@ -1613,46 +1613,6 @@
             "notes": ""
         },
         {
-            "card_name": "Stylish Rank",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "\u200b",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "CAPCOM",
-            "alias": "",
-            "position": "78",
-            "notes": "\n\nPatched"
-        },
-        {
-            "card_name": "Stylish Ranks",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "\u200b",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "CAPCOM",
-            "alias": "",
-            "position": "79",
-            "notes": "Patched"
-        },
-        {
             "card_name": "I'M NOT LETTING YOU DIE!",
             "color": "G",
             "rarity": "rare",
@@ -1669,7 +1629,7 @@
             "loyalty": "",
             "artist": "Marat Ars",
             "alias": "",
-            "position": "80",
+            "position": "78",
             "notes": "new\n\nNero"
         },
         {
@@ -1689,7 +1649,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "81",
+            "position": "79",
             "notes": ""
         },
         {
@@ -1709,7 +1669,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 3",
             "alias": "",
-            "position": "82",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1729,28 +1689,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "83",
+            "position": "81",
             "notes": ""
-        },
-        {
-            "card_name": "Ferrum Hills",
-            "color": "",
-            "rarity": "uncommon",
-            "type": "Land \u2014 Mountain Forest",
-            "number": 75,
-            "color_identity": "RG",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nThis land enters tapped unless your Rank is a A or higher.",
-            "flavor_text": "[i]\u201cReturn the Conqueror of the Fire Hell back to his domain!\u201d[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Devil May Cry 5",
-            "alias": "",
-            "position": "84",
-            "notes": "All Decks\n\nSub: God's Eye, Gate to the Reikai"
         },
         {
             "card_name": "Mitis Rainforest",
@@ -1769,7 +1709,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "85",
+            "position": "82",
             "notes": "Bury The Light, We Shall Never Surrender, Pull My Devil Trigger\n\nSub: Rimewood Falls"
         },
         {
@@ -1780,7 +1720,7 @@
             "number": 82,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\n{2}, {T}: Gain a Rank.",
+            "rules_text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\n{2}, {T}: Gain a rank.",
             "flavor_text": "[i]\u201c\u2014 They're demons! I've seen them with my own eyes! Red Grave is completely taken over!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1789,7 +1729,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "86",
+            "position": "83",
             "notes": "Bury the Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Sapseep Forest"
         },
         {
@@ -1809,7 +1749,7 @@
             "loyalty": "",
             "artist": "Tropa Entertainment",
             "alias": "",
-            "position": "87",
+            "position": "84",
             "notes": "Patched (Redesigned)"
         },
         {
@@ -1829,7 +1769,7 @@
             "loyalty": "",
             "artist": "Rayden Chen",
             "alias": "",
-            "position": "88",
+            "position": "85",
             "card_name2": "Devil Arm: Gilgamesh",
             "color2": "RG",
             "type2": "Legendary Artifact \u2014 Equipment",
@@ -1860,7 +1800,7 @@
             "loyalty": "",
             "artist": "Kuai Leilei",
             "alias": "",
-            "position": "89",
+            "position": "86",
             "notes": "Patched (Length, color)"
         },
         {
@@ -1880,7 +1820,7 @@
             "loyalty": "",
             "artist": "Krillova Polina",
             "alias": "",
-            "position": "90",
+            "position": "87",
             "notes": "New"
         },
         {
@@ -1900,7 +1840,7 @@
             "loyalty": "",
             "artist": "Agri Karuniawan",
             "alias": "",
-            "position": "91",
+            "position": "88",
             "notes": "Patched (total revamp)"
         },
         {
@@ -1920,7 +1860,7 @@
             "loyalty": "",
             "artist": "Nano Banana /DMC3",
             "alias": "",
-            "position": "92",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1940,7 +1880,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "93",
+            "position": "90",
             "notes": "New\n\nNico"
         },
         {
@@ -1960,7 +1900,7 @@
             "loyalty": "",
             "artist": "Jun Ishimaru",
             "alias": "",
-            "position": "94",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1980,7 +1920,7 @@
             "loyalty": "",
             "artist": "Akim Kaliberda",
             "alias": "",
-            "position": "95",
+            "position": "92",
             "notes": "New\n\nNico"
         },
         {
@@ -2000,7 +1940,7 @@
             "loyalty": "",
             "artist": "Nano Banana",
             "alias": "",
-            "position": "96",
+            "position": "93",
             "notes": ""
         },
         {
@@ -2020,7 +1960,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "97",
+            "position": "94",
             "notes": ""
         },
         {
@@ -2040,7 +1980,7 @@
             "loyalty": "",
             "artist": "Lucas Svedberg",
             "alias": "",
-            "position": "98",
+            "position": "95",
             "notes": ""
         },
         {
@@ -2060,7 +2000,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "99",
+            "position": "96",
             "notes": ""
         },
         {
@@ -2080,7 +2020,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "100",
+            "position": "97",
             "notes": ""
         },
         {
@@ -2100,7 +2040,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "101",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2120,7 +2060,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "102",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2140,7 +2080,7 @@
             "loyalty": "",
             "artist": "@Professor_Vamp",
             "alias": "",
-            "position": "103",
+            "position": "100",
             "notes": ""
         },
         {
@@ -2160,7 +2100,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "Buster Sword",
-            "position": "104",
+            "position": "101",
             "notes": ""
         },
         {
@@ -2180,7 +2120,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "105",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2200,7 +2140,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "106",
+            "position": "103",
             "notes": ""
         },
         {
@@ -2220,7 +2160,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "107",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2240,7 +2180,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "108",
+            "position": "105",
             "notes": ""
         },
         {
@@ -2260,8 +2200,68 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "109",
+            "position": "106",
             "notes": ""
+        },
+        {
+            "card_name": "Ferrum Hills",
+            "color": "",
+            "rarity": "uncommon",
+            "type": "Land \u2014 Mountain Forest",
+            "number": 75,
+            "color_identity": "RG",
+            "cost": "",
+            "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nThis land enters tapped unless your rank is a A or higher.",
+            "flavor_text": "[i]\u201cReturn the Conqueror of the Fire Hell back to his domain!\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Nano Banana",
+            "alias": "",
+            "position": "107",
+            "notes": "All Decks\n\nSub: God's Eye, Gate to the Reikai"
+        },
+        {
+            "card_name": "Stylish Rank",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "CAPCOM",
+            "alias": "",
+            "position": "108",
+            "notes": "\n\nPatched"
+        },
+        {
+            "card_name": "Stylish Ranks",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "CAPCOM",
+            "alias": "",
+            "position": "109",
+            "notes": "Patched"
         }
     ]
 }

@@ -1,4 +1,114 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Clifftop Retreat
+rules_text: This land enters tapped unless you control two or more other lands.
+{T}: Add {R} or {W} => This land enters tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W}
+
+Fist of Chaos Balrog
+pt: 5/5 => 4/4
+
+Fourth Hell: Sloth Token
+type: Token Creature — Devil Sand Spirit => Token Creature — Demon Sand Spirit
+
+Treasure
+
+This Party's Getting Crazy!
+
+Dark Realm Command
+
+Kardur, Doomscourge
+
+Damned Queen
+
+Lesser Fallen
+
+Destroyer of Ardor Phantom
+
+All-Out Assault
+
+Would-Be King Arius
+
+Ambitious Scum Sid
+
+You're Just Dead Weight!
+rules_text: Launch X target nonland permanents you control and X target nonland permanents you don't control. [i](Exile them. While they're exiled, their owners may cast them by paying {2} instead of their mana costs.)[/i] [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i] => Launch X target nonland permanents you control and X target nonland permanents you don't control. [i](Exile them. While they're exiled, their owners may cast them by paying {2} instead of their mana costs.)[/i]
+
+Wings of the Guardian
+
+Devil Sword Rebellion
+
+Trickster Style
+
+The Bloody Palace
+
+Dante's Office
+
+Dumary Alleyways
+
+Fortuna Terrace
+
+Mallet Castle
+
+Nefasturris
+
+Sparda Estate
+
+Vie de Marli
+
+Dante Must Die
+
+Rottenmouth Viper
+
+Aven Interrupter
+
+Devil
+
+Phantom Baby
+
+Shapeshifter
+
+Copy
+
+Fell the Profane
+
+Valakut Awakening
+
+Blood Harvest Style
+
+Swordmaster Style
+
+Dante, Son of Sparda
+rules_text: Haste, stylish [i](Your rank starts at D.)[/i]
+Whenever Dante attacks, choose one. If your rank is A or higher, you may choose both. 
+[i]Taunt[/i] — Tap and goad target creature.
+[i]High Time[/i] — Launch target nonland permanent. [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+Partner—Devil Hunter => Haste, stylish [i](Your rank starts at D.)[/i]
+Whenever Dante attacks, choose one. If your rank is A or higher, you may choose one or more. 
+[i]Taunt[/i] — Tap and goad target creature.
+[i]Stinger[/i]— Dante gets +1/+0 and gains first strike this turn.
+[i]High Time[/i] — Launch target nonlegendary creature. [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+Partner—Devil Hunter
+
+Stylish Rank
+
+Stylish Ranks
+
+Launched
+
+Devil Sword Sparda
+type: Legendary Artifact — Equipment => DA Legendary Artifact — Equipment
+rules_text: Equipped permanent gets +2/+2, isn't a planeswalker, and is a creature in addition to its other types. [i](Loyalty abilities can still be activated.)[/i]
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, creatures you control get your choice of first strike, menace, or trample until end of turn. 
+Equip creature or planeswalker {2} => Equipped permanent gets +2/+2, isn't a planeswalker, and is a creature in addition to its other types. [i](Loyalty abilities can still be activated.)[/i]
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, attacking creatures you control get +1/+1 and your choice of menace or trample until end of turn. If this is the second time this ability has resolved this turn, they gain double strike until end of turn.
+Equip creature or planeswalker {3}
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Devil added.
