@@ -1,4 +1,145 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Blood-Goyle added.
+Expel From Memory added.
+Enduring Curiosity added.
+
+SDT Doppelganger removed.
+Warren Soultrader removed.
+Sixth Hell: Gluttony removed.
+
+My Flesh Fails Me
+
+Sinister Devil Trigger
+
+The Legendary Knight Returns
+
+Judgment Cut
+
+Unworthy Opponent
+
+Devil Sword Yamato
+
+Vergil, Alpha and Omega
+
+Tycoon of Limbo Mundus
+
+Familiar: Griffon
+
+Familiar: Shadow
+
+Nightmare: Omega
+
+Dante's Office
+
+Decaying Gardens
+
+Mallet Castle
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Evil Waterways
+
+Hell Judecca
+
+Face Your Nightmares
+
+Power Of The Yamato
+
+Vile Succubus
+
+World of V
+type: Legendary Instant => Instant
+
+Trismagia
+
+Is Sanity The Price To Pay...
+
+Malformed Witch Malphas
+
+Empusa Queen
+
+Green Empusas
+
+Parasitic Fiend Nidhogg
+
+Qliphoth Roots
+
+Empusa
+
+Heroic Intervention
+
+I Need More Power
+
+Wonder
+
+Orangguerra
+
+Urizen
+
+The Qliphoth Awakens
+
+Undercity Informer
+
+Summon Sword
+
+Empusa Token
+
+Plant Tentacle
+
+Scudo Angelo Token
+
+Blood
+
+Treasure
+
+Mind Grind
+
+Sparda's Challenger Baul
+
+Dreamrunner
+
+Reanimate
+
+Zameck Guildmage
+
+Tribute to the World Tree
+
+War Room
+
+Ohran Frostfang
+
+Aftermath Analyst
+
+Lumra, Bellow of the Woods
+
+Insect
+
+Sink into Stupor
+
+Fell the Profane
+
+Quicksilver Style
+
+Dark Slayer Style
+
+Summoner Style
+
+V, The Mysterious One
+
+Stylish Rank
+
+Stylish Ranks
+
+Sixth Hell: Gluttony Token
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Sixth Hell: Gluttony added.

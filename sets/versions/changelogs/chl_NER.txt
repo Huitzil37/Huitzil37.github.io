@@ -1,4 +1,153 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Damned Bishop added.
+Pongify added.
+
+The Despair Embodied removed.
+Seize the Day removed.
+
+Gloria, Mysterious Benefactor
+
+Incandescent Colossus Goliath
+
+Petal Ray
+
+You Listen, Dead Weight.
+
+Heaped Harvest
+
+Dante, Unwitting Scion
+
+Rancor
+
+Kat, Urban Witch
+
+Overture
+
+Powerstone
+
+DMC Ride Armor
+
+Temen-ni-Gru Apex
+
+Vie de Marli
+
+Copy
+
+Tomboy
+
+Hunter's Prowess
+
+An Offer You Can't Refuse
+
+Rawhide
+
+Generous Patron
+
+Second Hell: Envy
+
+I'M NOT LETTING YOU DIE!
+
+Golem
+
+Chamber of Mystery
+
+Dante's Office
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Nico, Artisan of Arms
+
+Monstrous Mother Echidna
+
+Order Alchemist Agnus
+
+Settle the Argument
+
+True Power
+
+Second Hell: Envy Token
+
+Steel Impact Gilgamesh
+
+Ghost Rage
+
+Isolated Phone
+
+Infestant
+
+Nero, Upstart Hunter
+rules_text: Haste, reach, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Devil Breaker - [/i]Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw two cards and sacrifice that permanent.
+Partner—Devil Hunter => Haste, reach, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Devil Breaker - [/i]Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw a card and sacrifice that permanent.
+Partner—Devil Hunter
+
+Cold-Eyed Selkie
+
+Decimate
+
+Pasta Breaker
+
+Infested Chopper
+
+Devil Sword Alastor
+
+Slagstone Refinery
+
+Chaos Warp
+
+Weapons Manufacturing
+
+Munitions
+
+Phyrexian Germ
+
+Ferrum Hills
+
+Stylish Rank
+
+Stylish Ranks
+
+Buster Arm
+rules_text: [i]Neo Buster — [/i]Equipped creature has double strike and menace.
+[i]Super Buster— [/i]{2}, sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike, indestructible, and menace until end of turn. If you untapped a creature this way, after this phase, there is an additional combat phase.
+Equip {3} => [i]Neo Buster — [/i]Equipped creature has double strike.
+[i]Super Buster— [/i]{2}, sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike, indestructible, and menace until end of turn. If it was attached to a creature, after this phase, there is an additional combat phase.
+Equip {3}
+
+Nico's Workshop
+type: Legendary Artifact — Vehicle => NE Legendary Artifact — Vehicle
+rules_text: Trample
+When this Vehicle enters or attacks, you may destroy target artifact or target Wall. If you controlled that artifact or Wall, draw a card. 
+Crew 1 => Trample
+When this Vehicle enters or attacks, you may destroy target artifact, enchantment, or Wall. If a permanent is destroyed this way, its controller draws a card. 
+Crew 1
+
+Exceed Style
+type: Legendary Sorcery — Style => ST Legendary Sorcery — Style
+rules_text: Gain a rank. 
+Search library for a Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield, then shuffle.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Search your library for a [basic] Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield [tapped], then shuffle.
+Partner—Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]
+
+Engineer Style
+type: Legendary Instant — Style => ST Legendary Instant — Style
+cost: {2}{U} => {3}{U}
+rules_text: Gain a rank. 
+Scry 2, then draw two cards.
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i] => [i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]
+Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Draw three cards. [Then discard two cards.]
+Partner—Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Spine of Ish Sah added.

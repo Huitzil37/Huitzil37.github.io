@@ -264,7 +264,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Artifact \u2014 Equipment",
-            "number": 22,
+            "number": 23,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Equipped creature gets +1/+1 and has trample and \u201cWhenever this creature deals combat damage to a player or planeswalker, create that many Treasure tokens.\u201d\nEquip {3}",
@@ -284,7 +284,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 18,
+            "number": 19,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When this artifact enters, it deals 2 damage to any target.\n{2}, {T}, Sacrifice another artifact: Create a 3/3 colorless Golem artifact creature token.",
@@ -344,7 +344,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Equipment",
-            "number": 19,
+            "number": 20,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Double strike\nEquipped creature has double strike.\nReconfigure {2} [i]({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]",
@@ -515,7 +515,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 9,
+            "number": 10,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Return target spell or nonland permanent an opponent controls to its owner's hand.",
@@ -677,7 +677,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 94,
+            "number": 92,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -697,7 +697,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 92,
+            "number": 94,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -717,7 +717,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 95,
+            "number": 96,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -737,7 +737,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 96,
+            "number": 95,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -777,7 +777,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 98,
+            "number": 99,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -817,7 +817,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 99,
+            "number": 98,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -937,7 +937,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 15,
+            "number": 16,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "[i]Jocky[/i] \u2014 Equipped creature gets +2/+2 and has menace and \u201cWhen this creature becomes blocked, it deals 2 damage to each creature blocking it.\u201d\n[i]Stamen Ray[/i] \u2014 {1}, Sacrifice this artifact: Equipped creature gets +4/+4 until end of turn, then deals damage to target creature equal to its power. Excess damage is dealt to that creature's controller.\nEquip {1}{R}",
@@ -957,7 +957,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 7,
+            "number": 8,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "[i]Slow Sphere[/i] \u2014 Whenever you declare blockers, if equipped creature isn't blocking, you may have it block a creature of your choice that's attacking you. [i](It doesn't target and the block doesn't have to be legal.)[/i] \n[i]Slow World[/i] \u2014 {1}, sacrifice this Equipment: If it was attached to a creature, that creature gets +2/+2 until end of turn. Creatures your opponents control lose all abilities and have base power 0 until end of turn.\nEquip {U}",
@@ -1017,7 +1017,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Demon Berserker",
-            "number": 16,
+            "number": 17,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]\n[i][i]Enrage[/i][/i] \u2014 Whenever this creature is dealt damage, it deals damage equal to its power to target creature an opponent controls.",
@@ -1037,7 +1037,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Minotaur Warrior",
-            "number": 14,
+            "number": 15,
             "color_identity": "R",
             "cost": "{R}{R}",
             "rules_text": "As long as this creature has a counter on it, it gets +1/+1. As long as it's equipped, it gets +2/+2 and has trample. As long as it's enchanted, it gets +2/+2 and has menace.",
@@ -1097,7 +1097,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Legendary Artifact \u2014 Equipment",
-            "number": 11,
+            "number": 12,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Equipped creature has reach and first strike. As long as another Aura or Equipment is attached to it, it has double strike.\n[i]Color Up \u2014 [/i]{R}: Equipped creature gets +1/+0 until end of turn. \nEquip {2}",
@@ -1133,26 +1133,6 @@
             "notes": "Patched (trample)\n\nNero"
         },
         {
-            "card_name": "Nico's Workshop",
-            "color": "G",
-            "rarity": "rare",
-            "type": "Legendary Artifact \u2014 Vehicle",
-            "number": 36,
-            "color_identity": "G",
-            "cost": "{1}{G}{G}",
-            "rules_text": "Trample\nWhen this Vehicle enters or attacks, you may destroy target artifact or target Wall. If you controlled that artifact or Wall, draw a card. \nCrew 1",
-            "flavor_text": "[i]DMC's door-direct demon destruction delivery.[/i]",
-            "pt": "3/5",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Gribabos",
-            "alias": "",
-            "position": "54",
-            "notes": "Total revamp\n\nNico"
-        },
-        {
             "card_name": "Gloria, Mysterious Benefactor",
             "color": "U",
             "rarity": "uncommon",
@@ -1169,27 +1149,7 @@
             "loyalty": "",
             "artist": "Suranaki",
             "alias": "",
-            "position": "55",
-            "notes": ""
-        },
-        {
-            "card_name": "The Despair Embodied",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Legendary Creature \u2014 Demon Horror",
-            "number": 13,
-            "color_identity": "R",
-            "cost": "{4}{R}{R}",
-            "rules_text": "Flying, menace, haste\nDamage can't be prevented.\nIf a source you control would deal damage, it deals two times that much damage instead. \nWhenever this creature attacks, it deals 1 damage to each opponent and each creature they control.",
-            "flavor_text": "[i][/i]",
-            "pt": "6/6",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Nano Banana Pro",
-            "alias": "",
-            "position": "56",
+            "position": "54",
             "notes": ""
         },
         {
@@ -1209,7 +1169,7 @@
             "loyalty": "",
             "artist": "Alexey Gorbatov",
             "alias": "",
-            "position": "57",
+            "position": "55",
             "notes": "Patched (revamp, not DFC)\n\nNico"
         },
         {
@@ -1217,7 +1177,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 21,
+            "number": 22,
             "color_identity": "R",
             "cost": "{X}{R}",
             "rules_text": "As an additional cost to cast this spell, pay {X} or sacrifice an attached Equipment.\nFor each of up to X targets, choose a different number from 1 to X. Petal Ray deals that much damage to that permanent or player.",
@@ -1229,7 +1189,7 @@
             "loyalty": "",
             "artist": "Anastasia Shinyakova",
             "alias": "",
-            "position": "58",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1237,7 +1197,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 10,
+            "number": 11,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Return each nonland permanent that's not historic to its owner's hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
@@ -1249,7 +1209,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC5",
             "alias": "Desynchronization",
-            "position": "59",
+            "position": "57",
             "notes": "patched"
         },
         {
@@ -1269,7 +1229,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC4",
             "alias": "",
-            "position": "60",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1289,7 +1249,7 @@
             "loyalty": "",
             "artist": "Netflix",
             "alias": "Red XIII, Proud Warrior",
-            "position": "61",
+            "position": "59",
             "notes": "RM16,Medium Creature,3,RG RG RG RG ,Red XIII, Proud Warrior"
         },
         {
@@ -1309,27 +1269,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC5",
             "alias": "",
-            "position": "62",
-            "notes": ""
-        },
-        {
-            "card_name": "Engineer Style",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Legendary Instant \u2014 Style",
-            "number": 2,
-            "color_identity": "U",
-            "cost": "{2}{U}",
-            "rules_text": "Gain a rank. \nScry 2, then draw two cards.\nPartner\u2014Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Tropa Entertainment",
-            "alias": "",
-            "position": "63",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1349,7 +1289,7 @@
             "loyalty": "",
             "artist": "peperon",
             "alias": "",
-            "position": "64",
+            "position": "61",
             "notes": "NEW\n\nNico or V?"
         },
         {
@@ -1357,7 +1297,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 20,
+            "number": 21,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Equipped creature gets +2/+2 and has trample.\n[i]Exploder \u2014 [/i]{1}, Sacrifice this artifact: Choose target player. Overture deals damage to that player equal to the amount of damage equipped creature dealt to them this turn. \nEquip {2}",
@@ -1369,7 +1309,7 @@
             "loyalty": "",
             "artist": "TEPPEN",
             "alias": "",
-            "position": "65",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1389,7 +1329,7 @@
             "loyalty": "",
             "artist": "Nano Banana / DMC3",
             "alias": "",
-            "position": "66",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1409,7 +1349,7 @@
             "loyalty": "",
             "artist": "Akagi",
             "alias": "Kaldra Compleat",
-            "position": "67",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1429,7 +1369,7 @@
             "loyalty": "",
             "artist": "Mikas Jensen",
             "alias": "",
-            "position": "68",
+            "position": "65",
             "notes": "Bury The Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Moonring Island"
         },
         {
@@ -1449,7 +1389,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "69",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1469,7 +1409,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "70",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1489,28 +1429,8 @@
             "loyalty": "",
             "artist": "William Liu",
             "alias": "",
-            "position": "71",
+            "position": "68",
             "notes": "New\n\nNero"
-        },
-        {
-            "card_name": "Exceed Style",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Legendary Sorcery \u2014 Style",
-            "number": 27,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "Gain a rank. \nSearch library for a Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield, then shuffle.\nPartner\u2014Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "Nano Banana / DMC5",
-            "alias": "",
-            "position": "72",
-            "notes": "Nero"
         },
         {
             "card_name": "Hunter's Prowess",
@@ -1529,7 +1449,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "73",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1549,7 +1469,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "74",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1569,7 +1489,7 @@
             "loyalty": "",
             "artist": "Nano Banana /DMC5",
             "alias": "",
-            "position": "75",
+            "position": "71",
             "notes": "Errata (attacks)\n\nNero"
         },
         {
@@ -1589,7 +1509,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "76",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1609,7 +1529,7 @@
             "loyalty": "",
             "artist": "Nano Banana /DMC3",
             "alias": "",
-            "position": "77",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1629,7 +1549,7 @@
             "loyalty": "",
             "artist": "Marat Ars",
             "alias": "",
-            "position": "78",
+            "position": "74",
             "notes": "new\n\nNero"
         },
         {
@@ -1649,7 +1569,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "79",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1669,7 +1589,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 3",
             "alias": "",
-            "position": "80",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1689,7 +1609,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "81",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1709,7 +1629,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 4",
             "alias": "",
-            "position": "82",
+            "position": "78",
             "notes": "Bury The Light, We Shall Never Surrender, Pull My Devil Trigger\n\nSub: Rimewood Falls"
         },
         {
@@ -1729,7 +1649,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "83",
+            "position": "79",
             "notes": "Bury the Light, Pull My Devil Trigger, We Shall Never Surrender\n\nSub: Sapseep Forest"
         },
         {
@@ -1749,7 +1669,7 @@
             "loyalty": "",
             "artist": "Tropa Entertainment",
             "alias": "",
-            "position": "84",
+            "position": "80",
             "notes": "Patched (Redesigned)"
         },
         {
@@ -1769,7 +1689,7 @@
             "loyalty": "",
             "artist": "Rayden Chen",
             "alias": "",
-            "position": "85",
+            "position": "81",
             "card_name2": "Devil Arm: Gilgamesh",
             "color2": "RG",
             "type2": "Legendary Artifact \u2014 Equipment",
@@ -1800,7 +1720,7 @@
             "loyalty": "",
             "artist": "Kuai Leilei",
             "alias": "",
-            "position": "86",
+            "position": "82",
             "notes": "Patched (Length, color)"
         },
         {
@@ -1808,7 +1728,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 8,
+            "number": 9,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\nCounter target spell [unless its controller pays {2}]. If a spell is countered this way, exile it instead of putting it into its owner's graveyard.",
@@ -1820,7 +1740,7 @@
             "loyalty": "",
             "artist": "Krillova Polina",
             "alias": "",
-            "position": "87",
+            "position": "83",
             "notes": "New"
         },
         {
@@ -1840,7 +1760,7 @@
             "loyalty": "",
             "artist": "Agri Karuniawan",
             "alias": "",
-            "position": "88",
+            "position": "84",
             "notes": "Patched (total revamp)"
         },
         {
@@ -1860,7 +1780,7 @@
             "loyalty": "",
             "artist": "Nano Banana /DMC3",
             "alias": "",
-            "position": "89",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1880,7 +1800,7 @@
             "loyalty": "",
             "artist": "Devil May Cry 5",
             "alias": "",
-            "position": "90",
+            "position": "86",
             "notes": "New\n\nNico"
         },
         {
@@ -1900,7 +1820,7 @@
             "loyalty": "",
             "artist": "Jun Ishimaru",
             "alias": "",
-            "position": "91",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1920,7 +1840,7 @@
             "loyalty": "",
             "artist": "Akim Kaliberda",
             "alias": "",
-            "position": "92",
+            "position": "88",
             "notes": "New\n\nNico"
         },
         {
@@ -1928,7 +1848,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Insect",
-            "number": 17,
+            "number": 18,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "When this creature enters, gain control of target artifact. For as long as you control this creature, you control that artifact, it's an artifact creature, and it has a base power and toughness equal to its mana value if it didn't already have one.\nWhenever this creature attacks, you may attach any number of target Equipment to it.",
@@ -1940,27 +1860,7 @@
             "loyalty": "",
             "artist": "Nano Banana",
             "alias": "",
-            "position": "93",
-            "notes": ""
-        },
-        {
-            "card_name": "Buster Arm",
-            "color": "",
-            "rarity": "mythic",
-            "type": "Artifact \u2014 Equipment",
-            "number": 57,
-            "color_identity": "C",
-            "cost": "{3}",
-            "rules_text": "[i]Neo Buster \u2014 [/i]Equipped creature has double strike and menace.\n[i]Super Buster\u2014 [/i]{2}, sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike, indestructible, and menace until end of turn. If you untapped a creature this way, after this phase, there is an additional combat phase.\nEquip {3}",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "CAPCOM",
-            "alias": "",
-            "position": "94",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1971,7 +1871,7 @@
             "number": 49,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "Haste, reach, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\n[i]Devil Breaker - [/i]Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw two cards and sacrifice that permanent.\nPartner\u2014Devil Hunter",
+            "rules_text": "Haste, reach, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\n[i]Devil Breaker - [/i]Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw a card and sacrifice that permanent.\nPartner\u2014Devil Hunter",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1980,27 +1880,7 @@
             "loyalty": "",
             "artist": "Lucas Svedberg",
             "alias": "",
-            "position": "95",
-            "notes": ""
-        },
-        {
-            "card_name": "Seize the Day",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Sorcery",
-            "number": 23,
-            "color_identity": "R",
-            "cost": "{3}{R}",
-            "rules_text": "Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.\nFlashback {2}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NER",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "96",
+            "position": "90",
             "notes": ""
         },
         {
@@ -2020,7 +1900,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "97",
+            "position": "91",
             "notes": ""
         },
         {
@@ -2040,7 +1920,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "98",
+            "position": "92",
             "notes": ""
         },
         {
@@ -2060,7 +1940,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "99",
+            "position": "93",
             "notes": ""
         },
         {
@@ -2080,7 +1960,7 @@
             "loyalty": "",
             "artist": "@Professor_Vamp",
             "alias": "",
-            "position": "100",
+            "position": "94",
             "notes": ""
         },
         {
@@ -2100,7 +1980,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "Buster Sword",
-            "position": "101",
+            "position": "95",
             "notes": ""
         },
         {
@@ -2120,7 +2000,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "102",
+            "position": "96",
             "notes": ""
         },
         {
@@ -2128,7 +2008,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 12,
+            "number": 13,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.",
@@ -2140,7 +2020,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "103",
+            "position": "97",
             "notes": ""
         },
         {
@@ -2160,7 +2040,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "104",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2180,7 +2060,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "105",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2200,7 +2080,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "106",
+            "position": "100",
             "notes": ""
         },
         {
@@ -2220,7 +2100,7 @@
             "loyalty": "",
             "artist": "Nano Banana",
             "alias": "",
-            "position": "107",
+            "position": "101",
             "notes": "All Decks\n\nSub: God's Eye, Gate to the Reikai"
         },
         {
@@ -2240,7 +2120,7 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "108",
+            "position": "102",
             "notes": "\n\nPatched"
         },
         {
@@ -2260,9 +2140,129 @@
             "loyalty": "",
             "artist": "CAPCOM",
             "alias": "",
-            "position": "109",
+            "position": "103",
             "notes": "Patched"
+        },
+        {
+            "card_name": "Buster Arm",
+            "color": "",
+            "rarity": "mythic",
+            "type": "Artifact \u2014 Equipment",
+            "number": 57,
+            "color_identity": "C",
+            "cost": "{3}",
+            "rules_text": "[i]Neo Buster \u2014 [/i]Equipped creature has double strike.\n[i]Super Buster\u2014 [/i]{2}, sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike, indestructible, and menace until end of turn. If it was attached to a creature, after this phase, there is an additional combat phase.\nEquip {3}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "CAPCOM",
+            "alias": "",
+            "position": "104",
+            "notes": ""
+        },
+        {
+            "card_name": "Nico's Workshop",
+            "color": "G",
+            "rarity": "rare",
+            "type": "NE Legendary Artifact \u2014 Vehicle",
+            "number": 36,
+            "color_identity": "G",
+            "cost": "{1}{G}{G}",
+            "rules_text": "Trample\nWhen this Vehicle enters or attacks, you may destroy target artifact, enchantment, or Wall. If a permanent is destroyed this way, its controller draws a card. \nCrew 1",
+            "flavor_text": "[i]DMC's door-direct demon destruction delivery.[/i]",
+            "pt": "3/5",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Gribabos",
+            "alias": "",
+            "position": "105",
+            "notes": "Total revamp\n\nNico"
+        },
+        {
+            "card_name": "Damned Bishop",
+            "color": "R",
+            "rarity": "uncommon",
+            "type": "Artifact Creature \u2014 Sculpture Cleric",
+            "number": 14,
+            "color_identity": "R",
+            "cost": "{2}{R}",
+            "rules_text": "[i]Flame Circle[/i] \u2014 Whenever a creature you control becomes blocked by one or more creatures, if Damned Bishop is attacking, it deals 1 damage to each of those blocking creatures.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "William Liu",
+            "alias": "",
+            "position": "106",
+            "notes": "New"
+        },
+        {
+            "card_name": "Pongify",
+            "color": "U",
+            "rarity": "common",
+            "type": "Instant",
+            "number": 7,
+            "color_identity": "U",
+            "cost": "{U}",
+            "rules_text": "Destroy target creature. Its controller creates a 3/3 green Ape token.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "107",
+            "notes": ""
+        },
+        {
+            "card_name": "Exceed Style",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "ST Legendary Sorcery \u2014 Style",
+            "number": 27,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "[i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]\nStylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\nSearch your library for a [basic] Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield [tapped], then shuffle.\nPartner\u2014Devil Hunter [i](You can have two commanders if the other is a legendary creature with this ability.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Nano Banana / DMC5",
+            "alias": "",
+            "position": "108",
+            "notes": "Nero"
+        },
+        {
+            "card_name": "Engineer Style",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "ST Legendary Instant \u2014 Style",
+            "number": 2,
+            "color_identity": "U",
+            "cost": "{3}{U}",
+            "rules_text": "[i](Cast this spell only if you control a legendary creature or planeswalker.)[/i]\nStylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]\nDraw three cards. [Then discard two cards.]\nPartner\u2014Devil Hunter [i](This can be your second commander if the other is a creature with this ability.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NER",
+            "loyalty": "",
+            "artist": "Tropa Entertainment",
+            "alias": "",
+            "position": "109",
+            "notes": ""
         }
     ],
-    "version": 12
+    "version": 13
 }

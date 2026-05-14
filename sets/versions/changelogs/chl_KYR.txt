@@ -1,4 +1,74 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Bountiful Promenade added.
+Floodfarm Verge added.
+
+Flooded Grove removed.
+Dreamroot Cascade removed.
+
+Swords to Plowshares
+
+Virtuous Role
+
+Pegasus
+
+Mockery of Sparda
+
+Credo, Holy Knight
+
+Vergil, Cold-Hearted
+
+Wake Up To Justice
+
+Hosanna, Puppeteer of the Sefirot
+
+Kyrie, Voice of Hope
+
+Dante's Office
+
+Fortuna Castle
+
+Mitis Rainforest
+
+Righteous Rampage
+
+Citizen
+
+Sin Scissors
+
+Harmonized Crescendo
+
+Bring Friends
+
+Field of Brotherhood
+
+Patty Lowell
+
+Royalguard Style
+
+Quicksilver Style
+
+Summoner Style
+
+Stylish Rank
+
+Stylish Ranks
+
+Soprano Angelo
+type: Enchantment — Aura => KY Enchantment — Aura
+rules_text: Enchant creature
+When this Aura enters, draw a card.
+{0}: Untap enchanted creature. Activate only during your turn and only once each turn.
+Tap enchanted creature: Untap target artifact, creature, or land. Activate only if enchanted creature is multicolor and only once each turn. => Enchant creature
+When this Aura enters, draw a card.
+{0}: Untap enchanted creature. Activate only during your turn and only once each turn.
+Tap enchanted creature: Untap target artifact, creature, or land. Activate only if enchanted creature is multicolored and only once each turn.
+
+Insect
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
