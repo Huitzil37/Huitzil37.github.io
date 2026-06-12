@@ -1,4 +1,192 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Morrison, The Broker added.
+Damned Pawn added.
+Sefirot Puppeteer Hosanna added.
+Shatter the Rebellion added.
+The Savior Has Come added.
+
+Jaheira, Friend of the Forest removed.
+Endless Detour removed.
+Soldier removed.
+Hosanna, Puppeteer of the Sefirot removed.
+Harmonized Crescendo removed.
+
+Springheart Nantuko
+rules_text: Bestow {1}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +1/+1.
+[i]Landfall[/i] — Whenever a land enters the battlefield under your control, you may pay {1}{G} if Springheart Nantuko is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token instead. => Bestow {1}{G} 
+Enchanted creature gets +1/+1.
+[i]Landfall[/i] — Whenever a land enters the battlefield under your control, you may pay {1}{G} if Springheart Nantuko is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token instead.
+
+Knight
+
+Order Gladius Token
+type: Token Creature — Demon Lizard => Token Enchantment Creature — Demon Lizard
+
+Witch Enchanter
+
+Heroic Intervention
+
+Doubling Season
+
+Family's Favor
+
+Vergil, Liberator of Makai
+
+Insight Engine
+
+Caretaker's Talent
+
+Damned King
+rules_text: Whenever you place one or more counters on a creature you control, you may create a white 1/1 Soldier creature token and place the same number and kind of counters on it. Do this only once each turn.
+{2}{W}, {T}: Put a +1/+1 counter on this creature. => Whenever you place one or more counters on a creature you control, you may create a colorless 1/1 Soldier artifact creature token and place the same number and kind of counters on it. Do this only once each turn.
+{2}{W}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+
+Damned Rook
+
+Sweet Surrender
+
+Chained Behemoth
+
+Order Basilisk
+rules_text: Bestow {G}{G}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +2/+2.
+[i]Support Fire — [/i]When this creature or enchanted creature attacks, it gains trample and each other attacking creature you control gets +1/+0 until end of turn. => Bestow {G}{G}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +2/+2.
+[i]Volley — [/i]When this creature or enchanted creature attacks, it gains trample and each other attacking creature you control gets +1/+0 until end of turn.
+
+Order Cutlass
+
+Bianco Angelo
+
+Alto Angelo
+
+Order Gladius
+
+Ascension Ceremony
+
+The Holy Knights of Sparda
+
+Devil Bringer
+
+Dante's Awakening
+
+Duet in SSS-Major
+
+Jump Cancel
+
+The Savior
+
+Hound Master Bolverk
+
+Freki and Geri
+
+Awakened Lineage
+
+Angelo Credo
+
+Ice Guardian Cerberus
+
+Frost Demon
+type: Snow Creature — Demon Lizard => Snow Creature — Demon Elemental
+
+Stand And Fight Together
+
+Manipulator of Malice Jester
+
+Archon of Sun's Grace
+
+Fortuna Terrace
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Swords to Plowshares
+
+Virtuous Role
+
+Pegasus
+
+Mockery of Sparda
+
+Vergil, Cold-Hearted
+
+Wake Up To Justice
+
+Kyrie, Voice of Hope
+
+Dante's Office
+
+Fortuna Castle
+rules_text: [i]({T}: Add {W} or {U})[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {W} or {U})[/i]
+This land enters tapped unless your rank is a A or higher.
+
+Mitis Rainforest
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped unless your rank is a A or higher.
+
+Righteous Rampage
+
+Citizen
+
+Sin Scissors
+
+Bring Friends
+
+Field of Brotherhood
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped unless your Rank is a A or higher. => [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped unless your rank is a A or higher.
+
+Patty Lowell
+
+Royalguard Style
+
+Quicksilver Style
+cost: {1}{U} => {1}{U}{U}
+
+Summoner Style
+
+Stylish Rank
+
+Stylish Ranks
+
+Soprano Angelo
+type: KY Enchantment — Aura => Enchantment — Aura
+
+Insect
+
+Credo, Holy Knight
+rules_text: Ward {2}, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Guard Captain[/i] — When Credo enters and whenever he attacks [alone], put a shield counter on another target creature. 
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i] => Ward {1}, stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+[i]Guard Captain[/i] — Whenever Credo enters or attacks, [you may pay {2}. If you do,] put a shield counter on another target creature. 
+Partner—Devil Hunter [i](You can have two commanders if both have this ability.)[/i]
+
+The Dark Knight Sparda
+type: Legendary Planeswalker — Sparda => KY Legendary Planeswalker — Sparda
+rules_text: [+2]: Gain a Rank. 
+[-1]: Choose a Rank you have and trigger its ability as though you were attacking.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Partner—Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him. => [+2]: Gain a rank. 
+[-2]: Look at the top X cards of your library, where X is your number of ranks. Put one into your hand and the rest on the bottom in a random order.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Partner—Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him.
+special_text: [+2]: Gain a Rank. 
+[-1]: Choose a Rank you have and trigger its ability as though you were attacking.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Partner—Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him. => [+2]: Gain a rank. 
+[-2]: Look at the top X cards of your library, where X is your number of ranks. Put one into your hand and the rest on the bottom in a random order.
+[-10]: Each opponent chooses half of the nontoken permanents they control. Gain control of those permanents.
+Sparda can be your commander. If your commander has Partner—Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Bountiful Promenade added.

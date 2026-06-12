@@ -1,4 +1,198 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Body of the Savior added.
+Sixth Hell: Gluttony Token added.
+Sixth Hell: Gluttony added.
+The Demon's Legacy added.
+Rakdos Charm added.
+Mysterious Devil Hunter added.
+
+Fourth Hell: Sloth removed.
+Third Hell: Wrath removed.
+Gold Orb removed.
+Fourth Hell: Sloth Token removed.
+Dante Must Die removed.
+Devil removed.
+Shapeshifter removed.
+
+Burnished Hart
+
+Ruinous Ultimatum
+
+Master Warcraft
+
+Breath of Fury
+
+Blade of Mundus
+
+Fury Demon
+
+Agonofinis
+
+Table Hopper
+
+La Vita Nuova
+
+Arius's Mad Ambition
+
+Devil Sword Dante
+
+Nelo Angelo
+
+Holy Fist Beowulf
+
+Fist of Chaos Balrog
+
+Beryl, Beastheads Hunter
+
+Mary, DARKCOM Operative
+
+Vice President Baines
+
+Mardu Siegebreaker
+
+Blitz
+
+Season of Loss
+
+Colosseum Sacrifice Griffon
+
+Phineas, Underworld Prophet
+
+Secretary Demons
+
+Sin Devil Trigger
+
+You Might Never Return
+
+Agni and Rudra
+
+Lucia, Forlorn Protector
+
+Illuminated Corruption Artemis
+
+Matier, Protector
+
+Jackpot!
+
+The Monarch
+
+Treasure
+
+Dark Realm Command
+
+Kardur, Doomscourge
+
+Damned Queen
+
+Lesser Fallen
+
+Destroyer of Ardor Phantom
+
+All-Out Assault
+
+Would-Be King Arius
+
+Ambitious Scum Sid
+
+You're Just Dead Weight!
+
+Wings of the Guardian
+type: DA Enchantment — Aura => Enchantment — Aura
+
+Devil Sword Rebellion
+
+Trickster Style
+
+The Bloody Palace
+
+Dante's Office
+
+Dumary Alleyways
+
+Fortuna Terrace
+
+Mallet Castle
+
+Nefasturris
+
+Sparda Estate
+
+Vie de Marli
+
+Rottenmouth Viper
+
+Aven Interrupter
+
+Phantom Baby
+
+Copy
+rules_text: [i](This token can be used to represent a permanent that's a copy of something else.[/i] => [i](This token can be used to represent a permanent that's a copy of something else.)[/i]
+
+Fell the Profane
+
+Valakut Awakening
+
+Blood Harvest Style
+
+Swordmaster Style
+
+Dante, Son of Sparda
+rules_text: Haste, stylish [i](Your rank starts at D.)[/i]
+Whenever Dante attacks, choose one. If your rank is A or higher, you may choose one or more. 
+[i]Taunt[/i] — Tap and goad target creature.
+[i]Stinger[/i]— Dante gets +1/+0 and gains first strike this turn.
+[i]High Time[/i] — Launch target nonlegendary creature. [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+Partner—Devil Hunter => Haste, stylish [i](Your rank starts at D.)[/i]
+Whenever Dante attacks, choose one. If your rank is A or higher, you may choose one or more. 
+[i]Taunt[/i] — Goad target creature.
+[i]Stinger[/i]— Dante gets +1/+0 and gains first strike this turn.
+[i]High Time[/i] — Launch target nonlegendary creature. [i](Exile it. While it's exiled, its owner may cast it by paying {2} instead of its mana cost.)[/i]
+Partner—Devil Hunter
+
+Stylish Rank
+
+Stylish Ranks
+
+Launched
+
+Devil Sword Sparda
+type: DA Legendary Artifact — Equipment => Legendary Artifact — Equipment
+rules_text: Equipped permanent gets +2/+2, isn't a planeswalker, and is a creature in addition to its other types. [i](Loyalty abilities can still be activated.)[/i]
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, attacking creatures you control get +1/+1 and your choice of menace or trample until end of turn. If this is the second time this ability has resolved this turn, they gain double strike until end of turn.
+Equip creature or planeswalker {3} => Equipped permanent gets +2/+2, isn't a planeswalker, and is a creature in addition to its other types. [i](Loyalty abilities can still be activated.)[/i]
+[i]Transforming Blade[/i] — Whenever equipped creature attacks, attacking creatures you control get +1/+1 and your choice of menace or trample until end of turn. If this is the second time this ability has resolved this turn, they gain double strike until end of turn.
+Equip creature or planeswalker {2}
+
+Demon Emperor Mundus
+cost: {5}{B}{B} => {4}{B}{B}{B}
+rules_text: Flying, lifelink
+Whenever Mundus enters or attacks, destroy another target creature.
+Whenever a creature an opponent controls dies, you may create a token that's a copy of it. Do this only one time each turn. => Flying, trample, lifelink
+Whenever Mundus enters or attacks, destroy another target creature.
+Whenever a creature an opponent controls dies, you may create a token that's a copy of it. Do this only one time each turn.
+pt: 6/6 => 7/7
+
+Black Market Connections
+rules_text: At the beginning of your first main phase, choose one or more —
+• Sell Contraband — Create a Treasure token. You lose 1 life.
+• Buy Information — Draw a card. You lose 2 life.
+• Hire a Mercenary — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. [i](It is every creature type.)[/i] => At the beginning of your first main phase, choose one or more —
+• [i]Pawn a Devil Arm[/i] — Create a Treasure token. You lose 1 life.
+• [i]Pick Up A Lead[/i] — Draw a card. You lose 2 life.
+• [i]Get Some Backup[/i]— Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. [i](The token is every creature type.)[/i]
+
+This Party's Getting Crazy!
+type: Enchantment => Sorcery
+cost: {1}{R}{W} => {3}{R}{W}
+rules_text: Stylish [i](Your Rank starts at D. If it's A or higher, ignore the text in brackets.)[/i]
+Whenever one or more creatures you control attack, each of them gains [your choice of one between] lifelink, menace, and indestructible until end of turn. => Stylish [i](Your rank starts at D.)[/i]
+Untap each creature you control. After this main phase, there is an additional combat phase. If your rank is A or higher, creatures you control have haste, vigilance, and indestructible until end of turn.
+Flashback {6}{R}{W}
+
+
+VERSION 10 CHANGELOG
 ====================
 
 No changes.

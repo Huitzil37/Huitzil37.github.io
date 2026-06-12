@@ -10,28 +10,55 @@
         "card_name": "e"
     },
     {
+        "card_name": "Demon Emperor Mundus",
+        "number": 23,
+        "shape": "normal",
+        "set": "DAN",
+        "position": "104"
+    },
+    {
+        "card_name": "Destroyer of Ardor Phantom",
+        "number": 34,
+        "shape": "normal",
+        "set": "DAN",
+        "position": "71"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Body of the Savior",
+        "number": 3,
+        "shape": "normal",
+        "set": "DAN",
+        "position": "100"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Rottenmouth Viper",
         "number": 27,
         "shape": "normal",
         "set": "DAN",
-        "position": "95"
+        "position": "87"
     },
     {
-        "card_name": "Dante Must Die",
-        "number": 33,
-        "shape": "normal",
+        "card_name": "Fist of Chaos Balrog",
+        "number": 36,
+        "shape": "transform double faced",
         "set": "DAN",
-        "position": "94"
+        "position": "48"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Devil Sword Rebellion",
-        "number": 3,
+        "number": 4,
         "shape": "normal",
         "set": "DAN",
-        "position": "84"
+        "position": "77"
     },
     {
         "card_name": "e"
@@ -41,14 +68,14 @@
         "number": 28,
         "shape": "normal",
         "set": "DAN",
-        "position": "58"
+        "position": "54"
     },
     {
-        "card_name": "Destroyer of Ardor Phantom",
-        "number": 34,
+        "card_name": "Jackpot!",
+        "number": 38,
         "shape": "normal",
         "set": "DAN",
-        "position": "78"
+        "position": "64"
     },
     {
         "card_name": "e"
@@ -58,7 +85,7 @@
         "number": 5,
         "shape": "transform double faced",
         "set": "DAN",
-        "position": "50"
+        "position": "47"
     },
     {
         "card_name": "e"
@@ -68,14 +95,14 @@
         "number": 16,
         "shape": "normal",
         "set": "DAN",
-        "position": "52"
+        "position": "49"
     },
     {
-        "card_name": "Fist of Chaos Balrog",
-        "number": 36,
-        "shape": "transform double faced",
+        "card_name": "Arius's Mad Ambition",
+        "number": 31,
+        "shape": "saga",
         "set": "DAN",
-        "position": "51"
+        "position": "44"
     },
     {
         "card_name": "e"
@@ -85,7 +112,7 @@
         "number": 6,
         "shape": "transform double faced",
         "set": "DAN",
-        "position": "66"
+        "position": "62"
     },
     {
         "card_name": "e"
@@ -95,14 +122,14 @@
         "number": 17,
         "shape": "normal",
         "set": "DAN",
-        "position": "26"
+        "position": "106"
     },
     {
-        "card_name": "Jackpot!",
-        "number": 38,
+        "card_name": "Blitz",
+        "number": 32,
         "shape": "normal",
         "set": "DAN",
-        "position": "69"
+        "position": "53"
     },
     {
         "card_name": "e"
@@ -112,7 +139,7 @@
         "number": 9,
         "shape": "normal",
         "set": "DAN",
-        "position": "68"
+        "position": "63"
     },
     {
         "card_name": "e"
@@ -125,11 +152,11 @@
         "position": "24"
     },
     {
-        "card_name": "Arius's Mad Ambition",
-        "number": 30,
-        "shape": "saga",
+        "card_name": "Breath of Fury",
+        "number": 33,
+        "shape": "normal",
         "set": "DAN",
-        "position": "47"
+        "position": "38"
     },
     {
         "card_name": "e"
@@ -139,7 +166,7 @@
         "number": 10,
         "shape": "normal",
         "set": "DAN",
-        "position": "60"
+        "position": "56"
     },
     {
         "card_name": "e"
@@ -149,14 +176,14 @@
         "number": 21,
         "shape": "normal",
         "set": "DAN",
-        "position": "59"
+        "position": "55"
     },
     {
-        "card_name": "Blitz",
-        "number": 31,
+        "card_name": "Devil Sword Sparda",
+        "number": 35,
         "shape": "normal",
         "set": "DAN",
-        "position": "57"
+        "position": "99"
     },
     {
         "card_name": "e"
@@ -166,7 +193,7 @@
         "number": 7,
         "shape": "saga",
         "set": "DAN",
-        "position": "46"
+        "position": "43"
     },
     {
         "card_name": "e"
@@ -176,14 +203,14 @@
         "number": 22,
         "shape": "normal",
         "set": "DAN",
-        "position": "76"
+        "position": "69"
     },
     {
-        "card_name": "Breath of Fury",
-        "number": 32,
+        "card_name": "Fury Demon",
+        "number": 37,
         "shape": "normal",
         "set": "DAN",
-        "position": "39"
+        "position": "40"
     },
     {
         "card_name": "e"
@@ -193,24 +220,24 @@
         "number": 8,
         "shape": "normal",
         "set": "DAN",
-        "position": "77"
+        "position": "70"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Demon Emperor Mundus",
-        "number": 23,
+        "card_name": "Secretary Demons",
+        "number": 29,
         "shape": "normal",
         "set": "DAN",
-        "position": "67"
+        "position": "57"
     },
     {
-        "card_name": "Devil Sword Sparda",
-        "number": 35,
+        "card_name": "Swordmaster Style",
+        "number": 39,
         "shape": "normal",
         "set": "DAN",
-        "position": "109"
+        "position": "94"
     },
     {
         "card_name": "e"
@@ -226,18 +253,18 @@
         "card_name": "e"
     },
     {
-        "card_name": "Secretary Demons",
-        "number": 29,
+        "card_name": "Blade of Mundus",
+        "number": 18,
         "shape": "normal",
         "set": "DAN",
-        "position": "61"
+        "position": "39"
     },
     {
-        "card_name": "Fury Demon",
-        "number": 37,
+        "card_name": "Table Hopper",
+        "number": 40,
         "shape": "normal",
         "set": "DAN",
-        "position": "41"
+        "position": "42"
     },
     {
         "card_name": "e"
@@ -253,18 +280,18 @@
         "card_name": "e"
     },
     {
-        "card_name": "Blade of Mundus",
-        "number": 18,
+        "card_name": "Blood Harvest Style",
+        "number": 19,
         "shape": "normal",
         "set": "DAN",
-        "position": "40"
+        "position": "93"
     },
     {
-        "card_name": "Swordmaster Style",
-        "number": 39,
-        "shape": "normal",
+        "card_name": "Valakut Awakening",
+        "number": 41,
+        "shape": "transform double faced",
         "set": "DAN",
-        "position": "104"
+        "position": "92"
     },
     {
         "card_name": "e"
@@ -274,34 +301,7 @@
         "number": 13,
         "shape": "normal",
         "set": "DAN",
-        "position": "85"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Blood Harvest Style",
-        "number": 19,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "103"
-    },
-    {
-        "card_name": "Table Hopper",
-        "number": 40,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "45"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "You're Just Dead Weight!",
-        "number": 14,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "82"
+        "position": "78"
     },
     {
         "card_name": "e"
@@ -311,24 +311,20 @@
         "number": 24,
         "shape": "transform double faced",
         "set": "DAN",
-        "position": "101"
-    },
-    {
-        "card_name": "Valakut Awakening",
-        "number": 42,
-        "shape": "transform double faced",
-        "set": "DAN",
-        "position": "102"
+        "position": "91"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Fourth Hell: Sloth Token",
-        "number": 0,
+        "card_name": "e"
+    },
+    {
+        "card_name": "You're Just Dead Weight!",
+        "number": 14,
         "shape": "normal",
         "set": "DAN",
-        "position": "71"
+        "position": "75"
     },
     {
         "card_name": "e"
@@ -341,11 +337,7 @@
         "position": "12"
     },
     {
-        "card_name": "Devil",
-        "number": 0,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "97"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -355,7 +347,7 @@
         "number": 2,
         "shape": "normal",
         "set": "DAN",
-        "position": "96"
+        "position": "88"
     },
     {
         "card_name": "e"
@@ -365,24 +357,16 @@
         "number": 26,
         "shape": "normal",
         "set": "DAN",
-        "position": "49"
-    },
-    {
-        "card_name": "Phantom Baby",
-        "number": 0,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "98"
+        "position": "46"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Fourth Hell: Sloth",
-        "number": 4,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "42"
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -392,14 +376,29 @@
         "number": 15,
         "shape": "normal",
         "set": "DAN",
-        "position": "44"
+        "position": "41"
     },
     {
-        "card_name": "Third Hell: Wrath",
-        "number": 41,
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sixth Hell: Gluttony",
+        "number": 30,
         "shape": "normal",
         "set": "DAN",
-        "position": "43"
+        "position": "102"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -428,7 +427,7 @@
         "number": 58,
         "shape": "normal",
         "set": "DAN",
-        "position": "80"
+        "position": "73"
     },
     {
         "card_name": "e"
@@ -444,10 +443,29 @@
     },
     {
         "card_name": "Kardur, Doomscourge",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "DAN",
-        "position": "75"
+        "position": "68"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rakdos Charm",
+        "number": 51,
+        "shape": "normal",
+        "set": "DAN",
+        "position": "105"
     },
     {
         "card_name": "e"
@@ -472,10 +490,10 @@
     },
     {
         "card_name": "Lucia, Forlorn Protector",
-        "number": 49,
+        "number": 48,
         "shape": "normal",
         "set": "DAN",
-        "position": "65"
+        "position": "61"
     },
     {
         "card_name": "e"
@@ -485,10 +503,10 @@
     },
     {
         "card_name": "Dante, Son of Sparda",
-        "number": 46,
+        "number": 45,
         "shape": "normal",
         "set": "DAN",
-        "position": "105"
+        "position": "95"
     },
     {
         "card_name": "e"
@@ -498,7 +516,7 @@
         "number": 57,
         "shape": "normal",
         "set": "DAN",
-        "position": "83"
+        "position": "76"
     },
     {
         "card_name": "e"
@@ -511,17 +529,17 @@
         "number": 54,
         "shape": "normal",
         "set": "DAN",
-        "position": "62"
+        "position": "58"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Ambitious Scum Sid",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "DAN",
-        "position": "81"
+        "position": "74"
     },
     {
         "card_name": "e"
@@ -531,20 +549,20 @@
     },
     {
         "card_name": "Devil Sword Dante",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "DAN",
-        "position": "48"
+        "position": "45"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Mary, DARKCOM Operative",
-        "number": 51,
+        "number": 50,
         "shape": "normal",
         "set": "DAN",
-        "position": "54"
+        "position": "50"
     },
     {
         "card_name": "e"
@@ -557,7 +575,7 @@
         "number": 55,
         "shape": "normal",
         "set": "DAN",
-        "position": "73"
+        "position": "108"
     },
     {
         "card_name": "e"
@@ -567,7 +585,7 @@
         "number": 59,
         "shape": "normal",
         "set": "DAN",
-        "position": "63"
+        "position": "59"
     },
     {
         "card_name": "e"
@@ -580,17 +598,17 @@
         "number": 56,
         "shape": "normal",
         "set": "DAN",
-        "position": "55"
+        "position": "51"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Rite of Oblivion",
-        "number": 52,
+        "card_name": "The Demon's Legacy",
+        "number": 61,
         "shape": "normal",
         "set": "DAN",
-        "position": "13"
+        "position": "103"
     },
     {
         "card_name": "e"
@@ -609,7 +627,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Rite of Oblivion",
+        "number": 52,
+        "shape": "normal",
+        "set": "DAN",
+        "position": "13"
     },
     {
         "card_name": "e"
@@ -619,10 +641,10 @@
     },
     {
         "card_name": "Agni and Rudra",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "DAN",
-        "position": "64"
+        "position": "60"
     },
     {
         "card_name": "e"
@@ -638,7 +660,7 @@
     },
     {
         "card_name": "Legion Leadership",
-        "number": 61,
+        "number": 62,
         "shape": "transform double faced",
         "set": "DAN",
         "position": "14"
@@ -657,10 +679,10 @@
     },
     {
         "card_name": "Master Warcraft",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "DAN",
-        "position": "38"
+        "position": "37"
     },
     {
         "card_name": "e"
@@ -685,21 +707,21 @@
         "number": 53,
         "shape": "normal",
         "set": "DAN",
-        "position": "28"
+        "position": "27"
     },
     {
         "card_name": "All-Out Assault",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "DAN",
-        "position": "79"
+        "position": "72"
     },
     {
         "card_name": "Mardu Siegebreaker",
-        "number": 50,
+        "number": 49,
         "shape": "normal",
         "set": "DAN",
-        "position": "56"
+        "position": "52"
     },
     {
         "card_name": "e"
@@ -722,21 +744,14 @@
     "a->colorless",
     {
         "card_name": "Burnished Hart",
-        "number": 64,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "27"
-    },
-    {
-        "card_name": "Gold Orb",
         "number": 65,
         "shape": "normal",
         "set": "DAN",
-        "position": "53"
+        "position": "26"
     },
     {
         "card_name": "Arcane Signet",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "DAN",
         "position": "17"
@@ -760,45 +775,21 @@
         "number": 0,
         "shape": "normal",
         "set": "DAN",
-        "position": "70"
-    },
-    {
-        "card_name": "Treasure",
-        "number": 0,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "72"
-    },
-    {
-        "card_name": "Shapeshifter",
-        "number": 0,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "99"
-    },
-    {
-        "card_name": "Copy",
-        "number": 0,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "100"
+        "position": "65"
     },
     {
         "card_name": "Stylish Rank",
         "number": 0,
         "shape": "normal",
         "set": "DAN",
-        "position": "106"
+        "position": "96"
     },
     {
         "card_name": "Stylish Ranks",
         "number": 0,
         "shape": "normal",
         "set": "DAN",
-        "position": "107"
-    },
-    {
-        "card_name": "e"
+        "position": "97"
     },
     {
         "card_name": "e"
@@ -827,7 +818,7 @@
         "number": 74,
         "shape": "normal",
         "set": "DAN",
-        "position": "74"
+        "position": "67"
     },
     {
         "card_name": "e"
@@ -837,14 +828,14 @@
         "number": 83,
         "shape": "normal",
         "set": "DAN",
-        "position": "91"
+        "position": "84"
     },
     {
         "card_name": "Vie de Marli",
         "number": 91,
         "shape": "normal",
         "set": "DAN",
-        "position": "93"
+        "position": "86"
     },
     {
         "card_name": "e"
@@ -854,7 +845,7 @@
         "number": 78,
         "shape": "normal",
         "set": "DAN",
-        "position": "89"
+        "position": "82"
     },
     {
         "card_name": "e"
@@ -883,7 +874,7 @@
         "number": 82,
         "shape": "normal",
         "set": "DAN",
-        "position": "90"
+        "position": "83"
     },
     {
         "card_name": "e"
@@ -917,7 +908,7 @@
         "number": 68,
         "shape": "normal",
         "set": "DAN",
-        "position": "86"
+        "position": "79"
     },
     {
         "card_name": "e"
@@ -1034,7 +1025,7 @@
         "number": 76,
         "shape": "normal",
         "set": "DAN",
-        "position": "88"
+        "position": "81"
     },
     {
         "card_name": "e"
@@ -1044,7 +1035,7 @@
         "number": 89,
         "shape": "normal",
         "set": "DAN",
-        "position": "92"
+        "position": "85"
     },
     {
         "card_name": "e"
@@ -1151,7 +1142,7 @@
         "number": 73,
         "shape": "normal",
         "set": "DAN",
-        "position": "87"
+        "position": "80"
     },
     {
         "card_name": "Command Tower",
@@ -1190,49 +1181,56 @@
     },
     {
         "card_name": "Plains",
-        "number": 93,
+        "number": 92,
         "shape": "normal",
         "set": "DAN",
-        "position": "29"
+        "position": "28"
     },
     {
         "card_name": "Swamp",
         "number": 95,
         "shape": "normal",
         "set": "DAN",
-        "position": "30"
+        "position": "29"
     },
     {
         "card_name": "Mountain",
         "number": 100,
         "shape": "normal",
         "set": "DAN",
-        "position": "31"
-    },
-    {
-        "card_name": "Plains",
-        "number": 92,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "32"
+        "position": "30"
     },
     {
         "card_name": "Plains",
         "number": 94,
         "shape": "normal",
         "set": "DAN",
-        "position": "33"
+        "position": "31"
+    },
+    {
+        "card_name": "Plains",
+        "number": 93,
+        "shape": "normal",
+        "set": "DAN",
+        "position": "32"
     },
     {
         "card_name": "Swamp",
         "number": 96,
         "shape": "normal",
         "set": "DAN",
-        "position": "34"
+        "position": "33"
     },
     {
         "card_name": "Swamp",
         "number": 97,
+        "shape": "normal",
+        "set": "DAN",
+        "position": "34"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 99,
         "shape": "normal",
         "set": "DAN",
         "position": "35"
@@ -1243,13 +1241,6 @@
         "shape": "normal",
         "set": "DAN",
         "position": "36"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 99,
-        "shape": "normal",
-        "set": "DAN",
-        "position": "37"
     },
     {
         "card_name": "e"
@@ -1268,11 +1259,46 @@
     },
     "a->token",
     {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "DAN",
+        "position": "90"
+    },
+    {
         "card_name": "Launched",
         "number": 1,
         "shape": "token",
         "set": "DAN",
-        "position": "108"
+        "position": "98"
+    },
+    {
+        "card_name": "Mysterious Devil Hunter",
+        "number": 2,
+        "shape": "token",
+        "set": "DAN",
+        "position": "107"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 5,
+        "shape": "token",
+        "set": "DAN",
+        "position": "66"
+    },
+    {
+        "card_name": "Sixth Hell: Gluttony Token",
+        "number": 3,
+        "shape": "token",
+        "set": "DAN",
+        "position": "101"
+    },
+    {
+        "card_name": "Phantom Baby",
+        "number": 4,
+        "shape": "token",
+        "set": "DAN",
+        "position": "89"
     },
     {
         "card_name": "e"

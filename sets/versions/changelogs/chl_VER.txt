@@ -1,4 +1,164 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Demon Emperor's Edict added.
+Warren Soultrader added.
+Mundus's Spawn added.
+
+Keep Watch removed.
+Qliphoth Roots removed.
+Zameck Guildmage removed.
+Sixth Hell: Gluttony Token removed.
+
+Proto Angelo
+
+Scudo Angelo
+
+Barbed Chaos
+
+My Flesh Fails Me
+
+Sinister Devil Trigger
+
+The Legendary Knight Returns
+
+Judgment Cut
+
+Unworthy Opponent
+
+Devil Sword Yamato
+
+Vergil, Alpha and Omega
+
+Tycoon of Limbo Mundus
+
+Familiar: Griffon
+
+Familiar: Shadow
+
+Nightmare: Omega
+
+Dante's Office
+
+Decaying Gardens
+
+Mallet Castle
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Temen-ni-Gru Apex
+
+Evil Waterways
+
+Hell Judecca
+
+Face Your Nightmares
+
+Power Of The Yamato
+
+Vile Succubus
+
+World of V
+
+Trismagia
+
+Is Sanity The Price To Pay...
+
+Malformed Witch Malphas
+
+Empusa Queen
+
+Green Empusas
+
+Parasitic Fiend Nidhogg
+
+Empusa
+rules_text: Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Worker Drone — [/i]When this creature dies, create a tapped Blood token. => Squad {B} [i](As an additional cost to cast this spell, you may pay {B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Worker Drone — [/i]When this creature dies, create a tapped Blood token.
+
+Heroic Intervention
+
+I Need More Power
+
+Wonder
+
+Orangguerra
+
+Urizen
+
+The Qliphoth Awakens
+
+Undercity Informer
+
+Summon Sword
+
+Empusa Token
+
+Plant Tentacle
+
+Scudo Angelo Token
+
+Blood
+
+Treasure
+
+Mind Grind
+
+Sparda's Challenger Baul
+
+Dreamrunner
+
+Reanimate
+
+Tribute to the World Tree
+
+War Room
+
+Ohran Frostfang
+
+Aftermath Analyst
+
+Lumra, Bellow of the Woods
+
+Insect
+
+Sink into Stupor
+
+Fell the Profane
+
+Quicksilver Style
+cost: {1}{U} => {1}{U}{U}
+
+Dark Slayer Style
+
+Summoner Style
+
+V, The Mysterious One
+type: VE Legendary Creature — Human Warlock => Legendary Creature — Human Warlock
+
+Stylish Rank
+
+Stylish Ranks
+
+Expel From Memory
+
+Enduring Curiosity
+
+Blood-Goyle
+cost: {3}{B} => {2}{U}
+rules_text: Flying
+When this creature enters, if you cast it, create two 1/1 token copies of it.
+{1}, {T}, discard a card, sacrifice this creature: Draw a card. => Flying
+[i]Awakening Tower[/i] — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token.
+[i]Overflow — [/i]This creature and[i] [/i]other[i] [/i]Bloods you control have “{1}, {T}, sacrifice this artifact: Target player mills three cards.”
+{1}, {T}, discard a card, sacrifice this creature: Draw a card.
+pt: 2/2 => 2/3
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Blood-Goyle added.

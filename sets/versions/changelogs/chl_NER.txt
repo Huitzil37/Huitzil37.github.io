@@ -1,4 +1,103 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Gunslinger Style added.
+Jester's Mockery added.
+EX Calibur added.
+Soul-Guide Lantern added.
+SDT Doppelganger added.
+
+An Offer You Can't Refuse removed.
+Cold-Eyed Selkie removed.
+Weapons Manufacturing removed.
+Munitions removed.
+Pongify removed.
+
+Plant
+
+Devilish Laboratory
+rules_text: When this artifact enters, move a counter from any number of target creatures onto this artifact.
+When this artifact is put into a graveyard from the battlefield, draw a card for each counter on it, then put all of those counters on target creature. => When this artifact enters, move a counter from any number of target creatures onto this artifact. and exile up to five cards from graveyards.
+When this artifact is put into a graveyard from the battlefield, draw a card for each counter on it, then put all of those counters on target creature.
+
+Blue Rose
+cost: {R} => {2}{R}
+
+Rawhide
+
+Generous Patron
+
+Second Hell: Envy
+
+I'M NOT LETTING YOU DIE!
+
+Golem
+
+Chamber of Mystery
+
+Dante's Office
+
+Mitis Rainforest
+
+Red Grave Ruin
+
+Nico, Artisan of Arms
+
+Monstrous Mother Echidna
+
+Order Alchemist Agnus
+
+Settle the Argument
+
+True Power
+
+Second Hell: Envy Token
+
+Steel Impact Gilgamesh
+
+Ghost Rage
+
+Isolated Phone
+
+Infestant
+
+Nero, Upstart Hunter
+
+Decimate
+
+Pasta Breaker
+
+Infested Chopper
+
+Devil Sword Alastor
+
+Slagstone Refinery
+
+Chaos Warp
+
+Phyrexian Germ
+
+Ferrum Hills
+
+Stylish Rank
+
+Stylish Ranks
+
+Buster Arm
+
+Nico's Workshop
+type: NE Legendary Artifact — Vehicle => Legendary Artifact — Vehicle
+
+Damned Bishop
+
+Exceed Style
+type: ST Legendary Sorcery — Style => Legendary Sorcery — Style
+
+Engineer Style
+type: ST Legendary Instant — Style => Legendary Instant — Style
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Damned Bishop added.
