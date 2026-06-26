@@ -1,4 +1,488 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Citizen
+
+I Want Yours, Too
+
+Illuminated Corruption Artemis
+
+Frost Toad Bael
+
+Incandescent Colossus Goliath
+
+Frost Demon
+
+Fury Demon
+
+Sin Scissors
+
+Blade of Mundus
+
+Blitz
+
+Let's Light This Candle
+
+You Have Failed Me
+
+Kalina Ann
+
+Demon Emperor's Edict
+
+Hell Judecca
+
+Proto Angelo
+
+Round Trip
+
+Kat, Urban Witch
+
+Fraternal Ferocity
+
+Nelo Angelo
+
+Damned Knight
+
+Damned Queen
+
+I'M NOT LETTING YOU DIE!
+
+Isolated Phone
+
+Judgment Cut
+
+Red Orb Crystal
+
+Steel Impact Gilgamesh
+
+Helter Skelter
+
+Lesser Fallen
+
+Devilish Laboratory
+
+Overture
+
+Sweet Surrender
+
+Agonofinis
+
+Settle the Argument
+
+Jump Cancel
+
+Devil Bringer
+
+Vergil, Alpha and Omega
+
+Dante, Son of Sparda
+
+Nico, Artisan of Arms
+
+V, The Mysterious One
+
+Nero, Upstart Hunter
+
+Kyrie, Voice of Hope
+
+Trish, Fiendish Femme Fatale
+
+Brontomancer
+
+Devil Sword Dante
+
+Credo, Holy Knight
+
+Sinister Devil Trigger
+
+True Power
+
+Angelo Credo
+
+Wings of the Guardian
+
+Vice President Baines
+
+Double Up
+
+Get More Orbs
+
+Charge Shot
+
+Stand And Fight Together
+
+My Flesh Fails Me
+
+Season of Loss
+
+The Savior
+
+Yamato Reconstruction
+
+Is Sanity The Price To Pay...
+
+Infestant
+
+Red Queen
+
+Blue Rose
+
+Nefasturris
+
+Table Hopper
+
+Infested Chopper
+
+Order of the Sword HQ
+
+Heaped Harvest
+
+Fortuna Castle
+
+Ferrum Hills
+
+Evil Waterways
+
+Field of Brotherhood
+
+Heroic Intervention
+
+Patty Lowell
+
+Dante, Unwitting Scion
+
+Demon Emperor Mundus
+
+Demonic Traitor Arkham
+
+Urizen
+
+Beryl, Beastheads Hunter
+
+Phineas, Underworld Prophet
+
+Mary, DARKCOM Operative
+
+Gloria, Mysterious Benefactor
+
+Freki and Geri
+
+Green Empusas
+
+Vile Succubus
+
+Mockery of Sparda
+
+Puia
+
+Puia Token
+
+Vergil, Liberator of Makai
+
+Kyrie, Voice of Hope
+
+Royal Fork
+
+White Rabbit, Revolutionary
+
+Neo-Generator
+
+Ambitious Scum Sid
+
+Face Your Nightmares
+
+Sparda's Challenger Baul
+
+Furiataurus
+
+Chained Behemoth
+
+Ghost Rage
+
+Barbed Chaos
+
+Orangguerra
+
+Shatter the Rebellion
+
+Body of the Savior
+
+Petal Ray
+
+Unworthy Opponent
+
+You Listen, Dead Weight.
+
+Dreamrunner
+
+Scudo Angelo
+
+Charisma
+
+Damned Rook
+
+Hound Master Bolverk
+
+Powerstone
+
+Power Of The Yamato
+
+Devil's Dalliance Lilith
+
+Dante's Office
+
+Rancor
+
+DMC Ride Armor
+
+Tomboy
+
+Manipulator of Malice Jester
+
+Soprano Angelo
+
+Colosseum Sacrifice Griffon
+
+V, The Mysterious One
+
+Would-Be King Arius
+
+Nightmare: Omega
+
+Lucia, Forlorn Protector
+
+Agni and Rudra
+
+Order Alchemist Agnus
+
+Nico, Artisan of Arms
+
+Nero, Upstart Hunter
+
+Monstrous Mother Echidna
+
+Trish, Fiendish Femme Fatale
+
+Dante, Hot-Headed
+
+Vergil, Alpha and Omega
+
+Tycoon of Limbo Mundus
+
+Vergil, Cold-Hearted
+
+You Might Never Return
+
+Wake Up To Justice
+
+Dark Realm Command
+
+Righteous Rampage
+
+Credo, Holy Knight
+
+Mundus's Spawn
+
+Sefirot Puppeteer Hosanna
+
+World of V
+
+Parasitic Fiend Nidhogg
+
+The Qliphoth Awakens
+
+Empusa Queen
+
+Malformed Witch Malphas
+
+I Need More Power
+
+Expel From Memory
+
+Plant Tentacle
+
+Bring Friends
+
+Devil Sword Sparda
+
+Divinity Statue
+
+Lady, Walking Arsenal
+
+The Demon's Legacy
+
+Buster Arm
+
+Pasta Breaker
+
+Devil Sword Alastor
+
+Quicksilver Style
+
+Engineer Style
+
+Trickster Style
+
+Royalguard Style
+
+Dark Slayer Style
+
+Blood Harvest Style
+
+Gunslinger Style
+
+Swordmaster Style
+
+Exceed Style
+
+Summoner Style
+
+Dante, Son of Sparda
+
+Launched
+
+Devil Sword Rebellion
+
+You're Just Dead Weight!
+
+Destroyer of Ardor Phantom
+
+Lady, Walking Arsenal
+
+Faust
+
+Nightmare: Alpha
+
+Red Hot Night
+
+Cavaliere Angelo
+
+Claim the Arcana
+
+Plotted
+
+Suspended
+
+Force Edge
+
+The Despair Embodied
+
+Lightning Witch Nevan
+
+Hysteric Twins
+
+Arms Workbench
+
+Grenade Storm
+
+Explosion Shot
+
+Jester's Mockery
+
+Plutonian
+
+Red Empusa
+
+The Savior Has Come
+
+Black Market Connections
+
+Mysterious Devil Hunter
+
+Fifth Hell: Greed
+
+EX Calibur
+
+Raptor News Network
+
+Blood-Goyle
+
+Morrison, The Broker
+
+Damned King
+
+The Dark Knight Sparda
+
+SDT Doppelganger
+
+Nell Goldstein, .45 Virtuoso
+
+Sealed Atrocity Abigail
+
+Tateobesu
+
+Damned Pawn
+
+Missile
+
+Phantom Baby
+
+Chimera Seed
+
+Protector of Innocence
+
+Duet in SSS-Major
+
+Sower of Chaos Jester
+
+Dispose of the Defect
+
+Dante Must Die
+
+Nero, Devoted Protector
+
+Dante, Illicit Handyman
+
+Virtuous
+
+Lady, Victorious Engineer
+
+Summoned Swords
+
+Damned Bishop
+
+Argosax the Chaos
+
+Empusa
+
+Holy Fist Beowulf
+
+Ice Guardian Cerberus
+
+Puppeteer of the Temen-ni-Gru
+
+Welcome to Hell!
+
+Fist of Chaos Balrog
+
+Flame Conqueror Berial
+
+Liberating Slash
+
+Chaos's Warm Welcome
+
+This Party's Getting Crazy!
+
+Copy
+
+Arcane Signet
+
+Command Tower
+
+Seventh Hell: Lust
+
+Little Guy
+
+Stylish Ranks
+
+Stylish Rank
+
+The Monarch
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

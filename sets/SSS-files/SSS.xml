@@ -841,23 +841,9 @@ This land enters tapped unless your rank is a A or higher.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>The Monarch</name>
-			<text>​</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/47.png" num="0">SSS</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Citizen SSS</name>
 			<text>(This creature is probably enchanted by a copy of the Aura it partially overlaps.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/48.png" num="15">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/47.png" num="15">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -874,7 +860,7 @@ This land enters tapped unless your rank is a A or higher.</text>
 		<card>
 			<name>I Want Yours, Too</name>
 			<text>{1}: Exile up to two target cards from graveyards. If either was put there this turn, you may play it, and mana of any type may be spent to cast it.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/49.png" num="68">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/48.png" num="68">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -894,7 +880,7 @@ Captive Core — When Artemis enters, exile target creature or artifact you don&
 Devil Arm — When Artemis dies, exile it. While it&apos;s exiled, you may cast its other face.
 ---
 (Back): Devil Arm: Artemis</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/50_front.png" num="10a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/49_front.png" num="10a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -916,7 +902,7 @@ Acid Rain — When equipped creature deals combat damage to a player, destroy up
 Equip {2}
 ---
 (Front): Illuminated Corruption Artemis</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/50_back.png" num="10b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/49_back.png" num="10b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -936,7 +922,7 @@ Creatures can&apos;t be assigned to attack you unless their controller pays {1} 
 Devil Arm — When this creature dies, exile it. While it&apos;s exiled, you may cast its other face.
 ---
 (Back): PF594: Argument</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/51_front.png" num="34a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/50_front.png" num="34a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -959,7 +945,7 @@ At the beginning of your combat, if Argument is a creature, create a number of c
 Crew 3
 ---
 (Front): Frost Toad Bael</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/51_back.png" num="34b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/50_back.png" num="34b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -978,7 +964,7 @@ Crew 3
 			<text>Trample
 Melt Slag — Whenever a nontoken artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Goliath.
 Devouring Vortex — Whenever Goliath deals combat damage to a player, you may destroy target artifact or enchantment that player controls.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/52.png" num="122">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/51.png" num="122">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -995,7 +981,7 @@ Devouring Vortex — Whenever Goliath deals combat damage to a player, you may d
 		<card>
 			<name>Frost Demon</name>
 			<text>Crystallize — If you would put one or more counters on one or more other nonsnow creatures you control, you may put one of each of those kinds of counters on this creature as well.</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/53.png" num="33">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/52.png" num="33">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1013,7 +999,7 @@ Devouring Vortex — Whenever Goliath deals combat damage to a player, you may d
 			<name>Fury Demon</name>
 			<text>Flash, haste
 This creature has hexproof and first strike if it entered this turn.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/54.png" num="98">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/53.png" num="98">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1031,7 +1017,7 @@ This creature has hexproof and first strike if it entered this turn.</text>
 			<name>Sin Scissors</name>
 			<text>Flying
 This creature enters with two shield counters.</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/55.png" num="50">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/54.png" num="50">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1048,7 +1034,7 @@ This creature enters with two shield counters.</text>
 		<card>
 			<name>Blade of Mundus</name>
 			<text>Whenever this creature enters or attacks, you may sacrifice another permanent. If you do, put a +1/+1 counter on this creature and draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/56.png" num="55">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/55.png" num="55">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1066,7 +1052,7 @@ This creature enters with two shield counters.</text>
 			<name>Blitz</name>
 			<text>Blitz {3}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card&quot;. Sacrifice it at the beginning of the next end step.)
 When this creature leaves the battlefield, it deals 2 damage equal to its power to any target.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/57.png" num="83">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/56.png" num="83">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1084,7 +1070,7 @@ When this creature leaves the battlefield, it deals 2 damage equal to its power 
 			<name>Let&apos;s Light This Candle</name>
 			<text>Discard your hand, add {R}{R} for each card discarded this way, then draw two cards. Exile this card.
 Plot {4}{U}{U} (You may pay {4}{U}{U} and exile this card from your hand. Freecast it as a sorcery on a later turn. Plot only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/58.png" num="106">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/57.png" num="106">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1101,7 +1087,7 @@ Plot {4}{U}{U} (You may pay {4}{U}{U} and exile this card from your hand. Freeca
 			<name>You Have Failed Me</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Exile the top X cards of your library, where X is twice the sacrificed creature&apos;s power. You may play those cards this turn. If you cast a spell this way, pay life equal to its mana value rather than paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/59.png" num="81">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/58.png" num="81">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1118,7 +1104,7 @@ Exile the top X cards of your library, where X is twice the sacrificed creature&
 			<name>Kalina Ann</name>
 			<text>Multiple — Whenever you cast a noncreature spell, equipped creature deals 2 damage to any target and you create a colorless 3/1 Missile artifact creature token with haste and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Equip {2}</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/60.png" num="105">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/59.png" num="105">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1138,7 +1124,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 • Each opponent sacrifices a nontoken creature.
 • Each opponent sacrifices a creature token.
 • Each opponent sacrifices an enchantment.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/61.png" num="61">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/60.png" num="61">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1155,7 +1141,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 			<name>Hell Judecca</name>
 			<text>Menace
 Underworld Gate — Whenever this creature deals combat damage to a player, return target creature card with mana value less than that damage from a graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/62.png" num="67">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/61.png" num="67">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1173,7 +1159,7 @@ Underworld Gate — Whenever this creature deals combat damage to a player, retu
 			<name>Proto Angelo</name>
 			<text>Whenever a creature you control deals combat damage to a player, that player mills a card.
 Whenever this creature attacks, creatures you control that are attacking a player with seven or more cards in their graveyard get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/63.png" num="44">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/62.png" num="44">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1191,7 +1177,7 @@ Whenever this creature attacks, creatures you control that are attacking a playe
 			<name>Round Trip</name>
 			<text>Destroy target creature an opponent controls. That player loses 3 life. Exile Round Trip suspended with three time counters on it.
 Suspend 3—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may freecast it.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/64.png" num="11">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/63.png" num="11">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1208,7 +1194,7 @@ Suspend 3—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B
 			<name>Kat, Urban Witch</name>
 			<text>Each artifact, enchantment, Demon, and Devil card in your hand has cycling {2}. ({2}, discard that card: Draw a card.)
 {3}, Sacrifice an artifact, enchantment, Demon, or Devil: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/65.png" num="124">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/64.png" num="124">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1226,7 +1212,7 @@ Suspend 3—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B
 			<name>Fraternal Ferocity</name>
 			<text>This spell costs {3} less to cast if it targets a creature you control.
 Two target creatures owned by different players fight. (Each deals damage equal to its power to the other.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/66.png" num="96">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/65.png" num="96">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1242,7 +1228,7 @@ Two target creatures owned by different players fight. (Each deals damage equal 
 		<card>
 			<name>Nelo Angelo</name>
 			<text>Duelist — Whenever a creature you control attacks a player, if no other creature is attacking that player, put a +1/+1 counter on it and it can&apos;t be blocked by nonlegendary creatures until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/67.png" num="73">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/66.png" num="73">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1259,7 +1245,7 @@ Two target creatures owned by different players fight. (Each deals damage equal 
 		<card>
 			<name>Damned Knight</name>
 			<text>While this creature is attacking, creatures you control with even mana values can&apos;t be blocked by creatures with even mana values, and creatures you control with odd mana values can&apos;t be blocked by creatures with odd mana values.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/68.png" num="25">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/67.png" num="25">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1277,7 +1263,7 @@ Two target creatures owned by different players fight. (Each deals damage equal 
 			<name>Damned Queen</name>
 			<text>Menace, lifelink
 Queen&apos;s Gambit—Whenever a nontoken, nonland permanent you control is put into a graveyard from the battlefield, each opponent sacrifices a permanent that shares a type with it. For each opponent who can&apos;t, Damned Queen deals 3 damage to that player.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/69.png" num="58">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/68.png" num="58">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1294,7 +1280,7 @@ Queen&apos;s Gambit—Whenever a nontoken, nonland permanent you control is put 
 		<card>
 			<name>I&apos;M NOT LETTING YOU DIE!</name>
 			<text>Until end of turn, players can&apos;t sacrifice permanents and creatures can&apos;t die or be exiled.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/70.png" num="121">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/69.png" num="121">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1311,7 +1297,7 @@ Queen&apos;s Gambit—Whenever a nontoken, nonland permanent you control is put 
 			<name>Isolated Phone</name>
 			<text>When this artifact enters, mill three cards. When you do, return up to one target artifact or creature card from your graveyard to your hand.
 Whenever one or more artifact or creature cards leave your graveyard, put a +1/+1 counter on up to that many creatures.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/71.png" num="123">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/70.png" num="123">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1329,7 +1315,7 @@ Whenever one or more artifact or creature cards leave your graveyard, put a +1/+
 			<text>Target creature gets -2/-2 until end of turn.
 Judgment Cut End — Overload {2}{B}{B} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)
 Replicate {B} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies, if it had targets.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/72.png" num="69">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/71.png" num="69">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1346,7 +1332,7 @@ Replicate {B} (When you cast this spell, copy it for each time you paid its repl
 			<name>Red Orb Crystal</name>
 			<text>Defender
 When this creature enters or leaves the battlefield, create a tapped Treasure token.</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/73.png" num="135">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/72.png" num="135">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1364,7 +1350,7 @@ When this creature enters or leaves the battlefield, create a tapped Treasure to
 			<name>Steel Impact Gilgamesh</name>
 			<text>Trample, vigilance, reach
 This spell costs {X} less to cast, where X is the greatest power among creatures you control.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/74.png" num="140">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/73.png" num="140">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1383,7 +1369,7 @@ This spell costs {X} less to cast, where X is the greatest power among creatures
 			<text>Drill Rig — Equipped creature gets +2/+2 and has trample and menace.
 Drill Master — Whenever equipped creature deals combat damage to a player, you may pay {1} and sacrifice this Equipment. When you do, destroy any number of target artifacts and/or enchantments with total mana value less than or equal to the damage dealt.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/75.png" num="119">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/74.png" num="119">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1400,7 +1386,7 @@ Equip {2}</text>
 			<name>Lesser Fallen</name>
 			<text>Flying, lifelink
 {W}: Launch this creature. (Exile it. While it&apos;s exiled, its owner may cast it by paying {2} instead of its mana cost.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/76.png" num="12">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/75.png" num="12">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1418,7 +1404,7 @@ Equip {2}</text>
 			<name>Devilish Laboratory</name>
 			<text>When this artifact enters, move a counter from any number of target creatures onto this artifact and exile up to five cards from graveyards..
 When this artifact is put into a graveyard from the battlefield, draw a card for each counter on it, then put all of those counters on target creature.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/77.png" num="180">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/76.png" num="180">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1436,7 +1422,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card for
 			<text>Equipped creature gets +2/+2 and has trample.
 Exploder — {1}, Sacrifice this artifact: Choose target player. Overture deals damage to that player equal to the amount of damage equipped creature dealt to them this turn. 
 Equip {2}</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/78.png" num="108">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/77.png" num="108">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1454,7 +1440,7 @@ Equip {2}</text>
 			<text>Equipped creature gets +1/+1 and has lifelink.
 Sweet Release — {2}, Sacrifice this artifact: Put a number of +1/+1 counters onto equipped creature and another target creature equal to the amount of life you gained this turn.
 Equip {W}</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/79.png" num="19">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/78.png" num="19">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1471,7 +1457,7 @@ Equip {W}</text>
 			<name>Agonofinis</name>
 			<text>Lifelink
 {2}{B}, Sacrifice a creature: Return this card from your graveyard to the battlefield. Put X +1/+1 counters on it, where X is the sacrificed creature&apos;s mana value.</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/80.png" num="53">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/79.png" num="53">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1489,7 +1475,7 @@ Equip {W}</text>
 			<name>Settle the Argument</name>
 			<text>Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Counter target spell [unless its controller pays {2}]. If a spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/81.png" num="49">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/80.png" num="49">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1505,7 +1491,7 @@ Counter target spell [unless its controller pays {2}]. If a spell is countered t
 		<card>
 			<name>Jump Cancel</name>
 			<text>Counter target artifact, enchantment, or sorcery spell. Its controller gains 4 ranks.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/82.png" num="40">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/81.png" num="40">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1523,7 +1509,7 @@ Counter target spell [unless its controller pays {2}]. If a spell is countered t
 			<text>Enchant creature
 When this Aura enters, draw a card.
 Absorb Power — Whenever this or another enchantment enters the battlefield under your control, put a +1/+1 counter on enchanted creature.</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/83.png" num="114">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/82.png" num="114">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1541,7 +1527,7 @@ Absorb Power — Whenever this or another enchantment enters the battlefield und
 			<text>Haste, stylish
 Blistering Swords — Whenever you attack, [if Vergil is attacking,] each player mills a card. For each land card in target defending player&apos;s graveyard, create a tapped and attacking 1/1 blue Illusion creature token. Exile it at the end of combat. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/84.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/83.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1563,7 +1549,7 @@ Taunt — Goad target creature.
 Stinger — Dante gets +1/+0 and gains first strike this turn.
 High Time — Launch target nonlegendary creature.
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/85.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/84.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1582,7 +1568,7 @@ Partner—Devil Hunter</text>
 			<text>Haste, stylish
 &quot;Behold my genius!&quot; — {T}, sacrifice an artifact: Return another target artifact card [with equal or lesser mana value] from your graveyard to your hand. Put a +1/+1 counter on a number of creatures up to the difference in their mana values.
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/86.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/85.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1602,7 +1588,7 @@ Partner—Devil Hunter</text>
 The Book — {T}: Mill three cards. 
 Promotion — {T}: If your rank is A or higher, cast a creature card from your graveyard as though it had delve. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/87.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/86.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1621,7 +1607,7 @@ Partner—Devil Hunter</text>
 			<text>Haste, reach, stylish
 Devil Breaker - Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw a card and sacrifice that permanent.
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/88.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/87.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1640,7 +1626,7 @@ Partner—Devil Hunter</text>
 			<text>Stylish
 Hymn to Sparda — Whenever a non-Citizen creature you control becomes the only target of a spell or ability, you may pay {GW}. If you do, create a 1/1 green and white Citizen creature token. When you do, copy that spell or ability. The copy targets that token. [You may do this only once each turn.]
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/89.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/88.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1659,7 +1645,7 @@ Partner—Devil Hunter</text>
 			<text>Haste, stylish
 Electrical Dance — {1}{BR}. {Q}, pay 3 life: Choose three targets. If your rank is A or higher, you may choose up to two additional targets. Trish deals X damage divided evenly between them, rounded down, where X is equal to the highest amount of life lost by a player this turn. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/90.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/89.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1677,7 +1663,7 @@ Partner—Devil Hunter</text>
 			<name>Brontomancer</name>
 			<text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.
 If you casting a noncreature spell causes a triggered ability of a permanent you control to trigger, and you didn&apos;t cast it from your hand, that ability triggers an additional time.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/91.png" num="85">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/90.png" num="85">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1695,7 +1681,7 @@ If you casting a noncreature spell causes a triggered ability of a permanent you
 			<name>Devil Sword Dante</name>
 			<text>Swords Formation — Equipped creature has double strike, menace, and &quot;Whenever this creature deals combat damage to a player, put a +1/+1 counter on each creature you control.&quot;
 Equip {4}. This ability costs {3} less to activate if the creature it targets was dealt damage this turn.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/92.png" num="177">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/91.png" num="177">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1713,7 +1699,7 @@ Equip {4}. This ability costs {3} less to activate if the creature it targets wa
 			<text>Ward {2}, vigilance, stylish
 Guard Captain — Whenever you attack, put a shield counter on target creature. If your rank is A or higher, untap it and put a +1/+1 and a vigilance counter on it as well. At the beginning of the next end step, remove a shield counter from that creature. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/93.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/92.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1733,7 +1719,7 @@ Partner—Devil Hunter</text>
 Enchant blue or black creature you control
 Hell on Earth — When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. Each opponent sacrifices a creature.
 Deep Stinger — Enchanted creature gets +2/+2 and has flying and first strike.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/94.png" num="149">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/93.png" num="149">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1752,7 +1738,7 @@ Deep Stinger — Enchanted creature gets +2/+2 and has flying and first strike.<
 Enchant red or green creature you control
 &quot;This ends. Right here.&quot; — When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. It deals damage equal to its power to up to two target creatures. If either one would die this turn, return it to its owner&apos;s hand instead.
 &quot;Do you have a problem with that?&quot; — Enchanted creature gets +2/+2 and has trample and haste.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/95.png" num="159">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/94.png" num="159">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1771,7 +1757,7 @@ Enchant red or green creature you control
 Enchant white or blue creature you control
 Aegis Shield — When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. Prevent all damage that would be dealt to you or permanents you control this turn. 
 Swipe of Sword — Enchanted creature gets +2/+2 and has flying and vigilance.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/96.png" num="144">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/95.png" num="144">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1790,7 +1776,7 @@ Swipe of Sword — Enchanted creature gets +2/+2 and has flying and vigilance.</
 Enchant white or black creature you control
 Chrono Heart — When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. Launch up to one other target nonland permanent. (Exile it. While it&apos;s exiled, its owner may cast it by paying {2} instead of its mana cost.)
 Enchanted creature gets +2/+2 and has flying and lifelink.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/97.png" num="167">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/96.png" num="167">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1808,7 +1794,7 @@ Enchanted creature gets +2/+2 and has flying and lifelink.</text>
 			<text>Flying
 Elite Forces — Whenever another creature you control enters, Baines gets +1/+0 until end of turn.
 Born-Again — Whenever Baines attacks, exile up to one target creature you own, then return it to the battlefield under your control tapped and attacking.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/98.png" num="33">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/97.png" num="33">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1826,7 +1812,7 @@ Born-Again — Whenever Baines attacks, exile up to one target creature you own,
 			<name>Double Up</name>
 			<text>Until end of turn, whenever you cast an instant or sorcery spell, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may freecast it as a sorcery on a later turn.)
 Exile Double Up.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/99.png" num="30">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/98.png" num="30">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1842,7 +1828,7 @@ Exile Double Up.</text>
 		<card>
 			<name>Get More Orbs</name>
 			<text>Whenever you cast a spell from anywhere other than your hand, create a tapped Treasure token.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/100.png" num="100">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/99.png" num="100">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1858,7 +1844,7 @@ Exile Double Up.</text>
 		<card>
 			<name>Charge Shot</name>
 			<text>Each instant and sorcery card in your hand has suspend X. Its suspend cost is equal to its mana cost reduced by {X}. X can&apos;t be 0. Cards suspended this way get &quot;When you remove the last time counter from this card and don&apos;t cast it, it becomes plotted.&quot; (Pay the suspend cost, then exile it suspended with X time counters. Remove a counter at the beginning of your upkeep. When the last is removed, you may freecast it then, or on a later turn as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/101.png" num="23">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/100.png" num="23">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1875,7 +1861,7 @@ Exile Double Up.</text>
 			<name>Stand And Fight Together</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 Put X +1/+1 counters on target creature, then put a +1/+1 counter on each creature that convoked this spell. (If this spell is copied, the same creatures convoked the copy.)</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/102.png" num="139">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/101.png" num="139">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1891,7 +1877,7 @@ Put X +1/+1 counters on target creature, then put a +1/+1 counter on each creatu
 		<card>
 			<name>My Flesh Fails Me</name>
 			<text>Cumulative upkeep—Mill a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/103.png" num="125">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/102.png" num="125">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1910,7 +1896,7 @@ Put X +1/+1 counters on target creature, then put a +1/+1 counter on each creatu
 ★ — Each player sacrifices a creature of their choice.
 ★★ — Draw a card for each creature that died under your control this turn.
 ★★★ — Each opponent loses X life, where X is the number of creature cards in your graveyard.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/104.png" num="13">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/103.png" num="13">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1928,7 +1914,7 @@ Put X +1/+1 counters on target creature, then put a +1/+1 counter on each creatu
 			<text>Flying, vigilance, lifelink
 Whenever The Savior enters or attacks, you may exile target nonland card in your graveyard with mana value four or less. If you do, copy it, and you may freecast the copy. (A copy of a permanent spell becomes a token.)
 Creature tokens you control have vigilance and lifelink.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/105.png" num="17">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/104.png" num="17">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1945,7 +1931,7 @@ Creature tokens you control have vigilance and lifelink.</text>
 		<card>
 			<name>Yamato Reconstruction</name>
 			<text>Whenever another artifact leaves the battlefield, you may have Yamato Reconstruction become a copy of that artifact, except it has this ability, its name is still Yamato Reconstruction, and it&apos;s still legendary.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/106.png" num="190">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/105.png" num="190">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1959,7 +1945,7 @@ Creature tokens you control have vigilance and lifelink.</text>
 		<card>
 			<name>Is Sanity The Price To Pay...</name>
 			<text>Target opponent mills five cards. Draw cards equal to the number of land cards in that player&apos;s graveyard.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/107.png" num="38">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/106.png" num="38">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1976,7 +1962,7 @@ Creature tokens you control have vigilance and lifelink.</text>
 			<name>Infestant</name>
 			<text>When this creature enters, gain control of target artifact. For as long as you control this creature, you control that artifact, it&apos;s an artifact creature, and it has a base power and toughness equal to its mana value if it didn&apos;t already have one.
 Whenever this creature attacks, you may attach any number of target Equipment to it.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/108.png" num="104">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/107.png" num="104">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1995,7 +1981,7 @@ Whenever this creature attacks, you may attach any number of target Equipment to
 			<text>Equipped creature has trample.
 EX Streak — Whenever equipped creature deals combat damage to an opponent, put that many +1/+1 counters on it and it deals that much damage to each other opponent.
 Equip {3}</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/109.png" num="158">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/108.png" num="158">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2013,7 +1999,7 @@ Equip {3}</text>
 			<text>Equipped creature has reach and first strike. As long as another Aura or Equipment is attached to it, it has double strike.
 Color Up — {R}: Equipped creature gets +1/+0 until end of turn. 
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/110.png" num="84">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/109.png" num="84">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2032,7 +2018,7 @@ Equip {2}</text>
 Reach, vigilance
 {T}: Add {B}.
 Sacrifice another permanent: Put a +1/+1 counter on this land. It becomes a black Demon Construct creature that&apos;s still a land until end of turn. Activate only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/111.png" num="203">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/110.png" num="203">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2049,7 +2035,7 @@ Sacrifice another permanent: Put a +1/+1 counter on this land. It becomes a blac
 			<name>Table Hopper</name>
 			<text>Overcommit — Whenever a creature deals damage to you, goad it until the end of its controller&apos;s next turn.
 Reposition — Sacrifice this enchantment during the declare blockers step: Choose an attacking creature. For any number of creatures the defending player controls, that creature either blocks it or stops blocking it. (The new blocks don&apos;t have to be legal. If you remove all blockers from a blocked creature, it&apos;s still &quot;blocked.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/112.png" num="111">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/111.png" num="111">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2065,7 +2051,7 @@ Reposition — Sacrifice this enchantment during the declare blockers step: Choo
 		<card>
 			<name>Infested Chopper</name>
 			<text>Flying, lifelink, persist (When this permanent is put into a graveyard from the battlefield, if it had no -1/-1 counters on it, return it to the battlefield under its owner&apos;s control with a -1/-1 counter on it.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/113.png" num="187">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/112.png" num="187">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2082,7 +2068,7 @@ Reposition — Sacrifice this enchantment during the declare blockers step: Choo
 			<text>This land enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 {T}: Add {C}.
 {T}: Move a shield counter from this land onto target creature. Activate only if two or more creatures entered the battlefield under your control this turn.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/114.png" num="42">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/113.png" num="42">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2097,7 +2083,7 @@ Reposition — Sacrifice this enchantment during the declare blockers step: Choo
 			<name>Heaped Harvest</name>
 			<text>When this artifact enters and when you sacrifice it, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/115.png" num="20">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/114.png" num="20">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2114,7 +2100,7 @@ Reposition — Sacrifice this enchantment during the declare blockers step: Choo
 			<name>Fortuna Castle</name>
 			<text>({T}: Add {W} or {U})
 This land enters tapped unless your rank is a A or higher.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/116.png" num="199">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/115.png" num="199">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2130,7 +2116,7 @@ This land enters tapped unless your rank is a A or higher.</text>
 			<name>Ferrum Hills</name>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped unless your rank is a A or higher.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/117.png" num="197">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/116.png" num="197">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2146,7 +2132,7 @@ This land enters tapped unless your rank is a A or higher.</text>
 			<name>Evil Waterways</name>
 			<text>({T}: Add {U} or {B}.)
 This land enters tapped unless your rank is a A or higher.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/118.png" num="196">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/117.png" num="196">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2162,7 +2148,7 @@ This land enters tapped unless your rank is a A or higher.</text>
 			<name>Field of Brotherhood</name>
 			<text>({T}: Add {G} or {W}.)
 This land enters tapped unless your rank is a A or higher.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/119.png" num="198">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/118.png" num="198">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2177,7 +2163,7 @@ This land enters tapped unless your rank is a A or higher.</text>
 		<card>
 			<name>Heroic Intervention</name>
 			<text>Permanents you control gain hexproof and indestructible until end of turn.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/120.png" num="21">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/119.png" num="21">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2195,7 +2181,7 @@ This land enters tapped unless your rank is a A or higher.</text>
 			<text>Commanders you control have ward {2}.
 {T}: Add {W}{W}. Spend this mana only to cast Aura and/or Equipment spells.
 {T}: Attach target Aura or Equipment you control to target creature you control. Activate only as a sorcery.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/121.png" num="2">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/120.png" num="2">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2214,7 +2200,7 @@ This land enters tapped unless your rank is a A or higher.</text>
 			<text>Vigilance, trample
 Other modified creatures you control have vigilance and trample. (Equipment, Auras you control, and counters are modifications.)
 Quantum Amulet — When Dante enters, return target Aura or Equipment card from your graveyard to your hand.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/122.png" num="28">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/121.png" num="28">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2233,7 +2219,7 @@ Quantum Amulet — When Dante enters, return target Aura or Equipment card from 
 			<text>Flying, trample, lifelink
 Whenever Mundus enters or attacks, destroy another target creature.
 Whenever a creature an opponent controls dies, you may create a token that&apos;s a copy of it. Do this only one time each turn.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/123.png" num="60">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/122.png" num="60">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2252,7 +2238,7 @@ Whenever a creature an opponent controls dies, you may create a token that&apos;
 			<text>Ward {2}
 Instant and sorcery cards in your graveyard have flashback. Their flashback cost is equal to their mana cost minus {1}.
 Whenever Arkham enters or attacks, target opponent reveals three cards at random from their hand. You may freecast a spell revealed this way.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/124.png" num="27">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/123.png" num="27">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2272,7 +2258,7 @@ Whenever Arkham enters or attacks, target opponent reveals three cards at random
 Bloody Roots — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token. 
 Whenever Urizen enters or attacks, mill five cards. You may put any number of land cards and up to one creature card milled this way onto the battlefield.
 Whenever you sacrifice a Blood, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/125.png" num="142">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/124.png" num="142">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2290,7 +2276,7 @@ Whenever you sacrifice a Blood, put a +1/+1 counter on each creature you control
 			<name>Beryl, Beastheads Hunter</name>
 			<text>Deathtouch
 AT Rifle — Whenever Beryl deals combat damage to a player, you may sacrifice another nonland permanent. If you do, draw two cards and each opponent loses life equal to the mana value of the sacrificed permanent.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/126.png" num="7">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/125.png" num="7">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2307,7 +2293,7 @@ AT Rifle — Whenever Beryl deals combat damage to a player, you may sacrifice a
 		<card>
 			<name>Phineas, Underworld Prophet</name>
 			<text>Whenever a player attacks with three or more creatures, draw a card.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/127.png" num="15">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/126.png" num="15">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2325,7 +2311,7 @@ AT Rifle — Whenever Beryl deals combat damage to a player, you may sacrifice a
 			<name>Mary, DARKCOM Operative</name>
 			<text>Vengeful Hatred — Whenever Mary attacks, each opponent loses X life, where X is the number of other attacking creatures.
 Prioritize the Mission — {2}, Sacrifice another creature: You gain 2 life and draw a card.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/128.png" num="30">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/127.png" num="30">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2342,7 +2328,7 @@ Prioritize the Mission — {2}, Sacrifice another creature: You gain 2 life and 
 		<card>
 			<name>Gloria, Mysterious Benefactor</name>
 			<text>When Gloria enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the unrevealed cards on the bottom of your library in a random order and create a tapped Powerstone token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/129.png" num="36">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/128.png" num="36">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2359,7 +2345,7 @@ Prioritize the Mission — {2}, Sacrifice another creature: You gain 2 life and 
 		<card>
 			<name>Freki and Geri</name>
 			<text>Twin Hounds — Whenever a player casts a spell that targets only Freki and Geri, you may copy that spell. (It has the same target. Copies of Aura spells enter as tokens.)</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/130.png" num="117">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/129.png" num="117">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2378,7 +2364,7 @@ Prioritize the Mission — {2}, Sacrifice another creature: You gain 2 life and 
 			<text>Flying
 Bloody Roots — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 Bloods you control have &quot;{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/131.png" num="118">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/130.png" num="118">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2397,7 +2383,7 @@ Bloods you control have &quot;{1}, {T}, Sacrifice this artifact: Put a +1/+1 cou
 			<text>Vigilance, trample, defender
 Soporific Slime — Whenever a permanent you control enters, each player mills a card.
 Process Runoff — {1}{G}: Shuffle three target cards from target player&apos;s graveyard into their library. Put a +1/+1 counter on this creature and it loses defender until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/132.png" num="143">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/131.png" num="143">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2414,7 +2400,7 @@ Process Runoff — {1}{G}: Shuffle three target cards from target player&apos;s 
 		<card>
 			<name>Mockery of Sparda SSS</name>
 			<text></text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/133.png" num="6">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/132.png" num="6">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2433,7 +2419,7 @@ Process Runoff — {1}{G}: Shuffle three target cards from target player&apos;s 
 			<text>Flash
 Squad {U} (As an additional cost to cast this spell, you may pay {U} any number of times. When this creature enters, create that many tokens that are copies of it.)
 Flying</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/134.png" num="45">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/133.png" num="45">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2451,7 +2437,7 @@ Flying</text>
 			<name>Puia Token SSS</name>
 			<text>Flying
 (This token&apos;s cost is {U}.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/135.png" num="7">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/134.png" num="7">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2466,38 +2452,10 @@ Flying</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Stylish Rank</name>
-			<text>​</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/136.png" num="0">SSS</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Stylish Ranks</name>
-			<text>​</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/137.png" num="0">SSS</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Vergil, Liberator of Makai</name>
 			<text>At the beginning of combat on your turn, you may move a counter from target creature you control onto a second target creature you control.
 Whenever one or more creatures you control with counters on them deal combat damage to a player, you may draw a card and proliferate. Do this only once each turn. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/138.png" num="34">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/135.png" num="34">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2516,7 +2474,7 @@ Whenever one or more creatures you control with counters on them deal combat dam
 			<text>Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Hymn to Sparda — Whenever a non-Citizen creature you control becomes the only target of a spell or ability, you may pay {GW}. If you do, create a 1/1 green and white Citizen creature token. When you do, copy that spell or ability. The copy targets that token. [You may do this only once each turn.]
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/139.png" num="163">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/136.png" num="163">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2534,7 +2492,7 @@ Partner—Devil Hunter</text>
 			<name>Royal Fork</name>
 			<text>Destroy any number of target creatures that were dealt damage this turn. 
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/140.png" num="77">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/137.png" num="77">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2551,7 +2509,7 @@ Draw a card.</text>
 			<name>White Rabbit, Revolutionary</name>
 			<text>Demons you control have menace, lifelink, and haste.
 Cross Over — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that&apos;s a copy of that card, except it&apos;s a 5/5 black Demon.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/141.png" num="15">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/138.png" num="15">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2569,7 +2527,7 @@ Cross Over — At the beginning of combat on your turn, exile up to one target c
 			<name>Neo-Generator</name>
 			<text>{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell. (Abilities aren&apos;t spells.)
 When this artifact is put into a graveyard from the battlefield, lose 1 life and create a tapped Powerstone token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/142.png" num="188">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/139.png" num="188">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2585,7 +2543,7 @@ When this artifact is put into a graveyard from the battlefield, lose 1 life and
 			<text>Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Whenever a creature you control leaves the battlefield, you may return it to the battlefield under target opponent&apos;s control. Goad it for the rest of the game. 
 Whenever a goaded creature deals combat damage to an opponent, draw a card and put a +1/+1 counter on Sid. [This ability triggers only once each turn.]</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/143.png" num="165">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/140.png" num="165">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2602,7 +2560,7 @@ Whenever a goaded creature deals combat damage to an opponent, draw a card and p
 		<card>
 			<name>Face Your Nightmares</name>
 			<text>Target player mills ten cards. Then, exile any number of cards from that player&apos;s graveyard. For each creature card exiled this way, create a token that&apos;s a copy of it, except it&apos;s a 1/1 Illusion.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/144.png" num="32">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/141.png" num="32">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2619,7 +2577,7 @@ Whenever a goaded creature deals combat damage to an opponent, draw a card and p
 			<name>Sparda&apos;s Challenger Baul</name>
 			<text>Menace
 When Baul enters, mill three cards. Then put X +1/+1 counters on him, where X is twice the number of creature cards in your graveyard.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/145.png" num="14">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/142.png" num="14">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2636,7 +2594,7 @@ When Baul enters, mill three cards. Then put X +1/+1 counters on him, where X is
 		<card>
 			<name>Furiataurus</name>
 			<text>As long as this creature has a counter on it, it gets +1/+1. As long as it&apos;s equipped, it gets +2/+2 and has trample. As long as it&apos;s enchanted, it gets +2/+2 and has menace.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/146.png" num="97">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/143.png" num="97">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2655,7 +2613,7 @@ When Baul enters, mill three cards. Then put X +1/+1 counters on him, where X is
 			<text>Trample
 This creature enters with a shield counter on it.
 Whenever a shield counter is removed from a creature you control, it deals damage equal to its power to another target creature.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/147.png" num="112">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/144.png" num="112">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2672,7 +2630,7 @@ Whenever a shield counter is removed from a creature you control, it deals damag
 		<card>
 			<name>Ghost Rage</name>
 			<text>At the beginning of combat, choose a color. This creature gains protection from the chosen color until end of turn. (It can&apos;t be blocked, targeted, damaged, enchanted, or equipped by anything of that color.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/148.png" num="35">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/145.png" num="35">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2690,7 +2648,7 @@ Whenever a shield counter is removed from a creature you control, it deals damag
 			<name>Barbed Chaos</name>
 			<text>Menace
 Grind Wheel — Whenever this creature attacks, it gets +1/+1 until end of turn and defending player mills a card. If it was a nonland card, repeat this process (until they mill a land).</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/149.png" num="54">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/146.png" num="54">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2708,7 +2666,7 @@ Grind Wheel — Whenever this creature attacks, it gets +1/+1 until end of turn 
 			<name>Orangguerra</name>
 			<text>Reach
 Other creatures you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/150.png" num="127">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/147.png" num="127">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2729,7 +2687,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 • Destroy target artifact.
 • Destroy target enchantment.
 • Exile up to five target cards from graveyards.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/151.png" num="137">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/148.png" num="137">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2749,7 +2707,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 • Destroy target enchantment.
 • Destroy target creature with toughness 4 or greater.
 • Launch target nonland permanent. (Exile it. While it&apos;s exiled, its owner may cast it by paying {2} instead of its mana cost.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/152.png" num="4">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/149.png" num="4">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2766,7 +2724,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 			<name>Petal Ray</name>
 			<text>As an additional cost to cast this spell, pay {X} or sacrifice an attached Equipment.
 For each of up to X targets, choose a different number from 1 to X. Petal Ray deals that much damage to that permanent or player.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/153.png" num="109">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/150.png" num="109">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2784,7 +2742,7 @@ For each of up to X targets, choose a different number from 1 to X. Petal Ray de
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 If this spell was kicked, creatures target opponent controls get -X/-0 until end of turn, where X is the number of land cards in that player&apos;s graveyard.
 Return all creatures with power 1 or less to their owner&apos;s hands.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/154.png" num="52">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/151.png" num="52">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2800,7 +2758,7 @@ Return all creatures with power 1 or less to their owner&apos;s hands.</text>
 		<card>
 			<name>You Listen, Dead Weight.</name>
 			<text>Return each nonland permanent that&apos;s not historic to its owner&apos;s hand. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/155.png" num="6">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/152.png" num="6">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2818,7 +2776,7 @@ Return all creatures with power 1 or less to their owner&apos;s hands.</text>
 			<text>First strike
 Escape—{B}. (You may cast this card from your graveyard for its escape cost.)
 If this creature would be put into a graveyard from the battlefield, instead shuffle it into its owner&apos;s library, then mill three cards.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/156.png" num="62">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/153.png" num="62">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2836,7 +2794,7 @@ If this creature would be put into a graveyard from the battlefield, instead shu
 			<name>Scudo Angelo</name>
 			<text>Vigilance
 Whenever this creature enters or attacks, mill two cards. If they didn&apos;t share a card type, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/157.png" num="136">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/154.png" num="136">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2853,7 +2811,7 @@ Whenever this creature enters or attacks, mill two cards. If they didn&apos;t sh
 		<card>
 			<name>Charisma</name>
 			<text>Whenever enchanted creature deals damage to a creature, gain control of the other creature for as long as this Aura remains on the battlefield.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/158.png" num="3">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/155.png" num="3">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2869,7 +2827,7 @@ Whenever this creature enters or attacks, mill two cards. If they didn&apos;t sh
 		<card>
 			<name>Damned Rook</name>
 			<text>Castle — {G}: Change a target of target spell or ability to this creature.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/159.png" num="113">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/156.png" num="113">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2886,7 +2844,7 @@ Whenever this creature enters or attacks, mill two cards. If they didn&apos;t sh
 		<card>
 			<name>Hound Master Bolverk</name>
 			<text>Whenever a creature you control becomes the only target of a spell, put a +1/+1 counter on it. If an opponent controlled that spell, you may draw a card.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/160.png" num="120">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/157.png" num="120">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2903,7 +2861,7 @@ Whenever this creature enters or attacks, mill two cards. If they didn&apos;t sh
 		<card>
 			<name>Powerstone SSS</name>
 			<text>{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell. (Abilities aren&apos;t spells.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/161.png" num="19">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/158.png" num="19">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2918,7 +2876,7 @@ Whenever this creature enters or attacks, mill two cards. If they didn&apos;t sh
 		<card>
 			<name>Power Of The Yamato</name>
 			<text>Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/162.png" num="10">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/159.png" num="10">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2935,7 +2893,7 @@ Whenever this creature enters or attacks, mill two cards. If they didn&apos;t sh
 			<name>Devil&apos;s Dalliance Lilith</name>
 			<text>Ward {1}
 Creatures can&apos;t be assigned to attack you or to block creatures you control unless their controller pays {1} for each of those creatures.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/163.png" num="28">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/160.png" num="28">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2954,7 +2912,7 @@ Creatures can&apos;t be assigned to attack you or to block creatures you control
 			<text>{T}: Add {C}.
 {2}, {T}: Gain a rank.
 {3}, {T}: If your rank is A or higher, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/164.png" num="193">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/161.png" num="193">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2970,7 +2928,7 @@ Creatures can&apos;t be assigned to attack you or to block creatures you control
 			<text>Enchant creature
 Enchanted creature gets +2/+0 and has trample.
 When Rancor is put into a graveyard from the battlefield, return it to its owner&apos;s hand.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/165.png" num="24">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/162.png" num="24">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2989,7 +2947,7 @@ When Rancor is put into a graveyard from the battlefield, return it to its owner
 Indestructible
 Equipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and &quot;Whenever this creature deals combat damage to a creature, exile that creature.&quot;
 Equip {7}</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/166.png" num="37">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/163.png" num="37">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3005,7 +2963,7 @@ Equip {7}</text>
 			<text>One Night Stand — Equipped creature has base power and toughness 9/9 and has trample, menace, first strike, and ward {2}.
 Rendezvous — {2}, Sacrifice this Equipment: Draw cards equal to equipped creature&apos;s power (without this Equipment), then destroy target permanent.
 Equip {5}</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/167.png" num="189">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/164.png" num="189">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3020,7 +2978,7 @@ Equip {5}</text>
 			<name>Manipulator of Malice Jester</name>
 			<text>Jester enters with three shield counters.
 Whenever a shield counter is removed from a creature you control, tap and goad target creature, then Jester connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/168.png" num="42">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/165.png" num="42">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3040,7 +2998,7 @@ Whenever a shield counter is removed from a creature you control, tap and goad t
 When this Aura enters, draw a card.
 {0}: Untap enchanted creature. Activate only during your turn and only once each turn.
 Tap enchanted creature: Untap target artifact, creature, or land. Activate only if enchanted creature is multicolored and only once each turn.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/169.png" num="138">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/166.png" num="138">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3057,7 +3015,7 @@ Tap enchanted creature: Untap target artifact, creature, or land. Activate only 
 			<name>Colosseum Sacrifice Griffon</name>
 			<text>Flying
 Flock Off — Whenever a creature you control deals combat damage to a player, you may sacrifice it. If you do, draw that many cards.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/170.png" num="57">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/167.png" num="57">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3077,7 +3035,7 @@ Flock Off — Whenever a creature you control deals combat damage to a player, y
 The Book — {T}: Mill three cards. 
 Promotion—{T}: If your rank is A or higher, cast a creature card from your graveyard as though it had delve. (Each other card you exile from your graveyard while casting it pays for {1}.)
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/171.png" num="173">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/168.png" num="173">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3095,7 +3053,7 @@ Partner—Devil Hunter</text>
 			<name>Would-Be King Arius</name>
 			<text>When Arius enters, you become the monarch.
 The Four Arcana — Whenever you attack, if you&apos;re the monarch, you may put a Demon or Devil creature card from your hand onto the battlefield tapped and attacking. At the beginning of the next end step, sacrifice it.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/172.png" num="155">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/169.png" num="155">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3115,7 +3073,7 @@ The Four Arcana — Whenever you attack, if you&apos;re the monarch, you may put
 Haste, trample, stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 At the beginning of your end step, sacrifice Nightmare.
 Illegal Move—You may [not] cast Nightmare from exile.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/173.png" num="172">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/170.png" num="172">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3134,7 +3092,7 @@ Illegal Move—You may [not] cast Nightmare from exile.</text>
 			<text>Lifelink, stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Deeper Than Blood — Whenever another creature you control dies during your turn, [if you sacrificed it,] you may pay 3 life. If you do, return it from the graveyard to the battlefield with a finality counter on it.
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/174.png" num="166">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/171.png" num="166">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3154,7 +3112,7 @@ Partner—Devil Hunter</text>
 Equipped creature gets +3/+3 and has trample.
 Whenever this creature or equipped creature deals combat damage to a player for the first time each turn, if your rank is A or higher, untap it and give it double strike until end of turn. There&apos;s an additional combat phase after this phase. 
 Reconfigure {R}{W} ({R}{W}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/175.png" num="175">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/172.png" num="175">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3173,7 +3131,7 @@ Reconfigure {R}{W} ({R}{W}: Attach to target creature you control; or unattach f
 			<text>Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Arsenal Demons — At the beginning of combat on your turn, put X +1/+1 counters on up to one target noncreature artifact, where X is Agnus&apos;s power. It becomes a 0/0 Demon creature in addition to its other types (permanently).
 Science Will Never Die — Whenever an artifact creature you control dies, if its power was greater than its base power, draw a card. [This ability triggers only once each turn.]</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/176.png" num="182">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/173.png" num="182">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3192,7 +3150,7 @@ Science Will Never Die — Whenever an artifact creature you control dies, if it
 			<text>Haste, stylish
 &quot;Behold my genius!&quot; — {T}, sacrifice an artifact: Return another target artifact card [with equal or lesser mana value] from your graveyard to your hand. Put a +1/+1 counter on a number of creatures up to the difference in their mana values.
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/177.png" num="181">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/174.png" num="181">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3211,7 +3169,7 @@ Partner—Devil Hunter</text>
 			<text>Haste, reach, stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Devil Breaker — Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw two cards and sacrifice that permanent.
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/178.png" num="157">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/175.png" num="157">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3232,7 +3190,7 @@ Chimera Assault — Whenever Echidna attacks, create a 1/1 green Demon Plant cre
 Devil Arm — When Echidna dies, exile her. While she&apos;s exiled, you may cast her other face.
 ---
 (Back): Devil Arm: Gilgamesh</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/179_front.png" num="156a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/176_front.png" num="156a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3254,7 +3212,7 @@ Distorted Real Impact — {R}{G}: Equipped creature gets +X/+0 until end of turn
 Equip {1}
 ---
 (Front): Monstrous Mother Echidna</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/179_back.png" num="156b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/176_back.png" num="156b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3273,7 +3231,7 @@ Equip {1}
 			<text>Haste, stylish (Your rank starts at D.) 
 Electrical Dance — {1}{BR}. {Q}, pay 3 life: Choose three targets. If your rank is A or higher, you may choose up to two additional targets. Trish deals X damage divided evenly between them, rounded down, where X is equal to the highest amount of life lost by a player this turn. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/180.png" num="154">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/177.png" num="154">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3292,7 +3250,7 @@ Partner—Devil Hunter</text>
 			<text>Menace, stylish (Your rank starts at D.)
 &quot;Let&apos;s get violent!&quot; — Whenever one or more creatures are dealt noncombat damage by a source you control, if at least one of those creatures doesn&apos;t have lethal damage on it, you may exile the top card of your library. Until the end of your next turn, you may play that card. 
 Kablooey — Whenever Dante attacks, if your rank is A or higher, he deals 2 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/181.png" num="152">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/178.png" num="152">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3311,7 +3269,7 @@ Kablooey — Whenever Dante attacks, if your rank is A or higher, he deals 2 dam
 			<text>Haste, stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Blistering Swords — Whenever you attack, [if Vergil is attacking,] each player mills a card. For each land card in target defending player&apos;s graveyard, create a tapped and attacking 1/1 blue Illusion creature token. Exile it at the end of combat. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/182.png" num="151">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/179.png" num="151">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3330,7 +3288,7 @@ Partner—Devil Hunter</text>
 			<text>Menace, stylish (Your rank starts at D.)
 Indebt — Whenever a land card enters a graveyard from anywhere, create a Treasure token.
 Invest — Whenever a player sacrifices a Treasure, if your rank is A or higher, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/183.png" num="150">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/180.png" num="150">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3349,7 +3307,7 @@ Invest — Whenever a player sacrifices a Treasure, if your rank is A or higher,
 			<text>Stylish
 The Order — Whenever Vergil attacks, he connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)
 Clear to Rule — Whenever you put one or more counters on one or more creatures [with no counters on them], you may pay {1}. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/184.png" num="146">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/181.png" num="146">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3368,7 +3326,7 @@ Clear to Rule — Whenever you put one or more counters on one or more creatures
 			<text>Stylish (Your rank starts at D.)
 Flip a coin. Exile target nonland permanent you control. For each opponent, exile up to one target nonland permanent they control.
 If your rank is A or higher, return the permanent you controlled to the battlefield.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/185.png" num="168">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/182.png" num="168">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3386,7 +3344,7 @@ If your rank is A or higher, return the permanent you controlled to the battlefi
 			<text>Stylish (Your rank starts at D.)
 Kicker {1}{W}{U}
 Target opponent chooses a creature they control that&apos;s attacking you. Gain control of that creature. If this spell was kicked and your rank is A or higher, you choose instead.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/186.png" num="147">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/183.png" num="147">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3404,7 +3362,7 @@ Target opponent chooses a creature they control that&apos;s attacking you. Gain 
 			<text>Dark Realm Command enters tapped unless you control a legendary creature.
 {T}: Add {W}.
 {1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/187.png" num="41">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/184.png" num="41">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3420,7 +3378,7 @@ Target opponent chooses a creature they control that&apos;s attacking you. Gain 
 			<name>Righteous Rampage</name>
 			<text>Enchant creature
 Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever that creature attacks, defending player sacrifices two permanents.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/188.png" num="1">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/185.png" num="1">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3436,7 +3394,7 @@ Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever tha
 			<text>Ward {2}, vigilance, stylish (Your rank starts at D.)
 Guard Captain — Whenever you attack, put a shield counter on target creature. If your rank is A or higher, untap it and put a +1/+1 and a vigilance counter on it as well. At the beginning of the next end step, remove a shield counter from that creature. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/189.png" num="145">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/186.png" num="145">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3455,7 +3413,7 @@ Partner—Devil Hunter</text>
 			<text>Emerge {7}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
 Trample, menace
 Whenever this creature enters or attacks, each opponent sacrifices a creature. For each opponent who can&apos;t, draw a card.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/190.png" num="72">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/187.png" num="72">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3474,7 +3432,7 @@ Whenever this creature enters or attacks, each opponent sacrifices a creature. F
 			<text>Stylish (Your rank starts at D.)
 Whenever you attack, populate. The token enters tapped and attacking. (To populate, create a token that&apos;s a copy of a creature token you control.)
 Whenever you create a copy of a creature token, if it had counters on it and/or Auras attached to it and your rank is A or higher, the copy enters with the same counters and copies of the same Auras.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/191.png" num="164">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/188.png" num="164">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3492,7 +3450,7 @@ Whenever you create a copy of a creature token, if it had counters on it and/or 
 			<name>World of V</name>
 			<text>Stylish (Your rank starts at D.)
 Each player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. If your rank is A or higher, each opponent loses life equal to the number of cards they revealed this way and you gain life equal to the total number of cards (everyone) revealed this way.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/192.png" num="174">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/189.png" num="174">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3509,7 +3467,7 @@ Each player reveals cards from the top of their library until they reveal a land
 			<name>Parasitic Fiend Nidhogg</name>
 			<text>Bloody Roots — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token. 
 &quot;Chaaaarge!&quot; — Bloods you control have &quot;{1}, {T}, Sacrifice this artifact: Create two 1/1 green Plant Tentacle creature tokens with haste and decayed.&quot; (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/193.png" num="129">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/190.png" num="129">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3527,7 +3485,7 @@ Each player reveals cards from the top of their library until they reveal a land
 			<name>The Qliphoth Awakens</name>
 			<text>Bloody Roots — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 While you control five or more Bloods, creatures you control get +3/+3</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/194.png" num="132">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/191.png" num="132">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3544,7 +3502,7 @@ While you control five or more Bloods, creatures you control get +3/+3</text>
 			<name>Empusa Queen</name>
 			<text>Bloody Roots — Whenever a land card is put into a graveyard from anywhere, create a tapped 1/1 green Insect creature token and a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 Frenzied Blood — Bloods you control have &quot;{2}, {T}, sacrifice this token: Creatures you control get +1/+1 until end of turn.&quot;</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/195.png" num="63">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/192.png" num="63">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3562,7 +3520,7 @@ Frenzied Blood — Bloods you control have &quot;{2}, {T}, sacrifice this token:
 			<name>Malformed Witch Malphas</name>
 			<text>Bloody Roots — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 Foul Ritual — Bloods you control have &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/196.png" num="41">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/193.png" num="41">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3580,7 +3538,7 @@ Foul Ritual — Bloods you control have &quot;{2}, {T}, Sacrifice this artifact:
 			<name>I Need More Power</name>
 			<text>Each player mills three cards.
 Put any number of land cards milled this way onto the battlefield under your control.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/197.png" num="171">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/194.png" num="171">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3596,7 +3554,7 @@ Put any number of land cards milled this way onto the battlefield under your con
 		<card>
 			<name>Expel From Memory</name>
 			<text>Destroy all creatures, then any number of target players each mill half their library, rounded down.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/198.png" num="25">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/195.png" num="25">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3612,7 +3570,7 @@ Put any number of land cards milled this way onto the battlefield under your con
 		<card>
 			<name>Plant Tentacle SSS</name>
 			<text>Haste, decayed (This can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/199.png" num="14">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/196.png" num="14">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3632,7 +3590,7 @@ Put any number of land cards milled this way onto the battlefield under your con
 As long as enchanted creature is green, it gets +1/+1 and has trample. 
 As long as enchanted creature is white, it gets +1/+1 and has indestructible. 
 As long as enchanted creature has a base power of 1, whenever it deals combat damage to a player, create that many 1/1 green and white Citizen creature tokens.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/200.png" num="161">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/197.png" num="161">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3650,7 +3608,7 @@ As long as enchanted creature has a base power of 1, whenever it deals combat da
 			<text>Equipped permanent gets +2/+2, isn&apos;t a planeswalker, and is a creature in addition to its other types. (Loyalty abilities can still be activated.)
 Transforming Blade — Whenever equipped creature attacks, attacking creatures you control get +1/+1 and your choice of menace or trample until end of turn. If this is the second time this ability has resolved this turn, they gain double strike until end of turn.
 Equip creature or planeswalker {2}</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/201.png" num="91">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/198.png" num="91">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3667,7 +3625,7 @@ Equip creature or planeswalker {2}</text>
 			<name>Divinity Statue</name>
 			<text>Noncreature, nonland cards in your hand have plot. The plot cost is equal to the mana cost. (You may pay the plot cost and exile it from your hand. Freecast it as a sorcery on a later turn. Plot only as a sorcery.)
 Whenever you cast a noncreature spell from anywhere other than your hand, draw a card.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/202.png" num="29">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/199.png" num="29">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3685,7 +3643,7 @@ Whenever you cast a noncreature spell from anywhere other than your hand, draw a
 			<text>Reach, stylish
 Double Barrels — Whenever you cast a noncreature spell, you may exile a noncreature, nonland card with equal or lesser mana value from your hand. [You may do this only once each turn.] The exiled card becomes plotted. 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/203.png" num="0">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/200.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3702,7 +3660,7 @@ Partner—Devil Hunter</text>
 		<card>
 			<name>The Demon&apos;s Legacy</name>
 			<text>Choose a creature you control. If {W}{W} was spent to cast this spell, destroy each creature with greater power than it. If {B}{B} was spent to cast this spell, destroy each creature with lesser power than it.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/204.png" num="184">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/201.png" num="184">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3720,7 +3678,7 @@ Partner—Devil Hunter</text>
 			<text>Neo Buster — Equipped creature has double strike.
 Super Buster— {2}, Sacrifice this artifact during your combat or main phase: Untap equipped creature. It gains double strike, indestructible, and menace until end of turn. If this was attached to a creature, after this phase, there is an additional combat phase.
 Equip {3}</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/205.png" num="186">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/202.png" num="186">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3736,7 +3694,7 @@ Equip {3}</text>
 			<text>Pasta Jet — Equipped creature has trample and &quot;Whenever this creature deals combat damage to a player, mill that many cards. You may discard a card; if you did, return a card from among them into your hand.&quot;
 Pasta Mix — {1}, Sacrifice this Equipment: Return target Equipment card from your graveyard to your hand.
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/206.png" num="130">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/203.png" num="130">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3754,7 +3712,7 @@ Equip {1}</text>
 			<text>Equipped creature gets +3/+2.
 Whenever equipped creature deals combat damage to a player, draw a card, then you may freecast a spell from your hand with mana value less than or equal to that damage.
 Equip {2}</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/207.png" num="36">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/204.png" num="36">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3771,7 +3729,7 @@ Equip {2}</text>
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 The owner of target nonland permanent chooses to put it [into their hand,] on the top of their library, or on the bottom of their library.
 Partner—Devil Hunter (This can be your second commander if the other is a creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/208.png" num="47">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/205.png" num="47">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3790,7 +3748,7 @@ Partner—Devil Hunter (This can be your second commander if the other is a crea
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Draw three cards. [Then discard two cards.]
 Partner—Devil Hunter (This can be your second commander if the other is a creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/209.png" num="31">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/206.png" num="31">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3809,7 +3767,7 @@ Partner—Devil Hunter (This can be your second commander if the other is a crea
 Stylish
 Launch target nonland permanent [you control]. (Exile it. While it&apos;s exiled, its owner may cast it for {2} instead of its mana cost.)
 Partner—Devil Hunter (This can be your second commander if the other is a creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/210.png" num="20">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/207.png" num="20">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3828,7 +3786,7 @@ Partner—Devil Hunter (This can be your second commander if the other is a crea
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Nonland permanents you control [that are legendary] gain hexproof and indestructible until end of turn.
 Partner—Devil Hunter (This can be your second commander if the other is a creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/211.png" num="16">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/208.png" num="16">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3847,7 +3805,7 @@ Partner—Devil Hunter (This can be your second commander if the other is a crea
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Destroy target [nonlegendary] creature. Its controller loses 3 life and you gain 3 life.
 Partner—Devil Hunter (This can be your second commander if the other is a creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/212.png" num="59">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/209.png" num="59">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3867,7 +3825,7 @@ Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in bra
 [As an additional cost to cast this spell, sacrifice a creature.]
 Draw two cards and create a Treasure token.
 Partner—Devil Hunter (This can be your second commander if the other is a creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/213.png" num="56">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/210.png" num="56">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3886,7 +3844,7 @@ Partner—Devil Hunter (This can be your second commander if the other is a crea
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Choose up to two targets. Gunslinger Style deals 3 damage to the chosen targets [in total, divided however you choose].
 Partner—Devil Hunter (You can have two commanders if the other is a legendary creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/214.png" num="101">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/211.png" num="101">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3905,7 +3863,7 @@ Partner—Devil Hunter (You can have two commanders if the other is a legendary 
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Creatures you control gain [your choice of one of] haste, first strike, and trample until end of turn.
 Partner—Devil Hunter (You can have two commanders if the other is a legendary creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/215.png" num="110">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/212.png" num="110">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3924,7 +3882,7 @@ Partner—Devil Hunter (You can have two commanders if the other is a legendary 
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Search your library for a [basic] Forest, Plains, Island, Swamp, or Mountain card, put it onto the battlefield [tapped], then shuffle.
 Partner—Devil Hunter (You can have two commanders if the other is a legendary creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/216.png" num="115">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/213.png" num="115">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3943,7 +3901,7 @@ Partner—Devil Hunter (You can have two commanders if the other is a legendary 
 Stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Return up to two target permanent cards [that don&apos;t share a card type] from your graveyard to your hand.
 Partner—Devil Hunter (You can have two commanders if the other is a legendary creature with this ability.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/217.png" num="141">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/214.png" num="141">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3964,7 +3922,7 @@ Taunt — Goad target creature.
 Stinger— Dante gets +1/+0 and gains first strike this turn.
 High Time — Launch target nonlegendary creature. (Exile it. While it&apos;s exiled, its owner may cast it by paying {2} instead of its mana cost.)
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/218.png" num="176">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/215.png" num="176">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3981,7 +3939,7 @@ Partner—Devil Hunter</text>
 		<card>
 			<name>Launched SSS</name>
 			<text>​</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/219.png" num="1">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/216.png" num="1">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3998,7 +3956,7 @@ Partner—Devil Hunter</text>
 			<text>Equipped creature gets +2/+2 and has vigilance.
 Round Trip — Detach this Equipment from equipped creature while it&apos;s attacking: Launch target nonland, nontoken permanent. (Exile it. While it&apos;s exiled, its owner may cast it by paying {2} instead of its mana cost.)
 Equip {2}</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/220.png" num="7">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/217.png" num="7">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4014,7 +3972,7 @@ Equip {2}</text>
 		<card>
 			<name>You&apos;re Just Dead Weight!</name>
 			<text>Launch X target nonland permanents you control and X target nonland permanents you don&apos;t control. (Exile them. While they&apos;re exiled, their owners may cast them by paying {2} instead of their mana costs.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/221.png" num="21">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/218.png" num="21">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4031,7 +3989,7 @@ Equip {2}</text>
 			<name>Destroyer of Ardor Phantom</name>
 			<text>Reach
 Phantom Baby — When Phantom leaves the battlefield, you may have yourself and target opponent create a number of 1/1 red Demon Spider creature tokens equal to his toughness. Goad them for the rest of the game.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/222.png" num="90">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/219.png" num="90">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4050,7 +4008,7 @@ Phantom Baby — When Phantom leaves the battlefield, you may have yourself and 
 			<text>Reach, stylish (Your rank starts at D. If it&apos;s A or higher, ignore the text in brackets.)
 Double Barrels — Whenever you cast a noncreature spell, you may exile a noncreature, nonland card with equal or lesser mana value from your hand. [You may do this only once each turn.] The exiled card becomes plotted. (You may freecast it as a sorcery on a later turn.) 
 Partner—Devil Hunter</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/223.png" num="169">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/220.png" num="169">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4071,7 +4029,7 @@ Pierce — {B}: This creature gets +1/+1 until end of turn.
 Devil Arm — When this creature dies, exile it. As long as it&apos;s exiled, you may cast its other face.
 ---
 (Back): Devil Arm: Dr. FAUST</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/224_front.png" num="65a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/221_front.png" num="65a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4093,7 +4051,7 @@ Set Hat — Whenever equipped creature deals damage, create a tapped Treasure to
 Equip {2}
 ---
 (Front): Faust</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/224_back.png" num="65b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/221_back.png" num="65b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4112,7 +4070,7 @@ Equip {2}
 Devil Arm — When Nightmare dies, exile it. While it&apos;s exiled, you may cast its other face.
 ---
 (Back): Nightmare: Beta</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/225_front.png" num="74a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/222_front.png" num="74a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4133,7 +4091,7 @@ Devil Arm — When Nightmare dies, exile it. While it&apos;s exiled, you may cas
 Equip {2}
 ---
 (Front): Nightmare: Alpha</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/225_back.png" num="74b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/222_back.png" num="74b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4151,7 +4109,7 @@ Equip {2}
 			<name>Red Hot Night</name>
 			<text>This spell costs {1} less to cast for each creature on the battlefield.
 Red Hot Night deals 13 damage to each creature.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/226.png" num="19">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/223.png" num="19">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4170,7 +4128,7 @@ Red Hot Night deals 13 damage to each creature.</text>
 Devil Arm — When this creature dies, exile it. While it&apos;s exiled, you may cast its other face.
 ---
 (Back): Devil Arm: Cavaliere-R</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/227_front.png" num="86a">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/224_front.png" num="86a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4193,7 +4151,7 @@ Equip {1}
 Crew 1
 ---
 (Front): Cavaliere Angelo</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/227_back.png" num="86b">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/224_back.png" num="86b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4211,7 +4169,7 @@ Crew 1
 		<card>
 			<name>Claim the Arcana</name>
 			<text>Each opponent faces a villainous choice—You choose a nonland permanent they control and gain control of it, or you look at their hand, choose a nonland card, and freecast it.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/228.png" num="24">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/225.png" num="24">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4227,7 +4185,7 @@ Crew 1
 		<card>
 			<name>Plotted SSS</name>
 			<text>​</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/229.png" num="2">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/226.png" num="3">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4242,7 +4200,7 @@ Crew 1
 		<card>
 			<name>Suspended SSS</name>
 			<text>​</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/230.png" num="3">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/227.png" num="6">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4259,7 +4217,7 @@ Crew 1
 			<text>Equipped creature has double strike.
 Whenever equipped creature attacks, if it&apos;s the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.
 Equip {3}</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/231.png" num="38">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/228.png" num="38">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4276,7 +4234,7 @@ Equip {3}</text>
 Damage can&apos;t be prevented.
 If a source you control would deal damage, it deals two times that much damage instead. 
 Whenever this creature enters or attacks, it deals 1 damage to each opponent and each creature they control.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/232.png" num="89">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/229.png" num="89">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4297,7 +4255,7 @@ Get Ready, Sugar! — Whenever Nevan attacks, scry 1. If your rank is A or highe
 Devil Arm — When Nevan dies, exile her. While she&apos;s exiled, you may cast her other face.
 ---
 (Back): Devil Arm: Nevan</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/233_front.png" num="170a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/230_front.png" num="170a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4318,7 +4276,7 @@ Devil Arm — When Nevan dies, exile her. While she&apos;s exiled, you may cast 
 Equip {2}
 ---
 (Front): Lightning Witch Nevan</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/233_back.png" num="170b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/230_back.png" num="170b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4335,7 +4293,7 @@ Equip {2}
 			<name>Hysteric Twins</name>
 			<text>Create two colorless 3/1 Missile artifact creature tokens with haste, trample, and decayed. (They can&apos;t block. When they attack, sacrifice them at end of combat.)
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/234.png" num="103">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/231.png" num="103">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4352,7 +4310,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 			<name>Arms Workbench</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Create a colorless 3/1 Missile artifact creature token with haste, trample, and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/235.png" num="185">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/232.png" num="185">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4367,7 +4325,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 			<name>Grenade Storm</name>
 			<text>Grenade Storm deals 2 damage to each opponent and each creature they control. If this spell was cast from exile, it deals 5 damage to each opponent and each creature they control instead.
 Foretell {4}{R}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/236.png" num="18">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/233.png" num="18">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4384,7 +4342,7 @@ Foretell {4}{R}{R} (During your turn, you may pay {2} and exile this card from y
 			<name>Explosion Shot</name>
 			<text>Explosion Shot deals damage to target player equal to the number of cards in their hand. Exile Explosion Shot suspended with three time counters on it.
 Suspend 3—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may freecast it.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/237.png" num="93">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/234.png" num="93">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4404,7 +4362,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 • Return target nonland permanent to its owner&apos;s hand.
 • Target creature can&apos;t be blocked this turn.
 • Counter target instant or sorcery spell.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/238.png" num="39">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/235.png" num="39">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4421,7 +4379,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 			<name>Plutonian</name>
 			<text>Two Heads — This creature has menace and may block up to one additional creature each combat.
 Underworld Jail — Non-commander cards can&apos;t leave your opponents&apos; graveyards.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/239.png" num="75">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/236.png" num="75">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4439,7 +4397,7 @@ Underworld Jail — Non-commander cards can&apos;t leave your opponents&apos; gr
 			<name>Red Empusa</name>
 			<text>Bloody Roots — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 Bloods you control have &quot;{T}, sacrifice this artifact: Add one mana of any color.&quot;</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/240.png" num="134">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/237.png" num="134">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4461,7 +4419,7 @@ Bloods you control have &quot;{T}, sacrifice this artifact: Add one mana of any 
 • Destroy all artifacts.
 • Destroy all enchantments.
 Then for each mode you chose, each opponent creates a 2/2 white Knight creature token with vigilance.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/241.png" num="18">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/238.png" num="18">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4480,7 +4438,7 @@ Then for each mode you chose, each opponent creates a 2/2 white Knight creature 
 • Pawn a Devil Arm — Create a Treasure token. You lose 1 life.
 • Pick Up A Lead — Draw a card. You lose 2 life.
 • Get An Assist — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. (The token is every creature type.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/242.png" num="8">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/239.png" num="8">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4496,7 +4454,7 @@ Then for each mode you chose, each opponent creates a 2/2 white Knight creature 
 		<card>
 			<name>Mysterious Devil Hunter SSS</name>
 			<text>Changeling (This card is every creature type.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/243.png" num="2">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/240.png" num="2">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4513,7 +4471,7 @@ Then for each mode you chose, each opponent creates a 2/2 white Knight creature 
 			<name>Fifth Hell: Greed</name>
 			<text>At the beginning of your end step, if you lost 5 or more life this turn, create a 2/2 colorless Demon Sand Spirit creature token.
 {B}, Pay 2 life: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/244.png" num="66">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/241.png" num="66">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4530,7 +4488,7 @@ Then for each mode you chose, each opponent creates a 2/2 white Knight creature 
 		<card>
 			<name>EX Calibur</name>
 			<text>Target creature you control deals damage equal to its power to each other creature and each opponent.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/245.png" num="17">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/242.png" num="17">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4546,7 +4504,7 @@ Then for each mode you chose, each opponent creates a 2/2 white Knight creature 
 		<card>
 			<name>Raptor News Network</name>
 			<text>At the beginning of your postcombat main phase, if you lost 5 or more life this turn, gain 5 life. Otherwise, draw a card and lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/246.png" num="76">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/243.png" num="76">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4565,7 +4523,7 @@ Then for each mode you chose, each opponent creates a 2/2 white Knight creature 
 Awakening Tower — Whenever a land card is put into a graveyard from anywhere, create a tapped Blood token.
 Overflow — This creature and other Bloods you control have &quot;{1}, {T}, Sacrifice this artifact: Target player mills three cards.&quot;
 {1}, {T}, Discard a card, Sacrifice this creature: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/247.png" num="22">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/244.png" num="22">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4583,7 +4541,7 @@ Overflow — This creature and other Bloods you control have &quot;{1}, {T}, Sac
 			<name>Morrison, The Broker</name>
 			<text>Tokens you control have &quot;{T}: Add {G}.&quot;
 Choose a Background (You can have a Background as a second commander.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/248.png" num="22">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/245.png" num="22">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4601,7 +4559,7 @@ Choose a Background (You can have a Background as a second commander.)</text>
 			<name>Damned King</name>
 			<text>Whenever you place one or more counters on a creature you control, you may create a colorless 1/1 Soldier artifact creature token and place the same number and kind of counters on it. Do this only once each turn.
 {2}{W}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/249.png" num="5">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/246.png" num="5">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4622,7 +4580,7 @@ Choose a Background (You can have a Background as a second commander.)</text>
 [-10]: Each opponent chooses half of the permanents they control rounded up. Gain control of them. (Permanently.)
 Sparda can be your commander. 
 If your commander has Partner—Devil Hunter, you can include Sparda in your deck and mana of any type can be spent to cast him.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/250.png" num="183">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/247.png" num="183">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4640,7 +4598,7 @@ If your commander has Partner—Devil Hunter, you can include Sparda in your dec
 			<name>SDT Doppelganger</name>
 			<text>Create a token that&apos;s a copy of target creature you control, except it isn&apos;t legendary.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may freecast it from exile.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/251.png" num="5">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/248.png" num="5">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4656,7 +4614,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 		<card>
 			<name>Nell Goldstein, .45 Virtuoso</name>
 			<text>Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/252.png" num="31">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/249.png" num="31">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4675,7 +4633,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 			<text>Flying, lifelink
 Whenever Abigail attacks, defending player discards a card.
 Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1/+1 counter on Abigail.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/253.png" num="12">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/250.png" num="12">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4692,7 +4650,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 		<card>
 			<name>Tateobesu SSS</name>
 			<text>Flying</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/254.png" num="9">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/251.png" num="9">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4709,7 +4667,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 		<card>
 			<name>Damned Pawn SSS</name>
 			<text></text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/255.png" num="17">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/252.png" num="17">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4725,7 +4683,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 		<card>
 			<name>Missile SSS</name>
 			<text>Haste, trample, decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/256.png" num="18">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/253.png" num="18">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4741,7 +4699,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 		<card>
 			<name>Phantom Baby SSS</name>
 			<text></text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/257.png" num="11">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/254.png" num="11">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4758,7 +4716,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 		<card>
 			<name>Chimera Seed</name>
 			<text>{1}, Exile this creature: Put a +1/+1 counter on target creature. It gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/258.png" num="0">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/255.png" num="0">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4774,7 +4732,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 		<card>
 			<name>Protector of Innocence</name>
 			<text>​</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/259.png" num="23">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/256.png" num="23">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4790,7 +4748,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 		<card>
 			<name>Duet in SSS-Major</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/260.png" num="162">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/257.png" num="162">SSS</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4807,7 +4765,7 @@ Whenever a card is put into an opponent&apos;s graveyard from anywhere, put a +1
 			<name>Sower of Chaos Jester</name>
 			<text>When Jester enters, until your next turn, creatures your opponents control attack each combat if able and attack a player other than you if able.
 Whenever an attacking creature dies, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/261.png" num="27">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/258.png" num="27">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4828,7 +4786,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 • Destroy target artifact.
 • This spell deals 4 damage to target creature.
 • Create a Treasure token.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/262.png" num="92">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/259.png" num="92">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4845,7 +4803,7 @@ Choose one. If your rank is A or higher, choose one or more instead.
 			<name>Dante Must Die</name>
 			<text>Enchant creature you control
 When enchanted creature deals combat damage to a player, sacrifice it and attach this Aura to a creature you control. If you do, untap all creatures you control and after this phase, there is an additional combat phase.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/263.png" num="16">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/260.png" num="16">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4862,7 +4820,7 @@ When enchanted creature deals combat damage to a player, sacrifice it and attach
 			<name>Nero, Devoted Protector</name>
 			<text>Whenever Nero enters or attacks, create a Virtuous Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 for each enchantment you control.)
 Whenever an enchanted creature you control deals combat damage to a player, draw a card.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/264.png" num="29">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/261.png" num="29">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4881,7 +4839,7 @@ Whenever an enchanted creature you control deals combat damage to a player, draw
 			<text>Deathtouch
 Take Any Dirty Job — At the beginning of your end step, exile the top card of your library. Until the end of your next turn, you may play that card.
 Payday — Whenever you play a card from exile, create a Treasure token.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/265.png" num="26">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/262.png" num="26">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4899,7 +4857,7 @@ Payday — Whenever you play a card from exile, create a Treasure token.</text>
 			<name>Virtuous SSS</name>
 			<text>Enchant creature
 Enchanted creature gets +1/+1 for each enchantment you control.</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/266.png" num="4">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/263.png" num="4">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4916,7 +4874,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
 			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
 When Lady enters, mill four cards.
 {T}: Choose target artifact card in your graveyard. You may cast that card this turn.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/267.png" num="4">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/264.png" num="4">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4933,7 +4891,7 @@ When Lady enters, mill four cards.
 		<card>
 			<name>Summoned Swords SSS</name>
 			<text></text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/268.png" num="8">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/265.png" num="8">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4950,7 +4908,7 @@ When Lady enters, mill four cards.
 		<card>
 			<name>Damned Bishop</name>
 			<text>Flame Circle — You, permanents you control, and spells you control have &quot;Ward—pay 3 life.&quot; (Whenever one becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/269.png" num="88">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/266.png" num="88">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4970,7 +4928,7 @@ When Lady enters, mill four cards.
 At the beginning of your upkeep, sacrifice Argosax unless you sacrifice a land.
 You may play an additional land on each of your turns.
 Whenever one or more land cards are put into your graveyard from anywhere, draw a card.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/270.png" num="32">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/267.png" num="32">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4987,7 +4945,7 @@ Whenever one or more land cards are put into your graveyard from anywhere, draw 
 		<card>
 			<name>Empusa SSS</name>
 			<text></text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/271.png" num="13">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/268.png" num="13">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5007,7 +4965,7 @@ Whenever one or more land cards are put into your graveyard from anywhere, draw 
 Devil Arm — When Beowulf dies, exile him. While he&apos;s exiled, you may cast his other face.
 ---
 (Back): Devil Arm: Beowulf</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/272_front.png" num="8a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/269_front.png" num="8a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5028,7 +4986,7 @@ Devil Arm — When Beowulf dies, exile him. While he&apos;s exiled, you may cast
 Equip {1}{W}
 ---
 (Front): Holy Fist Beowulf</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/272_back.png" num="8b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/269_back.png" num="8b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5049,7 +5007,7 @@ Icicle Fall — Whenever a creature blocks or becomes blocked by Cerberus, put a
 Devil Arm — When Cerberus dies, exile him. While he&apos;s exiled, you may cast his other face.
 ---
 (Back): Devil Arm: Cerberus</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/273_front.png" num="37a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/270_front.png" num="37a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5070,7 +5028,7 @@ Devil Arm — When Cerberus dies, exile him. While he&apos;s exiled, you may cas
 Equip {1}
 ---
 (Front): Ice Guardian Cerberus</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/273_back.png" num="37b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/270_back.png" num="37b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5087,7 +5045,7 @@ Equip {1}
 			<name>Puppeteer of the Temen-ni-Gru</name>
 			<text>Whenever a spell you control is countered, exiled, or returned to your hand for the first time each turn, draw a card.
 {1}{U}: If it&apos;s your turn, freecast a noncreature spell from your hand. When you do, exile that spell.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/274.png" num="46">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/271.png" num="46">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5103,7 +5061,7 @@ Equip {1}
 		<card>
 			<name>Welcome to Hell!</name>
 			<text>Draw a card and lose 1 life, then repeat this process for each creature (on the battlefield) that was dealt damage this turn.</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/275.png" num="80">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/272.png" num="80">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5123,7 +5081,7 @@ Ignite The Flame! — Whenever a creature you control deals combat damage to a p
 Devil Arm — When Balrog dies, exile him. While he&apos;s exiled, you may cast his other face.
 ---
 (Back): Devil Arm: Balrog</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/276_front.png" num="94a">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/273_front.png" num="94a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5144,7 +5102,7 @@ Devil Arm — When Balrog dies, exile him. While he&apos;s exiled, you may cast 
 Equip {1}
 ---
 (Front): Fist of Chaos Balrog</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/276_back.png" num="94b">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/273_back.png" num="94b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5164,7 +5122,7 @@ Magma Geyser — Creatures you control get +1/+0 for each player that has lost l
 Devil Arm — When Berial dies, exile him. While he&apos;s exiled, you may cast his other face.
 ---
 (Back): Devil Arm: Lucifer</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/277_front.png" num="95a">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/274_front.png" num="95a">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5186,7 +5144,7 @@ Pin-Up — {1}, {T}, Tap equipped creature: Equipped creature deals 1 damage to 
 Equip {2}
 ---
 (Front): Flame Conqueror Berial</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/277_back.png" num="95b">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/274_back.png" num="95b">SSS</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5203,7 +5161,7 @@ Equip {2}
 			<name>Liberating Slash</name>
 			<text>This spell costs {3}{B} less to cast if it targets a permanent that was dealt damage this turn.
 Destroy target creature or planeswalker. Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/278.png" num="71">SSS</set>
+			<set rarity="uncommon" picurl="https://Huitzil37.github.io/sets/SSS-files/img/275.png" num="71">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5220,7 +5178,7 @@ Destroy target creature or planeswalker. Draw a card.</text>
 			<name>Chaos&apos;s Warm Welcome</name>
 			<text>Whenever you cast a spell from anywhere other than your hand, put a chaos counter on this enchantment. 
 At the beginning of your postcombat main phase, add {R} for each chaos counter on this enchantment. You can&apos;t use this mana to cast spells from your hand.</text>
-			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/279.png" num="87">SSS</set>
+			<set rarity="mythic" picurl="https://Huitzil37.github.io/sets/SSS-files/img/276.png" num="87">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5238,7 +5196,7 @@ At the beginning of your postcombat main phase, add {R} for each chaos counter o
 			<text>Stylish (Your rank starts at D.)
 Untap each creature you control. After this main phase, there is an additional combat phase. If your rank is A or higher, until end of turn, creatures you control have haste, vigilance, and indestructible
 Flashback {6}{R}{W}</text>
-			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/280.png" num="179">SSS</set>
+			<set rarity="rare" picurl="https://Huitzil37.github.io/sets/SSS-files/img/277.png" num="179">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5254,7 +5212,7 @@ Flashback {6}{R}{W}</text>
 		<card>
 			<name>Copy SSS</name>
 			<text>(This token can be used to represent a permanent that&apos;s a copy of something else.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/281.png" num="1">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/278.png" num="1">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5269,7 +5227,7 @@ Flashback {6}{R}{W}</text>
 		<card>
 			<name>Arcane Signet</name>
 			<text>{T}: Add one mana of any color in your commander&apos;s color identity.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/282.png" num="35">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/279.png" num="35">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5283,7 +5241,7 @@ Flashback {6}{R}{W}</text>
 		<card>
 			<name>Command Tower</name>
 			<text>{T}: Add one mana of any color in your commander&apos;s color identity.</text>
-			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/283.png" num="40">SSS</set>
+			<set rarity="masterpiece" picurl="https://Huitzil37.github.io/sets/SSS-files/img/280.png" num="40">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5297,7 +5255,7 @@ Flashback {6}{R}{W}</text>
 		<card>
 			<name>Seventh Hell: Lust SSS</name>
 			<text></text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/284.png" num="3">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/281.png" num="3">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5313,7 +5271,7 @@ Flashback {6}{R}{W}</text>
 		<card>
 			<name>Little Guy SSS</name>
 			<text>(You should probably stack the triggers so that the Ride Armor ends up attached to Nero instead.)</text>
-			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/285.png" num="10">SSS</set>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/282.png" num="10">SSS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5325,6 +5283,51 @@ Flashback {6}{R}{W}</text>
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Stylish Ranks SSS</name>
+			<text>​</text>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/283.png" num="5">SSS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Stylish Rank SSS</name>
+			<text>​</text>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/284.png" num="4">SSS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>The Monarch SSS</name>
+			<text>​</text>
+			<set rarity="common" picurl="https://Huitzil37.github.io/sets/SSS-files/img/285.png" num="2">SSS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
 			<token>1</token>
 		</card>
 	</cards>
