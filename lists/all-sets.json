@@ -1,33 +1,8 @@
 ﻿{
     "sets": [
         {
-            "set_code": "DAN",
-            "set_name": "Devil May Cry Commander \u2014 Taste the Blood",
-            "formats": "EDH"
-        },
-        {
-            "set_code": "KYR",
-            "set_name": "Devil May Cry Commander - We Shall Never Surrender",
-            "formats": "EDH"
-        },
-        {
-            "set_code": "LAD",
-            "set_name": "Devil May Cry Commander \u2014 Lock and Load",
-            "formats": "EDH"
-        },
-        {
-            "set_code": "NER",
-            "set_name": "Devil May Cry Commander - Pull My Devil Trigger",
-            "formats": "EDH"
-        },
-        {
             "set_code": "SSS",
             "set_name": "Devil May Cry Commander",
-            "formats": "EDH"
-        },
-        {
-            "set_code": "VER",
-            "set_name": "Devil May Cry Commander \u2014 Bury the Light",
             "formats": "EDH"
         }
     ]
