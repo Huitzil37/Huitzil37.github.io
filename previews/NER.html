@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/NER-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/NER-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>NER visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,347 +181,382 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/NER-files/logo.png" />
-	<img class="preload-hidden" src="/sets/DAN-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KYR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LAD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/NER-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VER-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/NER-files/logo.png" />
+	<img class="preload-hidden" src="../sets/DAN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KYR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LAD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/NER-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SSS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VER-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="NER"><img src="/sets/NER-files/icon.png">Devil May Cry Commander - Pull My Devil Trigger</a>
+		<a class="set-bar" href="../previews/NER"><img src="../sets/NER-files/icon.png">Devil May Cry Commander - Pull My Devil Trigger</a>
 	
-		<a class="set-bar inactive" href="DAN"><img src="/sets/DAN-files/icon.png">Devil May Cry Commander — Taste the Blood</a>
+		<a class="set-bar inactive" href="../previews/DAN"><img src="../sets/DAN-files/icon.png">Devil May Cry Commander — Taste the Blood</a>
 	
-		<a class="set-bar inactive" href="KYR"><img src="/sets/KYR-files/icon.png">Devil May Cry Commander - We Shall Never Surrender</a>
+		<a class="set-bar inactive" href="../previews/KYR"><img src="../sets/KYR-files/icon.png">Devil May Cry Commander - We Shall Never Surrender</a>
 	
-		<a class="set-bar inactive" href="LAD"><img src="/sets/LAD-files/icon.png">Devil May Cry Commander — Lock and Load</a>
+		<a class="set-bar inactive" href="../previews/LAD"><img src="../sets/LAD-files/icon.png">Devil May Cry Commander — Lock and Load</a>
 	
-		<a class="set-bar inactive" href="VER"><img src="/sets/VER-files/icon.png">Devil May Cry Commander — Bury the Light</a>
+		<a class="set-bar inactive" href="../previews/SSS"><img src="../sets/SSS-files/icon.png">Devil May Cry Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/VER"><img src="../sets/VER-files/icon.png">Devil May Cry Commander — Bury the Light</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/NER-files/logo.png">
+		<img class="logo" src="../sets/NER-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\10.png" id="10" data-flag="@X" onclick="openSidebar('10',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\107.png" id="107" data-flag="@X" onclick="openSidebar('107',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="/sets\NER-files\img\23_back.png" alt="/sets\NER-files\img\23_front.png" id="23" data-flag="@XD" onclick="openSidebar('23',false)"><button class="flip-btn" onclick="imgFlip('23')"></button></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\106.png" id="106" data-flag="@X" onclick="openSidebar('106',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\13.png" id="13" data-flag="@X" onclick="openSidebar('13',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\73.png" id="73" data-flag="@X" onclick="openSidebar('73',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\109.png" id="109" data-flag="@X" onclick="openSidebar('109',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\16.png" id="16" data-flag="@X" onclick="openSidebar('16',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\101.png" id="101" data-flag="@X" onclick="openSidebar('101',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="/sets\NER-files\img\24_back.png" alt="/sets\NER-files\img\24_front.png" id="24" data-flag="@XD" onclick="openSidebar('24',false)"><button class="flip-btn" onclick="imgFlip('24')"></button></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\12.png" id="12" data-flag="@X" onclick="openSidebar('12',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\103.png" id="103" data-flag="@X" onclick="openSidebar('103',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\57.png" id="57" data-flag="@X" onclick="openSidebar('57',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="/sets\NER-files\img\26_back.png" alt="/sets\NER-files\img\26_front.png" id="26" data-flag="@XD" onclick="openSidebar('26',false)"><button class="flip-btn" onclick="imgFlip('26')"></button></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\58.png" id="58" data-flag="@X" onclick="openSidebar('58',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\29.png" id="29" data-flag="@X" onclick="openSidebar('29',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\52.png" id="52" data-flag="@X" onclick="openSidebar('52',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\46.png" id="46" data-flag="@X" onclick="openSidebar('46',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\104.png" id="104" data-flag="@X" onclick="openSidebar('104',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\102.png" id="102" data-flag="@X" onclick="openSidebar('102',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\55.png" id="55" data-flag="@X" onclick="openSidebar('55',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\86.png" id="86" data-flag="@X" onclick="openSidebar('86',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\49.png" id="49" data-flag="@X" onclick="openSidebar('49',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\87.png" id="87" data-flag="@X" onclick="openSidebar('87',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\54.png" id="54" data-flag="@X" onclick="openSidebar('54',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\44.png" id="44" data-flag="@X" onclick="openSidebar('44',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\61.png" id="61" data-flag="@X" onclick="openSidebar('61',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\45.png" id="45" data-flag="@X" onclick="openSidebar('45',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\105.png" id="105" data-flag="@X" onclick="openSidebar('105',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\91.png" id="91" data-flag="@X" onclick="openSidebar('91',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\82.png" id="82" data-flag="@X" onclick="openSidebar('82',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\88.png" id="88" data-flag="@X" onclick="openSidebar('88',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\50.png" id="50" data-flag="@X" onclick="openSidebar('50',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\56.png" id="56" data-flag="@X" onclick="openSidebar('56',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\70.png" id="70" data-flag="@X" onclick="openSidebar('70',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\95.png" id="95" data-flag="@X" onclick="openSidebar('95',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\85.png" id="85" data-flag="@X" onclick="openSidebar('85',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\48.png" id="48" data-flag="@X" onclick="openSidebar('48',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\39.png" id="39" data-flag="@X" onclick="openSidebar('39',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\62.png" id="62" data-flag="@X" onclick="openSidebar('62',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\71.png" id="71" data-flag="@X" onclick="openSidebar('71',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\69.png" id="69" data-flag="@X" onclick="openSidebar('69',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\60.png" id="60" data-flag="@X" onclick="openSidebar('60',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\42.png" id="42" data-flag="@X" onclick="openSidebar('42',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\72.png" id="72" data-flag="@X" onclick="openSidebar('72',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\10.png" id="NER_10" data-flag="@X" onclick="openSidebar('NER_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\107.png" id="NER_107" data-flag="@X" onclick="openSidebar('NER_107',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\NER-files\img\23_back.png" alt="sets\NER-files\img\23_front.png" id="NER_23" data-flag="@XD" onclick="openSidebar('NER_23',false)"><button class="flip-btn" onclick="imgFlip('NER_23')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\106.png" id="NER_106" data-flag="@X" onclick="openSidebar('NER_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\13.png" id="NER_13" data-flag="@X" onclick="openSidebar('NER_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\73.png" id="NER_73" data-flag="@X" onclick="openSidebar('NER_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\109.png" id="NER_109" data-flag="@X" onclick="openSidebar('NER_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\16.png" id="NER_16" data-flag="@X" onclick="openSidebar('NER_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\101.png" id="NER_101" data-flag="@X" onclick="openSidebar('NER_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\NER-files\img\24_back.png" alt="sets\NER-files\img\24_front.png" id="NER_24" data-flag="@XD" onclick="openSidebar('NER_24',false)"><button class="flip-btn" onclick="imgFlip('NER_24')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\12.png" id="NER_12" data-flag="@X" onclick="openSidebar('NER_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\103.png" id="NER_103" data-flag="@X" onclick="openSidebar('NER_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\57.png" id="NER_57" data-flag="@X" onclick="openSidebar('NER_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\NER-files\img\26_back.png" alt="sets\NER-files\img\26_front.png" id="NER_26" data-flag="@XD" onclick="openSidebar('NER_26',false)"><button class="flip-btn" onclick="imgFlip('NER_26')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\58.png" id="NER_58" data-flag="@X" onclick="openSidebar('NER_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\29.png" id="NER_29" data-flag="@X" onclick="openSidebar('NER_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\52.png" id="NER_52" data-flag="@X" onclick="openSidebar('NER_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\46.png" id="NER_46" data-flag="@X" onclick="openSidebar('NER_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\104.png" id="NER_104" data-flag="@X" onclick="openSidebar('NER_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\102.png" id="NER_102" data-flag="@X" onclick="openSidebar('NER_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\55.png" id="NER_55" data-flag="@X" onclick="openSidebar('NER_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\86.png" id="NER_86" data-flag="@X" onclick="openSidebar('NER_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\49.png" id="NER_49" data-flag="@X" onclick="openSidebar('NER_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\87.png" id="NER_87" data-flag="@X" onclick="openSidebar('NER_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\54.png" id="NER_54" data-flag="@X" onclick="openSidebar('NER_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\44.png" id="NER_44" data-flag="@X" onclick="openSidebar('NER_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\61.png" id="NER_61" data-flag="@X" onclick="openSidebar('NER_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\45.png" id="NER_45" data-flag="@X" onclick="openSidebar('NER_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\105.png" id="NER_105" data-flag="@X" onclick="openSidebar('NER_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\91.png" id="NER_91" data-flag="@X" onclick="openSidebar('NER_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\82.png" id="NER_82" data-flag="@X" onclick="openSidebar('NER_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\88.png" id="NER_88" data-flag="@X" onclick="openSidebar('NER_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\50.png" id="NER_50" data-flag="@X" onclick="openSidebar('NER_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\56.png" id="NER_56" data-flag="@X" onclick="openSidebar('NER_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\70.png" id="NER_70" data-flag="@X" onclick="openSidebar('NER_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\95.png" id="NER_95" data-flag="@X" onclick="openSidebar('NER_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\85.png" id="NER_85" data-flag="@X" onclick="openSidebar('NER_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\48.png" id="NER_48" data-flag="@X" onclick="openSidebar('NER_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\39.png" id="NER_39" data-flag="@X" onclick="openSidebar('NER_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\62.png" id="NER_62" data-flag="@X" onclick="openSidebar('NER_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\71.png" id="NER_71" data-flag="@X" onclick="openSidebar('NER_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\69.png" id="NER_69" data-flag="@X" onclick="openSidebar('NER_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\60.png" id="NER_60" data-flag="@X" onclick="openSidebar('NER_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\42.png" id="NER_42" data-flag="@X" onclick="openSidebar('NER_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\72.png" id="NER_72" data-flag="@X" onclick="openSidebar('NER_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\89.png" id="89" data-flag="@X" onclick="openSidebar('89',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\83.png" id="83" data-flag="@X" onclick="openSidebar('83',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\59.png" id="59" data-flag="@X" onclick="openSidebar('59',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="/sets\NER-files\img\80_back.png" alt="/sets\NER-files\img\80_front.png" id="80" data-flag="@XD" onclick="openSidebar('80',false)"><button class="flip-btn" onclick="imgFlip('80')"></button></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\53.png" id="53" data-flag="@X" onclick="openSidebar('53',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\90.png" id="90" data-flag="@X" onclick="openSidebar('90',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="/sets\NER-files\img\1_back.png" alt="/sets\NER-files\img\1_front.png" id="1" data-flag="@XD" onclick="openSidebar('1',false)"><button class="flip-btn" onclick="imgFlip('1')"></button></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\14.png" id="14" data-flag="@X" onclick="openSidebar('14',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\79.png" id="79" data-flag="@X" onclick="openSidebar('79',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\43.png" id="43" data-flag="@X" onclick="openSidebar('43',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\81.png" id="81" data-flag="@X" onclick="openSidebar('81',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\89.png" id="NER_89" data-flag="@X" onclick="openSidebar('NER_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\83.png" id="NER_83" data-flag="@X" onclick="openSidebar('NER_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\59.png" id="NER_59" data-flag="@X" onclick="openSidebar('NER_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\NER-files\img\80_back.png" alt="sets\NER-files\img\80_front.png" id="NER_80" data-flag="@XD" onclick="openSidebar('NER_80',false)"><button class="flip-btn" onclick="imgFlip('NER_80')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\53.png" id="NER_53" data-flag="@X" onclick="openSidebar('NER_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\90.png" id="NER_90" data-flag="@X" onclick="openSidebar('NER_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\NER-files\img\1_back.png" alt="sets\NER-files\img\1_front.png" id="NER_1" data-flag="@XD" onclick="openSidebar('NER_1',false)"><button class="flip-btn" onclick="imgFlip('NER_1')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\14.png" id="NER_14" data-flag="@X" onclick="openSidebar('NER_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\79.png" id="NER_79" data-flag="@X" onclick="openSidebar('NER_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\43.png" id="NER_43" data-flag="@X" onclick="openSidebar('NER_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\81.png" id="NER_81" data-flag="@X" onclick="openSidebar('NER_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\100.png" id="100" data-flag="@X" onclick="openSidebar('100',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\64.png" id="64" data-flag="@X" onclick="openSidebar('64',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\15.png" id="15" data-flag="@X" onclick="openSidebar('15',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\93.png" id="93" data-flag="@X" onclick="openSidebar('93',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\11.png" id="11" data-flag="@X" onclick="openSidebar('11',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\92.png" id="92" data-flag="@X" onclick="openSidebar('92',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\47.png" id="47" data-flag="@X" onclick="openSidebar('47',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\7.png" id="7" data-flag="@X" onclick="openSidebar('7',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\8.png" id="8" data-flag="@X" onclick="openSidebar('8',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\68.png" id="68" data-flag="@X" onclick="openSidebar('68',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\51.png" id="51" data-flag="@X" onclick="openSidebar('51',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\98.png" id="98" data-flag="@X" onclick="openSidebar('98',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\99.png" id="99" data-flag="@X" onclick="openSidebar('99',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\0.png" id="0" data-flag="@X" onclick="openSidebar('0',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\94.png" id="94" data-flag="@X" onclick="openSidebar('94',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\108.png" id="108" data-flag="@X" onclick="openSidebar('108',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\100.png" id="NER_100" data-flag="@X" onclick="openSidebar('NER_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\64.png" id="NER_64" data-flag="@X" onclick="openSidebar('NER_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\15.png" id="NER_15" data-flag="@X" onclick="openSidebar('NER_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\93.png" id="NER_93" data-flag="@X" onclick="openSidebar('NER_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\11.png" id="NER_11" data-flag="@X" onclick="openSidebar('NER_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\92.png" id="NER_92" data-flag="@X" onclick="openSidebar('NER_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\47.png" id="NER_47" data-flag="@X" onclick="openSidebar('NER_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\7.png" id="NER_7" data-flag="@X" onclick="openSidebar('NER_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\8.png" id="NER_8" data-flag="@X" onclick="openSidebar('NER_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\68.png" id="NER_68" data-flag="@X" onclick="openSidebar('NER_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\51.png" id="NER_51" data-flag="@X" onclick="openSidebar('NER_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\98.png" id="NER_98" data-flag="@X" onclick="openSidebar('NER_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\99.png" id="NER_99" data-flag="@X" onclick="openSidebar('NER_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\0.png" id="NER_0" data-flag="@X" onclick="openSidebar('NER_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\94.png" id="NER_94" data-flag="@X" onclick="openSidebar('NER_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\108.png" id="NER_108" data-flag="@X" onclick="openSidebar('NER_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
 				<div id="land" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\65.png" id="65" data-flag="@X" onclick="openSidebar('65',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\66.png" id="66" data-flag="@X" onclick="openSidebar('66',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\78.png" id="78" data-flag="@X" onclick="openSidebar('78',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\20.png" id="20" data-flag="@X" onclick="openSidebar('20',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\21.png" id="21" data-flag="@X" onclick="openSidebar('21',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\97.png" id="97" data-flag="@X" onclick="openSidebar('97',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\3.png" id="3" data-flag="@X" onclick="openSidebar('3',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\6.png" id="6" data-flag="@X" onclick="openSidebar('6',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\18.png" id="18" data-flag="@X" onclick="openSidebar('18',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\28.png" id="28" data-flag="@X" onclick="openSidebar('28',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\27.png" id="27" data-flag="@X" onclick="openSidebar('27',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\17.png" id="17" data-flag="@X" onclick="openSidebar('17',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\75.png" id="75" data-flag="@X" onclick="openSidebar('75',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\22.png" id="22" data-flag="@X" onclick="openSidebar('22',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\5.png" id="5" data-flag="@X" onclick="openSidebar('5',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\77.png" id="77" data-flag="@X" onclick="openSidebar('77',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\4.png" id="4" data-flag="@X" onclick="openSidebar('4',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\19.png" id="19" data-flag="@X" onclick="openSidebar('19',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\25.png" id="25" data-flag="@X" onclick="openSidebar('25',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\76.png" id="76" data-flag="@X" onclick="openSidebar('76',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\9.png" id="9" data-flag="@X" onclick="openSidebar('9',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\41.png" id="41" data-flag="@X" onclick="openSidebar('41',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\2.png" id="2" data-flag="@X" onclick="openSidebar('2',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\30.png" id="30" data-flag="@X" onclick="openSidebar('30',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\31.png" id="31" data-flag="@X" onclick="openSidebar('31',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\32.png" id="32" data-flag="@X" onclick="openSidebar('32',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\33.png" id="33" data-flag="@X" onclick="openSidebar('33',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\34.png" id="34" data-flag="@X" onclick="openSidebar('34',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\35.png" id="35" data-flag="@X" onclick="openSidebar('35',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\36.png" id="36" data-flag="@X" onclick="openSidebar('36',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\37.png" id="37" data-flag="@X" onclick="openSidebar('37',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\38.png" id="38" data-flag="@X" onclick="openSidebar('38',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\65.png" id="NER_65" data-flag="@X" onclick="openSidebar('NER_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\66.png" id="NER_66" data-flag="@X" onclick="openSidebar('NER_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\78.png" id="NER_78" data-flag="@X" onclick="openSidebar('NER_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\20.png" id="NER_20" data-flag="@X" onclick="openSidebar('NER_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\21.png" id="NER_21" data-flag="@X" onclick="openSidebar('NER_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\97.png" id="NER_97" data-flag="@X" onclick="openSidebar('NER_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\3.png" id="NER_3" data-flag="@X" onclick="openSidebar('NER_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\6.png" id="NER_6" data-flag="@X" onclick="openSidebar('NER_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\18.png" id="NER_18" data-flag="@X" onclick="openSidebar('NER_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\28.png" id="NER_28" data-flag="@X" onclick="openSidebar('NER_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\27.png" id="NER_27" data-flag="@X" onclick="openSidebar('NER_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\17.png" id="NER_17" data-flag="@X" onclick="openSidebar('NER_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\75.png" id="NER_75" data-flag="@X" onclick="openSidebar('NER_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\22.png" id="NER_22" data-flag="@X" onclick="openSidebar('NER_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\5.png" id="NER_5" data-flag="@X" onclick="openSidebar('NER_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\77.png" id="NER_77" data-flag="@X" onclick="openSidebar('NER_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\4.png" id="NER_4" data-flag="@X" onclick="openSidebar('NER_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\19.png" id="NER_19" data-flag="@X" onclick="openSidebar('NER_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\25.png" id="NER_25" data-flag="@X" onclick="openSidebar('NER_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\76.png" id="NER_76" data-flag="@X" onclick="openSidebar('NER_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\9.png" id="NER_9" data-flag="@X" onclick="openSidebar('NER_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\41.png" id="NER_41" data-flag="@X" onclick="openSidebar('NER_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\2.png" id="NER_2" data-flag="@X" onclick="openSidebar('NER_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\30.png" id="NER_30" data-flag="@X" onclick="openSidebar('NER_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\31.png" id="NER_31" data-flag="@X" onclick="openSidebar('NER_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\32.png" id="NER_32" data-flag="@X" onclick="openSidebar('NER_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\33.png" id="NER_33" data-flag="@X" onclick="openSidebar('NER_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\34.png" id="NER_34" data-flag="@X" onclick="openSidebar('NER_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\35.png" id="NER_35" data-flag="@X" onclick="openSidebar('NER_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\36.png" id="NER_36" data-flag="@X" onclick="openSidebar('NER_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\37.png" id="NER_37" data-flag="@X" onclick="openSidebar('NER_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\38.png" id="NER_38" data-flag="@X" onclick="openSidebar('NER_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\67.png" id="67" data-flag="@X" onclick="openSidebar('67',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\74.png" id="74" data-flag="@X" onclick="openSidebar('74',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\63.png" id="63" data-flag="@X" onclick="openSidebar('63',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\40.png" id="40" data-flag="@X" onclick="openSidebar('40',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\96.png" id="96" data-flag="@X" onclick="openSidebar('96',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NER-files\img\84.png" id="84" data-flag="@X" onclick="openSidebar('84',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\67.png" id="NER_67" data-flag="@X" onclick="openSidebar('NER_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\74.png" id="NER_74" data-flag="@X" onclick="openSidebar('NER_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\63.png" id="NER_63" data-flag="@X" onclick="openSidebar('NER_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\40.png" id="NER_40" data-flag="@X" onclick="openSidebar('NER_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\96.png" id="NER_96" data-flag="@X" onclick="openSidebar('NER_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NER-files\img\84.png" id="NER_84" data-flag="@X" onclick="openSidebar('NER_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NER_e" data-flag="@E" onclick="openSidebar('NER_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NER_er" data-flag="@E" onclick="openSidebar('NER_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -527,19 +569,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -574,13 +708,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -734,16 +871,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -753,7 +890,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>
