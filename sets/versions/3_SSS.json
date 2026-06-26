@@ -8,11 +8,11 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": "Lucia, Forlorn Protector",
+            "card_name": "Lucia Showcase",
             "color": "WB",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Demon Bird Soldier",
-            "number": 0,
+            "number": 213,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Lifelink, stylish\n[i]Deeper Than Blood[/i] \u2014 Whenever another creature you control dies during your turn, [if you sacrificed it,] you may pay 3 life. If you do, return it from the graveyard to the battlefield with a finality counter on it.\nPartner\u2014Devil Hunter",
@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "Patched (no longer makes token copy, returns with finality counter instead)"
+            "notes": "!exportname Lucia Showcase"
         },
         {
             "card_name": "Order Basilisk",
@@ -1775,11 +1775,11 @@
             "notes": "New\n\nNero"
         },
         {
-            "card_name": "Vergil, Alpha and Omega",
+            "card_name": "Vergil Showcase",
             "color": "UB",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Demon Human Samurai",
-            "number": 0,
+            "number": 209,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Haste, stylish\n[i]Blistering Swords[/i] \u2014 Whenever you attack, [if Vergil is attacking,] each player mills a card. For each land card in target defending player's graveyard, create a tapped and attacking 1/1 blue Illusion creature token. Exile it at the end of combat. \nPartner\u2014Devil Hunter",
@@ -1793,18 +1793,18 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "Patched"
+            "notes": "!exportname Vergil Showcase"
         },
         {
-            "card_name": "Dante, Son of Sparda",
+            "card_name": "Dante Showcase",
             "color": "WR",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Human Demon Mercenary",
-            "number": 0,
+            "number": 216,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Haste, stylish \nWhenever Dante attacks, choose one. If your rank is A or higher, you may choose one or more. \n[i]Taunt[/i] \u2014 Goad target creature.\n[i]Stinger [/i]\u2014 Dante gets +1/+0 and gains first strike this turn.\n[i]High Time[/i] \u2014 Launch target nonlegendary creature.\nPartner\u2014Devil Hunter",
-            "flavor_text": "[i]\u201cLet's rock!\u201d[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -1814,14 +1814,14 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "Patched"
+            "notes": "!exportname Dante Showcase"
         },
         {
-            "card_name": "Nico, Artisan of Arms",
+            "card_name": "Nico Showcase",
             "color": "UG",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Human Artificer",
-            "number": 0,
+            "number": 217,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Haste, stylish\n[i]\u201cBehold my genius!\u201d [/i]\u2014 {T}, sacrifice an artifact: Return another target artifact card [with equal or lesser mana value] from your graveyard to your hand. Put a +1/+1 counter on a number of creatures up to the difference in their mana values.\nPartner\u2014Devil Hunter",
@@ -1835,14 +1835,14 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "Patched (Redesigned)"
+            "notes": "!exportname Nico Showcase"
         },
         {
-            "card_name": "V, The Mysterious One",
+            "card_name": "V Showcase",
             "color": "BG",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 0,
+            "number": 215,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Haste, stylish\n[i]The Book[/i] \u2014 {T}: Mill three cards. \n[i]Promotion [/i]\u2014 {T}: If your rank is A or higher, cast a creature card from your graveyard as though it had delve. \nPartner\u2014Devil Hunter",
@@ -1856,14 +1856,14 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": ""
+            "notes": "!exportname V Showcase"
         },
         {
-            "card_name": "Nero, Upstart Hunter",
+            "card_name": "Nero Showcase",
             "color": "RG",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Human Demon Berserker",
-            "number": 0,
+            "number": 211,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "Haste, reach, stylish\n[i]Devil Breaker[/i] - Whenever Nero attacks, you may freecast an Equipment spell or spell that targets only him [if its mana value is less than his power]. If it was a permanent spell, when it enters, attach it to Nero, and at the beginning of your next end step you draw a card and sacrifice that permanent.\nPartner\u2014Devil Hunter",
@@ -1877,14 +1877,14 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": "Patched (Lost Trample, gained Reach, has Breakers instead of MAX-Act)"
+            "notes": "!exportname Nero Showcase"
         },
         {
-            "card_name": "Kyrie, Voice of Hope",
+            "card_name": "Kyrie Showcase",
             "color": "WG",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Human Bard",
-            "number": 0,
+            "number": 212,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Stylish\n[i]Hymn to Sparda[/i] \u2014 Whenever a non-Citizen creature you control becomes the only target of a spell or ability, you may pay {GW}. If you do, create a 1/1 green and white Citizen creature token. When you do, copy that spell or ability. The copy targets that token. [You may do this only once each turn.]\nPartner\u2014Devil Hunter",
@@ -1898,14 +1898,14 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": ""
+            "notes": "!exportname Kyrie Showcase"
         },
         {
-            "card_name": "Trish, Fiendish Femme Fatale",
+            "card_name": "Trish Showcase",
             "color": "BR",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Demon Rogue",
-            "number": 0,
+            "number": 210,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Haste, stylish\n[i]Electrical Dance[/i] \u2014 {1}{BR}. {Q}, pay 3 life: Choose three targets. If your rank is A or higher, you may choose up to two additional targets. Trish deals X damage divided evenly between them, rounded down, where X is equal to the highest amount of life lost by a player this turn. \nPartner\u2014Devil Hunter",
@@ -1919,7 +1919,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "!exportname Trish Showcase"
         },
         {
             "card_name": "Brontomancer",
@@ -1964,11 +1964,11 @@
             "notes": ""
         },
         {
-            "card_name": "Credo, Holy Knight",
+            "card_name": "Credo Showcase",
             "color": "WU",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Demon Knight",
-            "number": 0,
+            "number": 208,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Ward {2}, vigilance, stylish\n[i]Guard Captain[/i] \u2014 Whenever you attack, put a shield counter on target creature. If your rank is A or higher, untap it and put a +1/+1 and a vigilance counter on it as well. At the beginning of the next end step, remove a shield counter from that creature. \nPartner\u2014Devil Hunter",
@@ -1982,7 +1982,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "Patched (Aegis Shield costs 1 and grants SR if not your turn)"
+            "notes": "!exportname Credo Showcase"
         },
         {
             "card_name": "Sinister Devil Trigger",
@@ -4244,11 +4244,11 @@
             "notes": ""
         },
         {
-            "card_name": "Lady, Walking Arsenal",
+            "card_name": "Lady Showcase",
             "color": "UR",
-            "rarity": "mythic",
+            "rarity": "special",
             "type": "Legendary Creature \u2014 Human Gunslinger",
-            "number": 0,
+            "number": 214,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Reach, stylish\n[i]Double Barrels[/i] \u2014 Whenever you cast a noncreature spell, you may exile a noncreature, nonland card with equal or lesser mana value from your hand. [You may do this only once each turn.] The exiled card becomes plotted. \nPartner\u2014Devil Hunter",
@@ -4262,7 +4262,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": ""
+            "notes": "!exportname Lady Showcase"
         },
         {
             "card_name": "The Demon's Legacy",

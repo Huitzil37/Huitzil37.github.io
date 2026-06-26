@@ -1167,6 +1167,26 @@
         "card_name": "e"
     },
     {
+        "card_name": "Chimera Seed",
+        "number": 0,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "255"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Devil Bringer",
         "number": 114,
         "shape": "normal",
@@ -1368,16 +1388,36 @@
         "position": "257"
     },
     {
-        "card_name": "e"
+        "card_name": "Credo Showcase",
+        "number": 208,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "92"
     },
     {
-        "card_name": "e"
+        "card_name": "Vergil Showcase",
+        "number": 209,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "83"
     },
     {
-        "card_name": "e"
+        "card_name": "Trish Showcase",
+        "number": 210,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "89"
     },
     {
-        "card_name": "e"
+        "card_name": "Nero Showcase",
+        "number": 211,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "87"
     },
     {
         "card_name": "Sefirot Puppeteer Hosanna",
@@ -1386,6 +1426,26 @@
         "set": "SSS",
         "rotated": false,
         "position": "188"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kyrie Showcase",
+        "number": 212,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "88"
     },
     {
         "card_name": "er"
@@ -1491,7 +1551,12 @@
         "position": "140"
     },
     {
-        "card_name": "e"
+        "card_name": "Lady Showcase",
+        "number": 214,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "200"
     },
     {
         "card_name": "I Need More Power",
@@ -1545,7 +1610,12 @@
         "position": "277"
     },
     {
-        "card_name": "e"
+        "card_name": "Nico Showcase",
+        "number": 217,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "85"
     },
     {
         "card_name": "The Demon's Legacy",
@@ -1559,7 +1629,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "V Showcase",
+        "number": 215,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "86"
     },
     {
         "card_name": "Agni and Rudra",
@@ -1568,6 +1643,31 @@
         "set": "SSS",
         "rotated": false,
         "position": "172"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lucia Showcase",
+        "number": 213,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dante Showcase",
+        "number": 216,
+        "shape": "normal",
+        "set": "SSS",
+        "rotated": false,
+        "position": "84"
     },
     {
         "card_name": "e"
